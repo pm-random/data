@@ -1,0 +1,365 @@
+[
+  {
+    "title": "Announced, not yet in the files",
+    "flags": ["note"],
+    "characters": []
+  },
+  {
+    "title": "Current Version (playable)",
+    "flags": ["note"],
+    "characters": [
+      {
+        "name": "Parker (Youngster)",
+        "since": "2020-06-25",
+        "images": [
+          "images/characters/ch0074_00_tanpan_1024.ktx.png"
+        ],
+        "note": "Teams up with the player and James in one of the Double Trouble Special Event quests"
+      }
+    ]
+  },
+  {
+    "title": "Current Version (non-playable)",
+    "flags": ["note"],
+    "characters": [
+      {
+        "name": "Darach",
+        "since": "2020-04-27",
+        "images": [
+          "images/characters/ch0159_00_kokuran_1024.ktx.png"
+        ],
+        "note": "Appears in Chapter 27 of the Main Story<br>Appears in the <a href='https://bulbapedia.bulbagarden.net/wiki/List_of_story_events_in_Pok%C3%A9mon_Masters_EX#Family_Ties'>Family Ties</a> story event<br>s one of the Battle Villa bosses<br>e for even more time than Mallow (391 days)"
+      },
+      {
+        "name": "Ryuki",
+        "images": [
+          "images/characters/ch0190_00_ryuki_1024.ktx.png"
+        ],
+        "since": "2020-07-29",
+        "note": "Appears in the <a href='https://bulbapedia.bulbagarden.net/wiki/List_of_story_events_in_Pok%C3%A9mon_Masters_EX#Summer_Superstars'>Summer Superstars</a> story event, with Turtonator"
+      },
+      {
+        "name": "Matt",
+        "images": [
+          "images/characters/renders/matt.png"
+        ],
+        "since": "2021-05-27",
+        "note": "Appears in the <a href='https://bulbapedia.bulbagarden.net/wiki/List_of_story_events_in_Pok%C3%A9mon_Masters_EX#Masters_of_Land_and_Sea'>Masters of Land and Sea</a> story event<br>No voicelines"
+      },
+      {
+        "name": "Shelly",
+        "images": [
+          "images/characters/renders/shelly.png"
+        ],
+        "since": "2021-05-27",
+        "note": "Appears in the <a href='https://bulbapedia.bulbagarden.net/wiki/List_of_story_events_in_Pok%C3%A9mon_Masters_EX#Masters_of_Land_and_Sea'>Masters of Land and Sea</a> story event<br>No voicelines"
+      },
+      {
+        "name": "Tabitha",
+        "images": [
+          "images/characters/renders/tabitha.png"
+        ],
+        "since": "2021-05-27",
+        "note": "Appears in the <a href='https://bulbapedia.bulbagarden.net/wiki/List_of_story_events_in_Pok%C3%A9mon_Masters_EX#Masters_of_Land_and_Sea'>Masters of Land and Sea</a> story event<br>No voicelines"
+      },
+      {
+        "name": "Courtney",
+        "images": [
+          "images/characters/renders/courtney.png"
+        ],
+        "since": "2021-05-27",
+        "note": "Appears in the <a href='https://bulbapedia.bulbagarden.net/wiki/List_of_story_events_in_Pok%C3%A9mon_Masters_EX#Masters_of_Land_and_Sea'>Masters of Land and Sea</a> story event<br>No voicelines"
+      },
+      {
+        "name": "Drasna",
+        "since": "2020-07-29",
+        "note": "Listed in the db/master/pb/FieldTalkVoice.pb file as ch0155_00_dracaena<br>No model, no voicelines"
+      },
+      {
+        "name": "Paulo",
+        "since": "2019-07-25",
+        "images": [
+          "images/characters/ch0064_00_rival_1024.ktx.png"
+        ]
+      },
+      {
+        "name": "Professor Bellis",
+        "since": "2019-07-25",
+        "images": [
+          "images/characters/renders/professor-bellis.png"
+        ]
+      },
+      {
+        "name": "Ace Trainer ♂ (SM/USUM)",
+        "since": "2019-07-25",
+        "images": [
+          "images/characters/ch0069_00_elitem_1024.ktx.png"
+        ]
+      },
+      {
+        "name": "Ace Trainer ♀",
+        "since": "2019-07-25",
+        "images": [
+          "images/characters/ch0070_00_elitef_1024.ktx.png"
+        ]
+      },
+      {
+        "name": "Beauty",
+        "since": "2019-07-25",
+        "images": [
+          "images/characters/ch0071_00_otona_1024.ktx.png"
+        ]
+      },
+      {
+        "name": "Swimmer ♂",
+        "since": "2019-07-25",
+        "images": [
+          "images/characters/ch0072_00_kaipan_1024.ktx.png"
+        ]
+      },
+      {
+        "name": "Black Belt",
+        "since": "2019-07-25",
+        "images": [
+          "images/characters/ch0073_00_karate_1024.ktx.png"
+        ]
+      },
+      {
+        "name": "Youngster",
+        "since": "2019-07-25",
+        "images": [
+          "images/characters/ch0074_00_tanpan_1024.ktx.png"
+        ]
+      },
+      {
+        "name": "Swimmer ♀",
+        "since": "2019-07-25",
+        "images": [
+          "images/characters/ch0075_00_bikini_1024.ktx.png"
+        ]
+      },
+      {
+        "name": "Collector",
+        "since": "2019-07-25",
+        "images": [
+          "images/characters/ch0076_00_collector_1024.ktx.png"
+        ]
+      },
+      {
+        "name": "Pokéfan",
+        "since": "2019-07-25",
+        "images": [
+          "images/characters/ch0077_00_daisukim_1024.ktx.png"
+        ]
+      },
+      {
+        "name": "Ranger",
+        "since": "2019-07-25",
+        "images": [
+          "images/characters/ch0078_00_rangerf_1024.ktx.png"
+        ]
+      },
+      {
+        "name": "Lass",
+        "since": "2019-07-25",
+        "images": [
+          "images/characters/ch0079_00_miniskirt_1024.ktx.png"
+        ]
+      },
+      {
+        "name": "Hiker",
+        "since": "2019-07-25",
+        "images": [
+          "images/characters/ch0080_00_yamaotoko_1024.ktx.png"
+        ]
+      },
+      {
+        "name": "Preschooler",
+        "since": "2019-07-25",
+        "images": [
+          "images/characters/ch0081_00_enjif_1024.ktx.png"
+        ]
+      },
+      {
+        "name": "Street Thug",
+        "since": "2019-07-25",
+        "images": [
+          "images/characters/ch0082_00_kowai_1024.ktx.png"
+        ]
+      },
+      {
+        "name": "Punk Girl",
+        "since": "2019-07-25",
+        "images": [
+          "images/characters/ch0083_00_badgirl_1024.ktx.png"
+        ]
+      },
+      {
+        "name": "Scientist",
+        "since": "2019-07-25",
+        "images": [
+          "images/characters/ch0084_00_kenkyuin_1024.ktx.png"
+        ]
+      },
+      {
+        "name": "Rising Star",
+        "since": "2019-07-25",
+        "images": [
+          "images/characters/ch0085_00_hopef_1024.ktx.png"
+        ]
+      },
+      {
+        "name": "Camper",
+        "since": "2019-07-25",
+        "images": [
+          "images/characters/ch0086_00_campm_1024.ktx.png"
+        ]
+      },
+      {
+        "name": "Trista",
+        "since": "2019-07-25",
+        "images": [
+          "images/characters/renders/trista.png"
+        ]
+      },
+      {
+        "name": "Tricia",
+        "since": "2019-07-25",
+        "images": [
+          "images/characters/renders/tricia.png"
+        ]
+      },
+      {
+        "name": "Trinnia",
+        "since": "2019-07-25",
+        "images": [
+          "images/characters/renders/trinnia.png"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "1.0.0 / Soft Launch only",
+    "flags": ["note"],
+    "characters": [
+      {
+        "name": "Misty (FRLG)",
+        "since": "2019-07-25",
+        "images": [
+          "images/characters/beta/misty-frlg.png",
+          "images/characters/beta/Tx_ch0110_01_kasumi_mindscape00.ktx.png"
+        ]
+      },
+      {
+        "name": "Cheren (BW)",
+        "since": "2019-07-25",
+        "images": [
+          "images/characters/beta/ch0014_00_cheren_1024.ktx.png",
+          "images/characters/beta/Tx_ch0014_00_cheren_mindscape00.ktx.png"
+        ]
+      },
+      {
+        "name": "Anabel",
+        "since": "2019-07-25",
+        "note": "Listed in the db/master/pb/FieldTalkVoice.pb file as ch0178_00_lira<br>No model, no voicelines"
+      },
+      {
+        "name": "Looker",
+        "since": "2019-07-25",
+        "note": "Listed in the db/master/pb/FieldTalkVoice.pb file as ch0218_00_handsome<br>No model, no voicelines"
+      },
+      {
+        "name": "Camilla (ch0105_00_rival2)",
+        "since": "2019-07-25",
+        "images": [
+          "images/characters/beta/ch0105_00_rival2_1024.ktx.png",
+          "images/characters/beta/Tx_ch0105_00_rival2_mindscape00.ktx.png"
+        ],
+        "note": "<a href='https://www.youtube.com/watch?v=IlXkXBCiTtY'>English Voicelines</a><br><a href='https://www.youtube.com/watch?v=_8p5qCqM6N8'>Japanese Voicelines</a>"
+      },
+      {
+        "name": "Unknown girl",
+        "since": "2019-07-25",
+        "images": [
+          "images/characters/beta/s000_tex_20.ktx.png"
+        ]
+      },
+      {
+        "name": "Red",
+        "since": "2019-07-25",
+        "images": [
+          "images/characters/beta/deck_04.ktx.png"
+        ],
+        "note": "Used in an early version of the Gear menu (ui/image/Dialog/Deck/deck_04.ktx)"
+      },
+      {
+        "name": "Red (ch0000_01_red)",
+        "since": "2019-07-25",
+        "images": [
+          "images/characters/beta/ch0000_01_red_1024.ktx.png",
+          "images/characters/beta/Tx_ch0000_01_red_mindscape00.ktx.png"
+        ],
+        "note": "Model folder with ActorsConfig.json file<br>No model, no voicelines"
+      },
+      {
+        "name": "Red (ch0000_02_red)",
+        "since": "2019-07-25",
+        "note": "Model folder with ActorsConfig.json file<br>No model, no voicelines"
+      },
+      {
+        "name": "Brock (ch0015_51_takeshi)",
+        "since": "2019-07-25",
+        "note": "Model folder with ActorsConfig.json file<br>No model, no voicelines"
+      },
+      {
+        "name": "Ace Trainer ♂ (ORAS)",
+        "since": "2019-07-25",
+        "images": [
+          "images/characters/beta/ace-trainer-oras.png"
+        ]
+      },
+      {
+        "name": "ch9999_00_common",
+        "since": "2019-07-25",
+        "images": [
+          "images/characters/beta/common.png"
+        ],
+        "note": "The humanoid model present in this <a href='https://mega.nz/file/ME0wQB6S#VtbgwGDXNOH6UJWS_YE94jJO2J-oytYGMlyhOv83pdQ'>unused scout video</a>"
+      }
+    ]
+  },
+  {
+    "title": "<a href='https://www.youtube.com/watch?v=5LYyycD0YPA'><h3>Animated Trailer</h3></a>",
+    "flags": [],
+    "characters": [
+      {
+        "name": "Archer, Giovanni (FRLG), Ariana",
+        "since": "2019-06-27",
+        "images": [
+          "images/characters/trailer/team-rocket.png"
+        ]
+      },
+      {
+        "name": "Hugh",
+        "since": "2019-06-27",
+        "images": [
+          "images/characters/trailer/rivals.png"
+        ]
+      },
+      {
+        "name": "Chili, Cilan, Cress",
+        "since": "2019-06-27",
+        "images": [
+          "images/characters/trailer/chili-cilan-cress.png"
+        ]
+      },
+      {
+        "name": "Palmer",
+        "since": "2019-06-27",
+        "images": [
+          "images/characters/trailer/sinnoh-frontier.png"
+        ]
+      }
+    ]
+  }
+]
