@@ -26,7 +26,8 @@
         "name": "Darach",
         "since": "2020-04-27",
         "images": [
-          "images/characters/ch0159_00_kokuran_1024.ktx.png"
+          "images/characters/ch0159_00_kokuran_1024.ktx.png",
+          "images/mindscapes/Tx_ch0159_00_kokuran_mindscape00.ktx.png"
         ],
         "note": "Appears in Chapter 27 of the Main Story<br>Appears in the <a href='https://bulbapedia.bulbagarden.net/wiki/List_of_story_events_in_Pok%C3%A9mon_Masters_EX#Family_Ties'>Family Ties</a> story event<br>Is one of the Battle Villa bosses<br>Unobtainable for even more time than Mallow (391 days)"
       },
@@ -79,7 +80,8 @@
         "name": "Paulo",
         "since": "2019-07-25",
         "images": [
-          "images/characters/ch0064_00_rival_1024.ktx.png"
+          "images/characters/ch0064_00_rival_1024.ktx.png",
+          "images/mindscapes/Tx_ch0064_00_rival_mindscape00.ktx.png"
         ]
       },
       {
