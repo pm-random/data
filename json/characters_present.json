@@ -241,7 +241,8 @@
     ]
   },
   {
-    "title": "1.0.0 / Soft Launch only",
+    "title": "1.0.0 / Soft Launch",
+    "subtitle": "Deleted in 1.2.0",
     "flags": ["note"],
     "characters": [
       {
