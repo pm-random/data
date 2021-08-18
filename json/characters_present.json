@@ -1,8 +1,14 @@
 [
   {
     "title": "Announced, not yet in the files",
-    "flags": ["note"],
-    "characters": []
+    "flags": [],
+    "characters": [
+      {
+        "name": "N (Anniversary 2021)",
+        "since": "2021-08-18",
+        "images": ["images/characters/trailer/n.png"]
+      }
+    ]
   },
   {
     "title": "Current Version (playable)",
@@ -332,7 +338,7 @@
     ]
   },
   {
-    "title": "<a href='https://www.youtube.com/watch?v=5LYyycD0YPA'><h3>Animated Trailer</h3></a>",
+    "title": "<a href='https://www.youtube.com/watch?v=5LYyycD0YPA'><h3>Pokémon Masters Animated Trailer</h3></a>",
     "flags": [],
     "characters": [
       {
@@ -362,6 +368,18 @@
         "images": [
           "images/characters/trailer/sinnoh-frontier.png"
         ]
+      }
+    ]
+  },
+  {
+    "title": "<a href='https://www.youtube.com/watch?v=kdja9m4YlT4'><h3>Pokémon Presents 18.8.2021</h3></a>",
+    "flags": ["note"],
+    "characters": [
+      {
+        "name": "Rose",
+        "since": "2021-08-18",
+        "note": "On the very left of the picture",
+        "images": ["images/characters/trailer/villains.png"]
       }
     ]
   }

@@ -206,7 +206,6 @@
       "Gordie",
       "Kabu",
       "Melony",
-      "Rose",
       "Oleana",
       "Sordward",
       "Shielbert",
@@ -226,8 +225,11 @@
   {
     "name": "Legends: Arceus",
     "characters": [
-      "Male Protagonist",
-      "Female Protagonist"
+      "Rei (Male Protagonist)",
+      "Akari (Female Protagonist)",
+      "Professor Laventon",
+      "Cyllene",
+      "Kamado"
     ]
   }
 ]
