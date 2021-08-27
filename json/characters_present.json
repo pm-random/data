@@ -1,12 +1,38 @@
 [
   {
-    "title": "Announced, not yet in the files",
+    "title": "<a href='https://pokemonmasters-game.com/en-US/announcements/Other_3070_4W_1'><h3>Dev Letter 24</h3></a>",
     "flags": [],
     "characters": [
       {
-        "name": "N (Anniversary 2021)",
+        "name": "Rocket Grunts",
+        "since": "2021-08-26",
+        "images": ["images/characters/rocket-grunts.png"]
+      }
+    ]
+  },
+  {
+    "title": "<a href='https://youtu.be/QRNQe4Jpy_g?t=52'><h3>Two-Year Anniversary Celebration Trailer</h3></a>",
+    "flags": ["note"],
+    "characters": [
+      {
+        "name": "Allister",
+        "since": "2021-08-26",
+        "images": [
+          "images/characters/trailer/allister.png"  
+        ],
+        "note": "On the right of the picture"
+      }
+    ]
+  },
+  {
+    "title": "<a href='https://www.youtube.com/watch?v=kdja9m4YlT4'><h3>Pokémon Presents 18.8.2021</h3></a>",
+    "flags": ["note"],
+    "characters": [
+      {
+        "name": "Rose",
         "since": "2021-08-18",
-        "images": ["images/characters/trailer/n.png"]
+        "note": "On the very left of the picture",
+        "images": ["images/characters/trailer/villains.png"]
       }
     ]
   },
@@ -252,14 +278,6 @@
     "flags": ["note"],
     "characters": [
       {
-        "name": "Misty (FRLG)",
-        "since": "2019-07-25",
-        "images": [
-          "images/characters/beta/misty-frlg.png",
-          "images/mindscapes/beta/Tx_ch0110_01_kasumi_mindscape00.ktx.png"
-        ]
-      },
-      {
         "name": "Cheren (BW)",
         "since": "2019-07-25",
         "images": [
@@ -368,18 +386,6 @@
         "images": [
           "images/characters/trailer/sinnoh-frontier.png"
         ]
-      }
-    ]
-  },
-  {
-    "title": "<a href='https://www.youtube.com/watch?v=kdja9m4YlT4'><h3>Pokémon Presents 18.8.2021</h3></a>",
-    "flags": ["note"],
-    "characters": [
-      {
-        "name": "Rose",
-        "since": "2021-08-18",
-        "note": "On the very left of the picture",
-        "images": ["images/characters/trailer/villains.png"]
       }
     ]
   }
