@@ -15,27 +15,25 @@
   },
   {
     "title": "<a href='https://youtu.be/QRNQe4Jpy_g?t=52'><h3>Two-Year Anniversary Celebration Trailer</h3></a>",
-    "flags": ["note"],
+    "flags": [],
     "characters": [
       {
         "name": "Allister",
         "since": "2021-08-26",
         "images": [
-          "images/characters/trailer/allister.png"  
-        ],
-        "note": "On the right of the picture"
+          "images/characters/trailer/allister-crop.png"  
+        ]
       }
     ]
   },
   {
     "title": "<a href='https://www.youtube.com/watch?v=kdja9m4YlT4'><h3>Pokémon Presents 18.8.2021</h3></a>",
-    "flags": ["note"],
+    "flags": [],
     "characters": [
       {
         "name": "Rose",
         "since": "2021-08-18",
-        "note": "On the very left of the picture",
-        "images": ["images/characters/trailer/villains.png"]
+        "images": ["images/characters/trailer/rose-crop.png"]
       }
     ]
   },
