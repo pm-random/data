@@ -1,12 +1,15 @@
 [
   {
-    "title": "<a href='https://pokemonmasters-game.com/en-US/announcements/Other_3070_4W_1'><h3>Dev Letter 24</h3></a>",
+    "title": "<h3><a href='https://pokemonmasters-game.com/en-US/announcements/Other_3070_4W_1'><h3>Dev Letter 24</a> and Official Twitter</h3>",
     "flags": [],
     "characters": [
       {
         "name": "Rocket Grunts",
         "since": "2021-08-26",
-        "images": ["images/characters/rocket-grunts.png"]
+        "images": [
+          "images/characters/announcement/rocket-grunts.png",
+          "images/characters/announcement/rocket-grunts-ow.jpeg"
+        ]
       }
     ]
   },
