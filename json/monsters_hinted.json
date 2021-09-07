@@ -4,7 +4,8 @@
     "monsters": [
       {
         "name": "Mega Mewtwo Y",
-        "images": ["images/monsters/announcement/mega-mewtwo-y-crop.png", "images/monsters/announcement/mega-mewtwo-y.jpeg"]
+        "images": ["images/monsters/announcement/mega-mewtwo-y-crop.png", "images/monsters/announcement/mega-mewtwo-y.jpeg"],
+        "since": "2021-08-18"
       }
     ]
   },
@@ -14,39 +15,48 @@
       {
         "name": "pm0725_12_d",
         "images": ["images/monsters/pm0000_00_Body.ktx.png"],
-        "note": "A square textured with Ash-Greninja's artwork"
+        "note": "A square textured with Ash-Greninja's artwork",
+        "since": "2019-07-25"
       },
       {
         "name": "Ash-Greninja (pm0725_13_gekkougasatoshi)",
-        "images": ["images/monsters/renders/ash-greninja.png"]
+        "images": ["images/monsters/renders/ash-greninja.png"],
+        "since": "2019-07-25"
       },
       {
         "name": "Hoopa Unbound",
-        "images": ["images/monsters/renders/hoopa-unbound.png"]
+        "images": ["images/monsters/renders/hoopa-unbound.png"],
+        "since": "2019-07-25"
       },
       {
         "name": "Blaziken ♀",
-        "images": ["images/monsters/renders/blaziken.png"]
+        "images": ["images/monsters/renders/blaziken.png"],
+        "since": "2019-07-25"
       },
       {
         "name": "Mega Blaziken",
-        "images": ["images/monsters/renders/mega-blaziken.png"]
+        "images": ["images/monsters/renders/mega-blaziken.png"],
+        "since": "2019-07-25"
       },
       {
         "name": "Meditite ♂",
-        "images": ["images/monsters/renders/meditite.png"]
+        "images": ["images/monsters/renders/meditite.png"],
+        "since": "2019-07-25"
       },
       {
         "name": "Garchomp ♂",
-        "images": ["images/monsters/renders/garchomp.png"]
+        "images": ["images/monsters/renders/garchomp.png"],
+        "since": "2019-07-25"
       },
       {
         "name": "Mega Salamence",
-        "images": ["images/monsters/renders/mega-salamence.png"]
+        "images": ["images/monsters/renders/mega-salamence.png"],
+        "since": "2019-07-25"
       },
       {
         "name": "Pumpkaboo (pm0735_14_pumpkin1)",
-        "note": "A different size of Pumpkaboo?<br>Animation files only"
+        "note": "A different size of Pumpkaboo?<br>Animation files only",
+        "since": "2019-07-25"
       }
     ]
   }  
