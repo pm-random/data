@@ -1,0 +1,53 @@
+[
+  {
+    "title": "<a href='https://www.youtube.com/watch?v=8CDc-0eTWQw&t=261s'>Spanish Pokémon Presents 18.8.2021</a> and Official Twitter",
+    "monsters": [
+      {
+        "name": "Mega Mewtwo Y",
+        "images": ["images/monsters/announcement/mega-mewtwo-y-crop.png", "images/monsters/announcement/mega-mewtwo-y.jpeg"]
+      }
+    ]
+  },
+  {
+    "title": "1.0.0 / Soft Launch only",
+    "monsters": [
+      {
+        "name": "pm0725_12_d",
+        "images": ["images/monsters/pm0000_00_Body.ktx.png"],
+        "note": "A square textured with Ash-Greninja's artwork"
+      },
+      {
+        "name": "Ash-Greninja (pm0725_13_gekkougasatoshi)",
+        "images": ["images/monsters/renders/ash-greninja.png"]
+      },
+      {
+        "name": "Hoopa Unbound",
+        "images": ["images/monsters/renders/hoopa-unbound.png"]
+      },
+      {
+        "name": "Blaziken ♀",
+        "images": ["images/monsters/renders/blaziken.png"]
+      },
+      {
+        "name": "Mega Blaziken",
+        "images": ["images/monsters/renders/mega-blaziken.png"]
+      },
+      {
+        "name": "Meditite ♂",
+        "images": ["images/monsters/renders/meditite.png"]
+      },
+      {
+        "name": "Garchomp ♂",
+        "images": ["images/monsters/renders/garchomp.png"]
+      },
+      {
+        "name": "Mega Salamence",
+        "images": ["images/monsters/renders/mega-salamence.png"]
+      },
+      {
+        "name": "Pumpkaboo (pm0735_14_pumpkin1)",
+        "note": "A different size of Pumpkaboo?<br>Animation files only"
+      }
+    ]
+  }  
+]
