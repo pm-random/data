@@ -1,19 +1,5 @@
 [
   {
-    "title": "<a href='https://pokemonmasters-game.com/en-US/announcements/Other_3070_4W_1'>Dev Letter 24</a> and Official Twitter",
-    "flags": [],
-    "characters": [
-      {
-        "name": "Rocket Grunts",
-        "since": "2021-08-26",
-        "images": [
-          "images/characters/announcement/rocket-grunts.png",
-          "images/characters/announcement/rocket-grunts-ow.jpeg"
-        ]
-      }
-    ]
-  },
-  {
     "title": "<a href='https://youtu.be/QRNQe4Jpy_g?t=52'>Two-Year Anniversary Celebration Trailer</a>",
     "flags": [],
     "characters": [
@@ -123,6 +109,16 @@
         "images": [
           "images/characters/renders/professor-bellis.png"
         ]
+      },
+      {
+        "name": "Rocket Grunt ♂",
+        "since": "2021-09-14",
+        "images": ["images/characters/ch0640_20_rocket_shitappam_1024.ktx.png"]
+      },
+      {
+        "name": "Rocket Grunt ♀",
+        "since": "2021-09-14",
+        "images": ["images/characters/ch0641_20_rocket_shitappaf_1024.ktx.png"]
       },
       {
         "name": "Ace Trainer ♂ (SM/USUM)",
