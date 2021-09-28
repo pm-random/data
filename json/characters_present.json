@@ -31,27 +31,32 @@
       {
         "name": "Lady",
         "images": ["images/characters/renders/ch0522_10_lady.png"],
-        "since": "2021-09-28"
+        "since": "2021-09-28",
+        "note": "No voicelines"
       },
       {
         "name": "Gentleman",
         "images": ["images/characters/renders/ch0552_20_gentleman.png"],
-        "since": "2021-09-28"
+        "since": "2021-09-28",
+        "note": "No voicelines"
       },
       {
         "name": "Veteran ♂",
         "images": ["images/characters/renders/ch0613_60_veteranm.png"],
-        "since": "2021-09-28"
+        "since": "2021-09-28",
+        "note": "No voicelines"
       },
       {
         "name": "Veteran ♀",
         "images": ["images/characters/renders/ch0614_60_veteranf.png"],
-        "since": "2021-09-28"
+        "since": "2021-09-28",
+        "note": "No voicelines"
       },
       {
         "name": "Pokémon Breeder",
         "images": ["images/characters/renders/ch0623_30_pokemonbreederf.png"],
-        "since": "2021-09-28"
+        "since": "2021-09-28",
+        "note": "No voicelines"
       },
       {
         "name": "Ryuki",
