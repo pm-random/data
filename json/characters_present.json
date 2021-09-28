@@ -1,18 +1,5 @@
 [
   {
-    "title": "<a href='https://youtu.be/QRNQe4Jpy_g?t=52'>Two-Year Anniversary Celebration Trailer</a>",
-    "flags": [],
-    "characters": [
-      {
-        "name": "Allister",
-        "since": "2021-08-26",
-        "images": [
-          "images/characters/trailer/allister-crop.png"  
-        ]
-      }
-    ]
-  },
-  {
     "title": "<a href='https://www.youtube.com/watch?v=kdja9m4YlT4'>Pokémon Presents 18.8.2021</a>",
     "flags": [],
     "characters": [
@@ -42,13 +29,29 @@
     "flags": ["note"],
     "characters": [
       {
-        "name": "Darach",
-        "since": "2020-04-27",
-        "images": [
-          "images/characters/ch0159_00_kokuran_1024.ktx.png",
-          "images/mindscapes/Tx_ch0159_00_kokuran_mindscape00.ktx.png"
-        ],
-        "note": "Appears in Chapter 27 of the Main Story<br>Appears in the <a href='https://bulbapedia.bulbagarden.net/wiki/List_of_story_events_in_Pok%C3%A9mon_Masters_EX#Family_Ties'>Family Ties</a> story event<br>Is one of the Battle Villa bosses<br>Unobtainable for even more time than Mallow (391 days)"
+        "name": "Lady",
+        "images": ["images/characters/renders/ch0522_10_lady.png"],
+        "since": "2021-09-28"
+      },
+      {
+        "name": "Gentleman",
+        "images": ["images/characters/renders/ch0552_20_gentleman.png"],
+        "since": "2021-09-28"
+      },
+      {
+        "name": "Veteran ♂",
+        "images": ["images/characters/renders/ch0613_60_veteranm.png"],
+        "since": "2021-09-28"
+      },
+      {
+        "name": "Veteran ♀",
+        "images": ["images/characters/renders/ch0614_60_veteranf.png"],
+        "since": "2021-09-28"
+      },
+      {
+        "name": "Pokémon Breeder",
+        "images": ["images/characters/renders/ch0623_30_pokemonbreederf.png"],
+        "since": "2021-09-28"
       },
       {
         "name": "Ryuki",

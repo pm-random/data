@@ -1,15 +1,5 @@
 [
   {
-    "title": "<a href='https://www.youtube.com/watch?v=8CDc-0eTWQw&t=261s'>Spanish Pokémon Presents 18.8.2021</a> and Official Twitter",
-    "monsters": [
-      {
-        "name": "Mega Mewtwo Y",
-        "images": ["images/monsters/announcement/mega-mewtwo-y-crop.png", "images/monsters/announcement/mega-mewtwo-y.jpeg"],
-        "since": "2021-08-18"
-      }
-    ]
-  },
-  {
     "title": "1.0.0 / Soft Launch only",
     "monsters": [
       {
