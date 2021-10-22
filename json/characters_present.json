@@ -1,7 +1,6 @@
 [
   {
     "title": "<a href='https://www.youtube.com/watch?v=kdja9m4YlT4'>Pokémon Presents 18.8.2021</a>",
-    "flags": [],
     "characters": [
       {
         "name": "Rose",
@@ -12,7 +11,6 @@
   },
   {
     "title": "Current Version (playable)",
-    "flags": ["notes"],
     "characters": [
       {
         "name": "Parker (Youngster)",
@@ -26,7 +24,6 @@
   },
   {
     "title": "Current Version (non-playable)",
-    "flags": ["notes"],
     "characters": [
       {
         "name": "Lady",
@@ -292,7 +289,6 @@
   {
     "title": "1.0.0 / Soft Launch",
     "subtitle": "Deleted in 1.2.0",
-    "flags": ["notes"],
     "characters": [
       {
         "name": "Cheren (BW)",
@@ -377,7 +373,6 @@
   },
   {
     "title": "<a href='https://www.youtube.com/watch?v=5LYyycD0YPA'>Pokémon Masters Animated Trailer</a>",
-    "flags": [],
     "characters": [
       {
         "name": "Archer, Giovanni (FRLG), Ariana",
