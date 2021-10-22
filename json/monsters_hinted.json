@@ -5,7 +5,7 @@
       {
         "name": "pm0725_12_d",
         "images": ["images/monsters/pm0000_00_Body.ktx.png"],
-        "note": "A square textured with Ash-Greninja's artwork",
+        "notes": ["A square textured with Ash-Greninja's artwork"],
         "since": "2019-07-25"
       },
       {
@@ -45,7 +45,7 @@
       },
       {
         "name": "Pumpkaboo (pm0735_14_pumpkin1)",
-        "note": "A different size of Pumpkaboo?<br>Animation files only",
+        "notes": ["Animation files only", "A different size of Pumpkaboo?"],
         "since": "2019-07-25"
       }
     ]

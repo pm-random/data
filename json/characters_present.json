@@ -12,7 +12,7 @@
   },
   {
     "title": "Current Version (playable)",
-    "flags": ["note"],
+    "flags": ["notes"],
     "characters": [
       {
         "name": "Parker (Youngster)",
@@ -20,43 +20,43 @@
         "images": [
           "images/characters/ch0074_00_tanpan_1024.ktx.png"
         ],
-        "note": "Teams up with the player and James in one of the Double Trouble Special Event quests"
+        "notes": ["Teams up with the player and James in one of the Double Trouble Special Event quests"]
       }
     ]
   },
   {
     "title": "Current Version (non-playable)",
-    "flags": ["note"],
+    "flags": ["notes"],
     "characters": [
       {
         "name": "Lady",
         "images": ["images/characters/renders/ch0522_10_lady.png"],
         "since": "2021-09-28",
-        "note": "No voicelines"
+        "notes": ["No voicelines"]
       },
       {
         "name": "Gentleman",
         "images": ["images/characters/renders/ch0552_20_gentleman.png"],
         "since": "2021-09-28",
-        "note": "No voicelines"
+        "notes": ["No voicelines"]
       },
       {
         "name": "Veteran ♂",
         "images": ["images/characters/renders/ch0613_60_veteranm.png"],
         "since": "2021-09-28",
-        "note": "No voicelines"
+        "notes": ["No voicelines"]
       },
       {
         "name": "Veteran ♀",
         "images": ["images/characters/renders/ch0614_60_veteranf.png"],
         "since": "2021-09-28",
-        "note": "No voicelines"
+        "notes": ["No voicelines"]
       },
       {
         "name": "Pokémon Breeder",
         "images": ["images/characters/renders/ch0623_30_pokemonbreederf.png"],
         "since": "2021-09-28",
-        "note": "No voicelines"
+        "notes": ["No voicelines"]
       },
       {
         "name": "Ryuki",
@@ -64,7 +64,7 @@
           "images/characters/ch0190_00_ryuki_1024.ktx.png"
         ],
         "since": "2020-07-29",
-        "note": "Appears in the <a href='https://bulbapedia.bulbagarden.net/wiki/List_of_story_events_in_Pok%C3%A9mon_Masters_EX#Summer_Superstars'>Summer Superstars</a> story event, with Turtonator"
+        "notes": ["Appears in the <a href='https://bulbapedia.bulbagarden.net/wiki/List_of_story_events_in_Pok%C3%A9mon_Masters_EX#Summer_Superstars'>Summer Superstars</a> story event, with Turtonator"]
       },
       {
         "name": "Matt",
@@ -72,7 +72,10 @@
           "images/characters/renders/matt.png"
         ],
         "since": "2021-05-27",
-        "note": "Appears in the <a href='https://bulbapedia.bulbagarden.net/wiki/List_of_story_events_in_Pok%C3%A9mon_Masters_EX#Masters_of_Land_and_Sea'>Masters of Land and Sea</a> story event<br>No voicelines"
+        "notes": [
+          "Appears in the <a href='https://bulbapedia.bulbagarden.net/wiki/List_of_story_events_in_Pok%C3%A9mon_Masters_EX#Masters_of_Land_and_Sea'>Masters of Land and Sea</a> story event",
+          "No voicelines"
+        ]
       },
       {
         "name": "Shelly",
@@ -80,7 +83,10 @@
           "images/characters/renders/shelly.png"
         ],
         "since": "2021-05-27",
-        "note": "Appears in the <a href='https://bulbapedia.bulbagarden.net/wiki/List_of_story_events_in_Pok%C3%A9mon_Masters_EX#Masters_of_Land_and_Sea'>Masters of Land and Sea</a> story event<br>No voicelines"
+        "notes": [
+          "Appears in the <a href='https://bulbapedia.bulbagarden.net/wiki/List_of_story_events_in_Pok%C3%A9mon_Masters_EX#Masters_of_Land_and_Sea'>Masters of Land and Sea</a> story event",
+          "No voicelines"
+        ]
       },
       {
         "name": "Tabitha",
@@ -88,7 +94,10 @@
           "images/characters/renders/tabitha.png"
         ],
         "since": "2021-05-27",
-        "note": "Appears in the <a href='https://bulbapedia.bulbagarden.net/wiki/List_of_story_events_in_Pok%C3%A9mon_Masters_EX#Masters_of_Land_and_Sea'>Masters of Land and Sea</a> story event<br>No voicelines"
+        "notes": [
+          "Appears in the <a href='https://bulbapedia.bulbagarden.net/wiki/List_of_story_events_in_Pok%C3%A9mon_Masters_EX#Masters_of_Land_and_Sea'>Masters of Land and Sea</a> story event",
+          "No voicelines"
+        ]
       },
       {
         "name": "Courtney",
@@ -96,12 +105,15 @@
           "images/characters/renders/courtney.png"
         ],
         "since": "2021-05-27",
-        "note": "Appears in the <a href='https://bulbapedia.bulbagarden.net/wiki/List_of_story_events_in_Pok%C3%A9mon_Masters_EX#Masters_of_Land_and_Sea'>Masters of Land and Sea</a> story event<br>No voicelines"
+        "notes": [
+          "Appears in the <a href='https://bulbapedia.bulbagarden.net/wiki/List_of_story_events_in_Pok%C3%A9mon_Masters_EX#Masters_of_Land_and_Sea'>Masters of Land and Sea</a> story event",
+          "No voicelines"
+        ]
       },
       {
         "name": "Drasna",
         "since": "2020-07-29",
-        "note": "Listed in the db/master/pb/FieldTalkVoice.pb file as ch0155_00_dracaena<br>No model, no voicelines"
+        "notes": ["Listed in the db/master/pb/FieldTalkVoice.pb file as ch0155_00_dracaena", "No model", "No voicelines"]
       },
       {
         "name": "Paulo",
@@ -280,7 +292,7 @@
   {
     "title": "1.0.0 / Soft Launch",
     "subtitle": "Deleted in 1.2.0",
-    "flags": ["note"],
+    "flags": ["notes"],
     "characters": [
       {
         "name": "Cheren (BW)",
@@ -293,12 +305,12 @@
       {
         "name": "Anabel",
         "since": "2019-07-25",
-        "note": "Listed in the db/master/pb/FieldTalkVoice.pb file as ch0178_00_lira<br>No model, no voicelines"
+        "notes": ["Listed in the db/master/pb/FieldTalkVoice.pb file as ch0178_00_lira", "No model", "No voicelines"]
       },
       {
         "name": "Looker",
         "since": "2019-07-25",
-        "note": "Listed in the db/master/pb/FieldTalkVoice.pb file as ch0218_00_handsome<br>No model, no voicelines"
+        "notes": ["Listed in the db/master/pb/FieldTalkVoice.pb file as ch0218_00_handsome", "No model", "No voicelines"]
       },
       {
         "name": "Camilla (ch0105_00_rival2)",
@@ -307,7 +319,10 @@
           "images/characters/beta/ch0105_00_rival2_1024.ktx.png",
           "images/mindscapes/beta/Tx_ch0105_00_rival2_mindscape00.ktx.png"
         ],
-        "note": "<a href='https://www.youtube.com/watch?v=IlXkXBCiTtY'>English Voicelines</a><br><a href='https://www.youtube.com/watch?v=_8p5qCqM6N8'>Japanese Voicelines</a>"
+        "notes": [
+          "<a href='https://www.youtube.com/watch?v=IlXkXBCiTtY'>English Voicelines</a>",
+          "<a href='https://www.youtube.com/watch?v=_8p5qCqM6N8'>Japanese Voicelines</a>"
+        ]
       },
       {
         "name": "Unknown girl",
@@ -322,7 +337,7 @@
         "images": [
           "images/characters/beta/deck_04.ktx.png"
         ],
-        "note": "Used in an early version of the Gear menu (ui/image/Dialog/Deck/deck_04.ktx)"
+        "notes": ["Used in an early version of the Gear menu (ui/image/Dialog/Deck/deck_04.ktx)"]
       },
       {
         "name": "Red (ch0000_01_red)",
@@ -331,17 +346,17 @@
           "images/characters/beta/ch0000_01_red_1024.ktx.png",
           "images/mindscapes/beta/Tx_ch0000_01_red_mindscape00.ktx.png"
         ],
-        "note": "Model folder with ActorsConfig.json file<br>No model, no voicelines"
+        "notes": ["Model folder with ActorsConfig.json file", "No model", "No voicelines"]
       },
       {
         "name": "Red (ch0000_02_red)",
         "since": "2019-07-25",
-        "note": "Model folder with ActorsConfig.json file<br>No model, no voicelines"
+        "notes": ["Model folder with ActorsConfig.json file", "No model", "No voicelines"]
       },
       {
         "name": "Brock (ch0015_51_takeshi)",
         "since": "2019-07-25",
-        "note": "Model folder with ActorsConfig.json file<br>No model, no voicelines"
+        "notes": ["Model folder with ActorsConfig.json file", "No model", "No voicelines"]
       },
       {
         "name": "Ace Trainer ♂ (ORAS)",
@@ -356,7 +371,7 @@
         "images": [
           "images/characters/beta/common.png"
         ],
-        "note": "The humanoid model present in this <a href='https://mega.nz/file/ME0wQB6S#VtbgwGDXNOH6UJWS_YE94jJO2J-oytYGMlyhOv83pdQ'>unused scout video</a>"
+        "notes": ["The humanoid model present in this <a href='https://mega.nz/file/ME0wQB6S#VtbgwGDXNOH6UJWS_YE94jJO2J-oytYGMlyhOv83pdQ'>unused scout video</a>"]
       }
     ]
   },
