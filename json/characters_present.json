@@ -18,7 +18,11 @@
         "images": [
           "images/characters/ch0074_00_tanpan_1024.ktx.png"
         ],
-        "notes": ["Teams up with the player and James in one of the Double Trouble Special Event quests"]
+        "notes": [
+          "Partnered with Cottonee",
+          "Teams up with the player and James in the <a href='https://www.serebii.net/pokemonmasters/events/doubletrouble.shtml'>Double Trouble Special Event</a>",
+          "<a href='https://gamepress.gg/pokemonmasters/pokemon/youngster-cottonee'>Sync Pair info</a>"
+        ]
       }
     ]
   },
@@ -429,7 +433,8 @@
         "since": "2019-07-25",
         "images": [
           "images/characters/beta/s000_tex_20.ktx.png"
-        ]
+        ],
+        "notes": ["Appears on the texture of a Terrain model (Terrain/s000/Textures/s000_tex_20.ktx)"]
       },
       {
         "name": "Red",
