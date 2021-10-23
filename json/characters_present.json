@@ -72,6 +72,16 @@
         ]
       },
       {
+        "name": "Meowth (Team Rocket)",
+        "images": ["images/characters/pm0052_00_nyarth_128.ktx.png"],
+        "since": "2020-06-25",
+        "notes": [
+          "Appears in the <a href='https://bulbapedia.bulbagarden.net/wiki/List_of_special_events_in_Pok%C3%A9mon_Masters_EX#Double_Trouble'>Double Trouble</a> and <a href='https://bulbapedia.bulbagarden.net/wiki/List_of_special_events_in_Pok%C3%A9mon_Masters_EX#Blasting_Off_Again'>Blasting Off Again</a> special events",
+          "<a href='https://www.youtube.com/watch?v=mcQ8anrcMcE'>English Voicelines</a>",
+          "<a href='https://www.youtube.com/watch?v=lH7gq6f0dOY'>Japanese Voicelines</a>"
+        ]
+      },
+      {
         "name": "Matt",
         "images": [
           "images/characters/renders/matt.png"
