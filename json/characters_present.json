@@ -30,6 +30,12 @@
     "title": "Current Version (non-playable)",
     "characters": [
       {
+        "name": "Grimsley (SM/USUM)",
+        "images": ["images/characters/ch0048_80_gima_1024.ktx.png"],
+        "notes": ["Opponent in the Poké War Games costume event, with Bisharp"],
+        "since": "2021-10-27"
+      },
+      {
         "name": "Lady",
         "images": ["images/characters/renders/ch0522_10_lady.png"],
         "since": "2021-09-28",
