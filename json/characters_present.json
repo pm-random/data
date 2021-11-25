@@ -30,10 +30,19 @@
     "title": "Current Version (non-playable)",
     "characters": [
       {
-        "name": "Grimsley (SM/USUM)",
-        "images": ["images/characters/ch0048_80_gima_1024.ktx.png"],
-        "notes": ["Opponent in the Poké War Games costume event, with Bisharp"],
-        "since": "2021-10-27"
+        "name": "Tina",
+        "since": "2021-11-24",
+        "images": [
+          "images/characters/ch0105_00_rival2_1024.ktx.png",
+          "images/mindscapes/beta/Tx_ch0105_00_rival2_mindscape00.ktx.png"
+        ],
+        "notes": [
+          "<a href='https://www.youtube.com/watch?v=IlXkXBCiTtY'>English Voicelines</a>",
+          "<a href='https://www.youtube.com/watch?v=_8p5qCqM6N8'>Japanese Voicelines</a>",
+          "Appears in the Paulo Interlude of the Villain Arc, with Flareon",
+          "Sync Move background only present in versions 1.0.0 to 1.1.1",
+          "Known as Camilla before being temporarily removed from the game in version 1.2.0"
+        ]
       },
       {
         "name": "Lady",
@@ -431,18 +440,6 @@
         "name": "Looker",
         "since": "2019-07-25",
         "notes": ["Listed in the db/master/pb/FieldTalkVoice.pb file as ch0218_00_handsome", "No model", "No voicelines"]
-      },
-      {
-        "name": "Camilla (ch0105_00_rival2)",
-        "since": "2019-07-25",
-        "images": [
-          "images/characters/beta/ch0105_00_rival2_1024.ktx.png",
-          "images/mindscapes/beta/Tx_ch0105_00_rival2_mindscape00.ktx.png"
-        ],
-        "notes": [
-          "<a href='https://www.youtube.com/watch?v=IlXkXBCiTtY'>English Voicelines</a>",
-          "<a href='https://www.youtube.com/watch?v=_8p5qCqM6N8'>Japanese Voicelines</a> (1.1.x only)"
-        ]
       },
       {
         "name": "Unknown girl",
