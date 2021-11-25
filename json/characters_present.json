@@ -45,6 +45,11 @@
         ]
       },
       {
+        "name": "N (ch0089_10_n)",
+        "since": "2021-11-24",
+        "notes": ["Listed in Messages/voice_actor_name_jp_ja.lsd", "No model", "No voicelines"]
+      },
+      {
         "name": "Lady",
         "images": ["images/characters/renders/ch0522_10_lady.png"],
         "since": "2021-09-28",
