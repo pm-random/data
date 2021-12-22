@@ -79,8 +79,6 @@
           "images/mindscapes/beta/Tx_ch0105_00_rival2_mindscape00.ktx.png"
         ],
         "notes": [
-          "<a href='https://www.youtube.com/watch?v=IlXkXBCiTtY'>English Voicelines</a>",
-          "<a href='https://www.youtube.com/watch?v=_8p5qCqM6N8'>Japanese Voicelines</a>",
           "Appears in the Paulo Interlude of the Villain Arc, with Flareon",
           "Sync Move background only present in versions 1.0.0 to 1.1.1",
           "Known as Camilla before being temporarily removed from the game in version 1.2.0"
@@ -128,9 +126,7 @@
         ],
         "since": "2020-07-29",
         "notes": [
-          "Appears in the <a href='https://bulbapedia.bulbagarden.net/wiki/List_of_story_events_in_Pok%C3%A9mon_Masters_EX#Summer_Superstars'>Summer Superstars</a> story event, with Turtonator",
-          "<a href='https://www.youtube.com/watch?v=j9TbgTo0MvE'>English Voicelines</a>",
-          "<a href='https://www.youtube.com/watch?v=mG9M6tj5HsA'>Japanese Voicelines</a>"
+          "Appears in the <a href='https://bulbapedia.bulbagarden.net/wiki/List_of_story_events_in_Pok%C3%A9mon_Masters_EX#Summer_Superstars'>Summer Superstars</a> story event, with Turtonator"
         ]
       },
       {
@@ -138,9 +134,7 @@
         "images": ["images/monsters/256/pm0052_00_nyarth_256.ktx.png"],
         "since": "2020-06-25",
         "notes": [
-          "Appears in the <a href='https://bulbapedia.bulbagarden.net/wiki/List_of_special_events_in_Pok%C3%A9mon_Masters_EX#Double_Trouble'>Double Trouble</a> and <a href='https://bulbapedia.bulbagarden.net/wiki/List_of_special_events_in_Pok%C3%A9mon_Masters_EX#Blasting_Off_Again'>Blasting Off Again</a> special events",
-          "<a href='https://www.youtube.com/watch?v=mcQ8anrcMcE'>English Voicelines</a>",
-          "<a href='https://www.youtube.com/watch?v=lH7gq6f0dOY'>Japanese Voicelines</a>"
+          "Appears in the <a href='https://bulbapedia.bulbagarden.net/wiki/List_of_special_events_in_Pok%C3%A9mon_Masters_EX#Double_Trouble'>Double Trouble</a> and <a href='https://bulbapedia.bulbagarden.net/wiki/List_of_special_events_in_Pok%C3%A9mon_Masters_EX#Blasting_Off_Again'>Blasting Off Again</a> special events"
         ]
       },
       {
@@ -198,10 +192,6 @@
         "images": [
           "images/characters/256/ch0064_00_rival_256.ktx.png",
           "images/mindscapes/Tx_ch0064_00_rival_mindscape00.ktx.png"
-        ],
-        "notes": [
-          "<a href='https://www.youtube.com/watch?v=zQN8vRTCJjs'>English Voicelines</a>",
-          "<a href='https://www.youtube.com/watch?v=I_So6JSBIhE'>Japanese Voicelines</a>"
         ]
       },
       {
@@ -209,39 +199,23 @@
         "since": "2019-07-25",
         "images": [
           "images/characters/render/professor-bellis.png"
-        ],
-        "notes": [
-          "<a href='https://www.youtube.com/watch?v=VAJeRxF3vPk'>English Voicelines</a>",
-          "<a href='https://www.youtube.com/watch?v=jlNtS0wasYg'>Japanese Voicelines</a>"
         ]
       },
       {
         "name": "Team Rocket Grunt ♂",
         "since": "2021-09-14",
-        "images": ["images/characters/256/ch0640_20_rocket_shitappam_256.ktx.png"],
-        "notes": [
-          "<a href='https://www.youtube.com/watch?v=jdontw_gqSc'>English Voicelines</a>",
-          "<a href='https://www.youtube.com/watch?v=a8M2fofpMzA'>Japanese Voicelines</a>"
-        ]
+        "images": ["images/characters/256/ch0640_20_rocket_shitappam_256.ktx.png"]
       },
       {
         "name": "Team Rocket Grunt ♀",
         "since": "2021-09-14",
-        "images": ["images/characters/256/ch0641_20_rocket_shitappaf_256.ktx.png"],
-        "notes": [
-          "<a href='https://www.youtube.com/watch?v=jdontw_gqSc'>English Voicelines</a>",
-          "<a href='https://www.youtube.com/watch?v=a8M2fofpMzA'>Japanese Voicelines</a>"
-        ]
+        "images": ["images/characters/256/ch0641_20_rocket_shitappaf_256.ktx.png"]
       },
       {
         "name": "Ace Trainer ♂ (SM/USUM)",
         "since": "2019-07-25",
         "images": [
           "images/characters/256/ch0069_00_elitem_256.ktx.png"
-        ],
-        "notes": [
-          "<a href='https://www.youtube.com/watch?v=K2k9up1gxts'>English Voicelines</a>",
-          "<a href='https://www.youtube.com/watch?v=WvkkTAqJ3_s'>Japanese Voicelines</a>"
         ]
       },
       {
@@ -249,10 +223,6 @@
         "since": "2019-07-25",
         "images": [
           "images/characters/256/ch0070_00_elitef_256.ktx.png"
-        ],
-        "notes": [
-          "<a href='https://www.youtube.com/watch?v=-fdID1Yu_mQ'>English Voicelines</a>",
-          "<a href='https://www.youtube.com/watch?v=taNYvfJJbqI'>Japanese Voicelines</a>"
         ]
       },
       {
@@ -260,10 +230,6 @@
         "since": "2019-07-25",
         "images": [
           "images/characters/256/ch0071_00_otona_256.ktx.png"
-        ],
-        "notes": [
-          "<a href='https://www.youtube.com/watch?v=QqKNu2pIK6w'>English Voicelines</a>",
-          "<a href='https://www.youtube.com/watch?v=9We6uOSL9LE'>Japanese Voicelines</a>"
         ]
       },
       {
@@ -271,10 +237,6 @@
         "since": "2019-07-25",
         "images": [
           "images/characters/256/ch0072_00_kaipan_256.ktx.png"
-        ],
-        "notes": [
-          "<a href='https://www.youtube.com/watch?v=kT_cUleLT4w'>English Voicelines</a>",
-          "<a href='https://www.youtube.com/watch?v=M0fN4WAowtk'>Japanese Voicelines</a>"
         ]
       },
       {
@@ -282,10 +244,6 @@
         "since": "2019-07-25",
         "images": [
           "images/characters/256/ch0073_00_karate_256.ktx.png"
-        ],
-        "notes": [
-          "<a href='https://www.youtube.com/watch?v=1-y1Z1Axb8w'>English Voicelines</a>",
-          "<a href='https://www.youtube.com/watch?v=PHnSnrM3Rk4'>Japanese Voicelines</a>"
         ]
       },
       {
@@ -293,10 +251,6 @@
         "since": "2019-07-25",
         "images": [
           "images/characters/256/ch0074_00_tanpan_256.ktx.png"
-        ],
-        "notes": [
-          "<a href='https://www.youtube.com/watch?v=hlbK-Vx9B8o'>English Voicelines</a>",
-          "<a href='https://www.youtube.com/watch?v=08N3SH1S-04'>Japanese Voicelines</a>"
         ]
       },
       {
@@ -304,10 +258,6 @@
         "since": "2019-07-25",
         "images": [
           "images/characters/256/ch0075_00_bikini_256.ktx.png"
-        ],
-        "notes": [
-          "<a href='https://www.youtube.com/watch?v=6F8FokFmA3Q'>English Voicelines</a>",
-          "<a href='https://www.youtube.com/watch?v=Q0Ybd3zPBB0'>Japanese Voicelines</a>"
         ]
       },
       {
@@ -315,10 +265,6 @@
         "since": "2019-07-25",
         "images": [
           "images/characters/256/ch0076_00_collector_256.ktx.png"
-        ],
-        "notes": [
-          "<a href='https://www.youtube.com/watch?v=z6Tx5szwvTQ'>English Voicelines</a>",
-          "<a href='https://www.youtube.com/watch?v=gsj0r-JGmGM'>Japanese Voicelines</a>"
         ]
       },
       {
@@ -326,10 +272,6 @@
         "since": "2019-07-25",
         "images": [
           "images/characters/256/ch0077_00_daisukim_256.ktx.png"
-        ],
-        "notes": [
-          "<a href='https://www.youtube.com/watch?v=-FCJ5qBssPc'>English Voicelines</a>",
-          "<a href='https://www.youtube.com/watch?v=oX0aIV0GejA'>Japanese Voicelines</a>"
         ]
       },
       {
@@ -337,10 +279,6 @@
         "since": "2019-07-25",
         "images": [
           "images/characters/256/ch0078_00_rangerf_256.ktx.png"
-        ],
-        "notes": [
-          "<a href='https://www.youtube.com/watch?v=d6ERXS9yMeI'>English Voicelines</a>",
-          "<a href='https://www.youtube.com/watch?v=Vm3bLV0Qi9I'>Japanese Voicelines</a>"
         ]
       },
       {
@@ -348,10 +286,6 @@
         "since": "2019-07-25",
         "images": [
           "images/characters/256/ch0079_00_miniskirt_256.ktx.png"
-        ],
-        "notes": [
-          "<a href='https://www.youtube.com/watch?v=Jz7-e91YceM'>English Voicelines</a>",
-          "<a href='https://www.youtube.com/watch?v=zU2EwYpiAiM'>Japanese Voicelines</a>"
         ]
       },
       {
@@ -359,10 +293,6 @@
         "since": "2019-07-25",
         "images": [
           "images/characters/256/ch0080_00_yamaotoko_256.ktx.png"
-        ],
-        "notes": [
-          "<a href='https://www.youtube.com/watch?v=u1gKC1LhE4g'>English Voicelines</a>",
-          "<a href='https://www.youtube.com/watch?v=M4gWnYWt-wA'>Japanese Voicelines</a>"
         ]
       },
       {
@@ -370,10 +300,6 @@
         "since": "2019-07-25",
         "images": [
           "images/characters/256/ch0081_00_enjif_256.ktx.png"
-        ],
-        "notes": [
-          "<a href='https://www.youtube.com/watch?v=YQZDODqYkwk'>English Voicelines</a>",
-          "<a href='https://www.youtube.com/watch?v=_N3XAKVY-2o'>Japanese Voicelines</a>"
         ]
       },
       {
@@ -381,10 +307,6 @@
         "since": "2019-07-25",
         "images": [
           "images/characters/256/ch0082_00_kowai_256.ktx.png"
-        ],
-        "notes": [
-          "<a href='https://www.youtube.com/watch?v=H9SAns_CxQE'>English Voicelines</a>",
-          "<a href='https://www.youtube.com/watch?v=I9lDj2GQNPU'>Japanese Voicelines</a>"
         ]
       },
       {
@@ -392,10 +314,6 @@
         "since": "2019-07-25",
         "images": [
           "images/characters/256/ch0083_00_badgirl_256.ktx.png"
-        ],
-        "notes": [
-          "<a href='https://www.youtube.com/watch?v=TpxWF1d7_p4'>English Voicelines</a>",
-          "<a href='https://www.youtube.com/watch?v=Bv4z-ph1LUk'>Japanese Voicelines</a>"
         ]
       },
       {
@@ -403,10 +321,6 @@
         "since": "2019-07-25",
         "images": [
           "images/characters/256/ch0084_00_kenkyuin_256.ktx.png"
-        ],
-        "notes": [
-          "<a href='https://www.youtube.com/watch?v=0xS14gxLS80'>English Voicelines</a>",
-          "<a href='https://www.youtube.com/watch?v=dBn6CkGWFBk'>Japanese Voicelines</a>"
         ]
       },
       {
@@ -414,10 +328,6 @@
         "since": "2019-07-25",
         "images": [
           "images/characters/256/ch0085_00_hopef_256.ktx.png"
-        ],
-        "notes": [
-          "<a href='https://www.youtube.com/watch?v=jjD6-BiDBUY'>English Voicelines</a>",
-          "<a href='https://www.youtube.com/watch?v=p587jWF3gSU'>Japanese Voicelines</a>"
         ]
       },
       {
@@ -425,10 +335,6 @@
         "since": "2019-07-25",
         "images": [
           "images/characters/256/ch0086_00_campm_256.ktx.png"
-        ],
-        "notes": [
-          "<a href='https://www.youtube.com/watch?v=hrryX0SaweE'>English Voicelines</a>",
-          "<a href='https://www.youtube.com/watch?v=20rmoiBWRo4'>Japanese Voicelines</a>"
         ]
       },
       {
@@ -436,10 +342,6 @@
         "since": "2019-07-25",
         "images": [
           "images/characters/render/trista.png"
-        ],
-        "notes": [
-          "<a href='https://www.youtube.com/watch?v=66TurdNPDAk'>English Voicelines</a>",
-          "<a href='https://www.youtube.com/watch?v=A7lcspObUTc'>Japanese Voicelines</a>"
         ]
       },
       {
@@ -447,10 +349,6 @@
         "since": "2019-07-25",
         "images": [
           "images/characters/render/tricia.png"
-        ],
-        "notes": [
-          "<a href='https://www.youtube.com/watch?v=l8D9KTOwTYs'>English Voicelines</a>",
-          "<a href='https://www.youtube.com/watch?v=LPjyvCX-57g'>Japanese Voicelines</a>"
         ]
       },
       {
@@ -458,10 +356,6 @@
         "since": "2019-07-25",
         "images": [
           "images/characters/render/trinnia.png"
-        ],
-        "notes": [
-          "<a href='https://www.youtube.com/watch?v=tvvsZk8DXKg'>English Voicelines</a>",
-          "<a href='https://www.youtube.com/watch?v=aLQzPEaituo'>Japanese Voicelines</a>"
         ]
       }
     ]
