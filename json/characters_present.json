@@ -16,7 +16,7 @@
         "name": "Parker (Youngster)",
         "since": "2020-06-25",
         "images": [
-          "images/characters/1024/ch0074_00_tanpan_1024.ktx.png"
+          "images/characters/256/ch0074_00_tanpan_256.ktx.png"
         ],
         "notes": [
           "Partnered with Cottonee",
@@ -75,7 +75,7 @@
         "name": "Tina",
         "since": "2021-11-24",
         "images": [
-          "images/characters/1024/ch0105_00_rival2_1024.ktx.png",
+          "images/characters/256/ch0105_00_rival2_256.ktx.png",
           "images/mindscapes/beta/Tx_ch0105_00_rival2_mindscape00.ktx.png"
         ],
         "notes": [
@@ -124,7 +124,7 @@
       {
         "name": "Ryuki",
         "images": [
-          "images/characters/1024/ch0190_00_ryuki_1024.ktx.png"
+          "images/characters/256/ch0190_00_ryuki_256.ktx.png"
         ],
         "since": "2020-07-29",
         "notes": [
@@ -196,7 +196,7 @@
         "name": "Paulo",
         "since": "2019-07-25",
         "images": [
-          "images/characters/1024/ch0064_00_rival_1024.ktx.png",
+          "images/characters/256/ch0064_00_rival_256.ktx.png",
           "images/mindscapes/Tx_ch0064_00_rival_mindscape00.ktx.png"
         ],
         "notes": [
@@ -218,7 +218,7 @@
       {
         "name": "Rocket Grunt ♂",
         "since": "2021-09-14",
-        "images": ["images/characters/1024/ch0640_20_rocket_shitappam_1024.ktx.png"],
+        "images": ["images/characters/256/ch0640_20_rocket_shitappam_256.ktx.png"],
         "notes": [
           "<a href='https://www.youtube.com/watch?v=jdontw_gqSc'>English Voicelines</a>",
           "<a href='https://www.youtube.com/watch?v=a8M2fofpMzA'>Japanese Voicelines</a>"
@@ -227,7 +227,7 @@
       {
         "name": "Rocket Grunt ♀",
         "since": "2021-09-14",
-        "images": ["images/characters/1024/ch0641_20_rocket_shitappaf_1024.ktx.png"],
+        "images": ["images/characters/256/ch0641_20_rocket_shitappaf_256.ktx.png"],
         "notes": [
           "<a href='https://www.youtube.com/watch?v=jdontw_gqSc'>English Voicelines</a>",
           "<a href='https://www.youtube.com/watch?v=a8M2fofpMzA'>Japanese Voicelines</a>"
@@ -237,7 +237,7 @@
         "name": "Ace Trainer ♂ (SM/USUM)",
         "since": "2019-07-25",
         "images": [
-          "images/characters/1024/ch0069_00_elitem_1024.ktx.png"
+          "images/characters/256/ch0069_00_elitem_256.ktx.png"
         ],
         "notes": [
           "<a href='https://www.youtube.com/watch?v=K2k9up1gxts'>English Voicelines</a>",
@@ -248,7 +248,7 @@
         "name": "Ace Trainer ♀",
         "since": "2019-07-25",
         "images": [
-          "images/characters/1024/ch0070_00_elitef_1024.ktx.png"
+          "images/characters/256/ch0070_00_elitef_256.ktx.png"
         ],
         "notes": [
           "<a href='https://www.youtube.com/watch?v=-fdID1Yu_mQ'>English Voicelines</a>",
@@ -259,7 +259,7 @@
         "name": "Beauty",
         "since": "2019-07-25",
         "images": [
-          "images/characters/1024/ch0071_00_otona_1024.ktx.png"
+          "images/characters/256/ch0071_00_otona_256.ktx.png"
         ],
         "notes": [
           "<a href='https://www.youtube.com/watch?v=QqKNu2pIK6w'>English Voicelines</a>",
@@ -270,7 +270,7 @@
         "name": "Swimmer ♂",
         "since": "2019-07-25",
         "images": [
-          "images/characters/1024/ch0072_00_kaipan_1024.ktx.png"
+          "images/characters/256/ch0072_00_kaipan_256.ktx.png"
         ],
         "notes": [
           "<a href='https://www.youtube.com/watch?v=kT_cUleLT4w'>English Voicelines</a>",
@@ -281,7 +281,7 @@
         "name": "Black Belt",
         "since": "2019-07-25",
         "images": [
-          "images/characters/1024/ch0073_00_karate_1024.ktx.png"
+          "images/characters/256/ch0073_00_karate_256.ktx.png"
         ],
         "notes": [
           "<a href='https://www.youtube.com/watch?v=1-y1Z1Axb8w'>English Voicelines</a>",
@@ -292,7 +292,7 @@
         "name": "Youngster",
         "since": "2019-07-25",
         "images": [
-          "images/characters/1024/ch0074_00_tanpan_1024.ktx.png"
+          "images/characters/256/ch0074_00_tanpan_256.ktx.png"
         ],
         "notes": [
           "<a href='https://www.youtube.com/watch?v=hlbK-Vx9B8o'>English Voicelines</a>",
@@ -303,7 +303,7 @@
         "name": "Swimmer ♀",
         "since": "2019-07-25",
         "images": [
-          "images/characters/1024/ch0075_00_bikini_1024.ktx.png"
+          "images/characters/256/ch0075_00_bikini_256.ktx.png"
         ],
         "notes": [
           "<a href='https://www.youtube.com/watch?v=6F8FokFmA3Q'>English Voicelines</a>",
@@ -314,7 +314,7 @@
         "name": "Collector",
         "since": "2019-07-25",
         "images": [
-          "images/characters/1024/ch0076_00_collector_1024.ktx.png"
+          "images/characters/256/ch0076_00_collector_256.ktx.png"
         ],
         "notes": [
           "<a href='https://www.youtube.com/watch?v=z6Tx5szwvTQ'>English Voicelines</a>",
@@ -325,7 +325,7 @@
         "name": "Poké Fan",
         "since": "2019-07-25",
         "images": [
-          "images/characters/1024/ch0077_00_daisukim_1024.ktx.png"
+          "images/characters/256/ch0077_00_daisukim_256.ktx.png"
         ],
         "notes": [
           "<a href='https://www.youtube.com/watch?v=-FCJ5qBssPc'>English Voicelines</a>",
@@ -336,7 +336,7 @@
         "name": "Ranger",
         "since": "2019-07-25",
         "images": [
-          "images/characters/1024/ch0078_00_rangerf_1024.ktx.png"
+          "images/characters/256/ch0078_00_rangerf_256.ktx.png"
         ],
         "notes": [
           "<a href='https://www.youtube.com/watch?v=d6ERXS9yMeI'>English Voicelines</a>",
@@ -347,7 +347,7 @@
         "name": "Lass",
         "since": "2019-07-25",
         "images": [
-          "images/characters/1024/ch0079_00_miniskirt_1024.ktx.png"
+          "images/characters/256/ch0079_00_miniskirt_256.ktx.png"
         ],
         "notes": [
           "<a href='https://www.youtube.com/watch?v=Jz7-e91YceM'>English Voicelines</a>",
@@ -358,7 +358,7 @@
         "name": "Hiker",
         "since": "2019-07-25",
         "images": [
-          "images/characters/1024/ch0080_00_yamaotoko_1024.ktx.png"
+          "images/characters/256/ch0080_00_yamaotoko_256.ktx.png"
         ],
         "notes": [
           "<a href='https://www.youtube.com/watch?v=u1gKC1LhE4g'>English Voicelines</a>",
@@ -369,7 +369,7 @@
         "name": "Preschooler",
         "since": "2019-07-25",
         "images": [
-          "images/characters/1024/ch0081_00_enjif_1024.ktx.png"
+          "images/characters/256/ch0081_00_enjif_256.ktx.png"
         ],
         "notes": [
           "<a href='https://www.youtube.com/watch?v=YQZDODqYkwk'>English Voicelines</a>",
@@ -380,7 +380,7 @@
         "name": "Street Thug",
         "since": "2019-07-25",
         "images": [
-          "images/characters/1024/ch0082_00_kowai_1024.ktx.png"
+          "images/characters/256/ch0082_00_kowai_256.ktx.png"
         ],
         "notes": [
           "<a href='https://www.youtube.com/watch?v=H9SAns_CxQE'>English Voicelines</a>",
@@ -391,7 +391,7 @@
         "name": "Punk Girl",
         "since": "2019-07-25",
         "images": [
-          "images/characters/1024/ch0083_00_badgirl_1024.ktx.png"
+          "images/characters/256/ch0083_00_badgirl_256.ktx.png"
         ],
         "notes": [
           "<a href='https://www.youtube.com/watch?v=TpxWF1d7_p4'>English Voicelines</a>",
@@ -402,7 +402,7 @@
         "name": "Scientist",
         "since": "2019-07-25",
         "images": [
-          "images/characters/1024/ch0084_00_kenkyuin_1024.ktx.png"
+          "images/characters/256/ch0084_00_kenkyuin_256.ktx.png"
         ],
         "notes": [
           "<a href='https://www.youtube.com/watch?v=0xS14gxLS80'>English Voicelines</a>",
@@ -413,7 +413,7 @@
         "name": "Rising Star",
         "since": "2019-07-25",
         "images": [
-          "images/characters/1024/ch0085_00_hopef_1024.ktx.png"
+          "images/characters/256/ch0085_00_hopef_256.ktx.png"
         ],
         "notes": [
           "<a href='https://www.youtube.com/watch?v=jjD6-BiDBUY'>English Voicelines</a>",
@@ -424,7 +424,7 @@
         "name": "Camper",
         "since": "2019-07-25",
         "images": [
-          "images/characters/1024/ch0086_00_campm_1024.ktx.png"
+          "images/characters/256/ch0086_00_campm_256.ktx.png"
         ],
         "notes": [
           "<a href='https://www.youtube.com/watch?v=hrryX0SaweE'>English Voicelines</a>",
