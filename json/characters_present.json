@@ -1,17 +1,5 @@
 [
   {
-    "title": "Voice Actor leak",
-    "characters": [
-      {
-        "name": "Saturn",
-        "notes": [
-          "On voice actor Mike Haimoto's <a href='https://resumes.breakdownexpress.com/958667-4143180-4657'>resume<a/>"
-        ],
-        "images": ["images/characters/leak/saturn-mike-haimoto.png"]
-      }
-    ]
-  },
-  {
     "title": "<a href='https://www.youtube.com/watch?v=kdja9m4YlT4&t=252'>Pokémon Presents 18.8.2021</a>",
     "characters": [
       {
@@ -41,6 +29,48 @@
   {
     "title": "Current Version (non-playable)",
     "characters": [
+      {
+        "name": "Saturn",
+        "since": "2021-12-21",
+        "images": ["images/characters/256/ch0227_00_saturn_256.ktx.png"],
+        "notes": [
+          "Appears in the Sinnoh Villain Arc",
+          "Previously leaked by his <a href='https://resumes.breakdownexpress.com/958667-4143180-4657'>English voice actor's resume<a/>"
+        ]
+      },
+      {
+        "name": "Jupiter",
+        "since": "2021-12-21",
+        "images": ["images/characters/256/ch0226_00_jupiter_256.ktx.png"],
+        "notes": ["Appears in the Sinnoh Villain Arc"]
+      },
+      {
+        "name": "Mars",
+        "since": "2021-12-21",
+        "images": ["images/characters/256/ch0225_00_mars_256.ktx.png"],
+        "notes": ["Appears in the Sinnoh Villain Arc"]
+      },
+      {
+        "name": "Team Galactic Grunt ♀",
+        "since": "2021-12-21",
+        "images": ["images/characters/256/ch0539_70_gingaf_256.ktx.png"],
+        "notes": ["Appears in the Sinnoh Villain Arc"]
+      },
+      {
+        "name": "Team Galactic Grunt ♂",
+        "since": "2021-12-21",
+        "images": ["images/characters/256/ch0538_70_gingam_256.ktx.png"],
+        "notes": ["Appears in the Sinnoh Villain Arc"]
+      },
+      {
+        "name": "Looker",
+        "since": "2021-12-21",
+        "images": ["images/characters/256/ch0217_00_handsome_256.ktx.png"],
+        "notes": [
+          "Appears in the Sinnoh Villain Arc, with Croagunk",
+          "Previously listed in the db/master/pb/FieldTalkVoice.pb file in versions 1.0.0 to 1.1.1"
+        ]
+      },
       {
         "name": "Tina",
         "since": "2021-11-24",
@@ -452,11 +482,6 @@
         "name": "Anabel",
         "since": "2019-07-25",
         "notes": ["Listed in the db/master/pb/FieldTalkVoice.pb file as ch0178_00_lira", "No model", "No voicelines"]
-      },
-      {
-        "name": "Looker",
-        "since": "2019-07-25",
-        "notes": ["Listed in the db/master/pb/FieldTalkVoice.pb file as ch0218_00_handsome", "No model", "No voicelines"]
       },
       {
         "name": "Unknown girl",
