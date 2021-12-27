@@ -32,7 +32,10 @@
       {
         "name": "Saturn",
         "since": "2021-12-21",
-        "images": ["images/characters/256/ch0227_00_saturn_256.ktx.png"],
+        "images": [
+          "images/characters/256/ch0227_00_saturn_256.ktx.png",
+          "images/mindscapes/Tx_ch0227_00_saturn_mindscape00.ktx.png"
+        ],
         "notes": [
           "Appears in the Sinnoh Villain Arc",
           "Previously leaked by his <a href='https://resumes.breakdownexpress.com/958667-4143180-4657'>English voice actor's resume<a/>"
@@ -41,13 +44,19 @@
       {
         "name": "Jupiter",
         "since": "2021-12-21",
-        "images": ["images/characters/256/ch0226_00_jupiter_256.ktx.png"],
+        "images": [
+          "images/characters/256/ch0226_00_jupiter_256.ktx.png",
+          "images/mindscapes/Tx_ch0226_00_jupiter_mindscape00.ktx.png"
+        ],
         "notes": ["Appears in the Sinnoh Villain Arc"]
       },
       {
         "name": "Mars",
         "since": "2021-12-21",
-        "images": ["images/characters/256/ch0225_00_mars_256.ktx.png"],
+        "images": [
+          "images/characters/256/ch0225_00_mars_256.ktx.png",
+          "images/mindscapes/Tx_ch0225_00_mars_mindscape00.ktx.png"
+        ],
         "notes": ["Appears in the Sinnoh Villain Arc"]
       },
       {
