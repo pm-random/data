@@ -28,6 +28,8 @@
     {"link": "announcements/Other_3070_4W_1", "date": "2021-08-26"},
     {"link": "announcements/Other_3080_4W_1", "date": "2021-09-28"},
     {"link": "announcements/Other_3090_4W_1", "date": "2021-10-27"},
-    {"link": "announcements/Other_3100_4W_1", "date": "2021-11-25"}
+    {"link": "announcements/Other_3100_4W_1", "date": "2021-11-25"},
+    {"link": "announcements/Other_3110_4W_1", "date": "2021-12-24"},
+    {"link": null, "date": "2022-01-01"}
   ]
 }
