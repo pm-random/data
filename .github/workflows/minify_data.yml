@@ -18,15 +18,16 @@ jobs:
     - uses: actions/checkout@v2
     - name: Minify json
       run: node minify_json.js
-    - name: Create local repository
+    - name: Setup local repository
       run: |
         git config user.name "github-actions"
         git config user.email "github-actions@github.com"
         git branch $BRANCH
         git checkout $BRANCH
         git add images/ json/
-        git commit -m "$MESSAGE"
     - name: Delete workflow folder and minifying script
       run: git rm -rf .github/ minify_json.js
     - name: Push minified data to origin
-      run: git push -f "https://$USER:${{ secrets.GITHUB_TOKEN }}@github.com/$USER/$REPO.git"
+      run: |
+        git commit -m "$MESSAGE"
+        git push -f "https://$USER:${{ secrets.GITHUB_TOKEN }}@github.com/$USER/$REPO.git"
