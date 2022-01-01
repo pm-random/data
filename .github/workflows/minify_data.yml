@@ -26,5 +26,7 @@ jobs:
         git checkout $BRANCH
         git add images/ json/
         git commit -m "$MESSAGE"
+    - name: Delete workflow folder and minifying script
+      run: rm -rf .github/ minify_json.js
     - name: Push minified data to origin
       run: git push -f "https://$USER:${{ secrets.GITHUB_TOKEN }}@github.com/$USER/$REPO.git"
