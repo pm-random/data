@@ -4,50 +4,71 @@
     "monsters": [
       {
         "name": "pm0725_12_d",
-        "images": ["images/monsters/beta/pm0000_00_Body.ktx.png"],
-        "notes": ["A square textured with Ash-Greninja's artwork"],
+        "images": [
+          "images/monsters/beta/pm0000_00_Body.ktx.png"
+        ],
+        "notes": [
+          "A square textured with Ash-Greninja's artwork"
+        ],
         "since": "2019-07-25"
       },
       {
         "name": "Ash-Greninja (pm0725_13_gekkougasatoshi)",
-        "images": ["images/monsters/beta/ash-greninja.png"],
+        "images": [
+          "images/monsters/beta/ash-greninja.png"
+        ],
         "since": "2019-07-25"
       },
       {
         "name": "Hoopa Unbound",
-        "images": ["images/monsters/beta/hoopa-unbound.png"],
+        "images": [
+          "images/monsters/beta/hoopa-unbound.png"
+        ],
         "since": "2019-07-25"
       },
       {
         "name": "Blaziken ♀",
-        "images": ["images/monsters/beta/blaziken.png"],
+        "images": [
+          "images/monsters/beta/blaziken.png"
+        ],
         "since": "2019-07-25"
       },
       {
         "name": "Mega Blaziken",
-        "images": ["images/monsters/beta/mega-blaziken.png"],
+        "images": [
+          "images/monsters/beta/mega-blaziken.png"
+        ],
         "since": "2019-07-25"
       },
       {
         "name": "Meditite ♂",
-        "images": ["images/monsters/beta/meditite.png"],
+        "images": [
+          "images/monsters/beta/meditite.png"
+        ],
         "since": "2019-07-25"
       },
       {
         "name": "Garchomp ♂",
-        "images": ["images/monsters/beta/garchomp.png"],
+        "images": [
+          "images/monsters/beta/garchomp.png"
+        ],
         "since": "2019-07-25"
       },
       {
         "name": "Mega Salamence",
-        "images": ["images/monsters/beta/mega-salamence.png"],
+        "images": [
+          "images/monsters/beta/mega-salamence.png"
+        ],
         "since": "2019-07-25"
       },
       {
         "name": "Pumpkaboo (pm0735_14_pumpkin1)",
-        "notes": ["Animation files only", "A different size of Pumpkaboo?"],
+        "notes": [
+          "Animation files only",
+          "A different size of Pumpkaboo?"
+        ],
         "since": "2019-07-25"
       }
     ]
-  }  
+  }
 ]

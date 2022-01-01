@@ -5,7 +5,9 @@
       {
         "name": "Rose",
         "since": "2021-08-18",
-        "images": ["images/characters/trailer/rose-crop.png"]
+        "images": [
+          "images/characters/trailer/rose-crop.png"
+        ]
       }
     ]
   },
@@ -48,7 +50,9 @@
           "images/characters/256/ch0226_00_jupiter_256.ktx.png",
           "images/mindscapes/Tx_ch0226_00_jupiter_mindscape00.ktx.png"
         ],
-        "notes": ["Appears in the Sinnoh Villain Arc"]
+        "notes": [
+          "Appears in the Sinnoh Villain Arc"
+        ]
       },
       {
         "name": "Mars",
@@ -57,24 +61,36 @@
           "images/characters/256/ch0225_00_mars_256.ktx.png",
           "images/mindscapes/Tx_ch0225_00_mars_mindscape00.ktx.png"
         ],
-        "notes": ["Appears in the Sinnoh Villain Arc"]
+        "notes": [
+          "Appears in the Sinnoh Villain Arc"
+        ]
       },
       {
         "name": "Team Galactic Grunt ♀",
         "since": "2021-12-21",
-        "images": ["images/characters/256/ch0539_70_gingaf_256.ktx.png"],
-        "notes": ["Appears in the Sinnoh Villain Arc"]
+        "images": [
+          "images/characters/256/ch0539_70_gingaf_256.ktx.png"
+        ],
+        "notes": [
+          "Appears in the Sinnoh Villain Arc"
+        ]
       },
       {
         "name": "Team Galactic Grunt ♂",
         "since": "2021-12-21",
-        "images": ["images/characters/256/ch0538_70_gingam_256.ktx.png"],
-        "notes": ["Appears in the Sinnoh Villain Arc"]
+        "images": [
+          "images/characters/256/ch0538_70_gingam_256.ktx.png"
+        ],
+        "notes": [
+          "Appears in the Sinnoh Villain Arc"
+        ]
       },
       {
         "name": "Looker",
         "since": "2021-12-21",
-        "images": ["images/characters/256/ch0217_00_handsome_256.ktx.png"],
+        "images": [
+          "images/characters/256/ch0217_00_handsome_256.ktx.png"
+        ],
         "notes": [
           "Appears in the Sinnoh Villain Arc, with Croagunk",
           "Previously listed in the db/master/pb/FieldTalkVoice.pb file in versions 1.0.0 to 1.1.1"
@@ -96,37 +112,62 @@
       {
         "name": "N (ch0089_10_n)",
         "since": "2021-11-24",
-        "notes": ["Listed in Messages/voice_actor_name_jp_ja.lsd", "No model", "No voicelines", "Sygna Suit?"]
+        "notes": [
+          "Listed in Messages/voice_actor_name_jp_ja.lsd",
+          "No model",
+          "No voicelines",
+          "Sygna Suit?"
+        ]
       },
       {
         "name": "Lady",
-        "images": ["images/characters/render/ch0522_10_lady.png"],
+        "images": [
+          "images/characters/render/ch0522_10_lady.png"
+        ],
         "since": "2021-09-28",
-        "notes": ["No voicelines"]
+        "notes": [
+          "No voicelines"
+        ]
       },
       {
         "name": "Gentleman",
-        "images": ["images/characters/render/ch0552_20_gentleman.png"],
+        "images": [
+          "images/characters/render/ch0552_20_gentleman.png"
+        ],
         "since": "2021-09-28",
-        "notes": ["No voicelines"]
+        "notes": [
+          "No voicelines"
+        ]
       },
       {
         "name": "Veteran ♂",
-        "images": ["images/characters/render/ch0613_60_veteranm.png"],
+        "images": [
+          "images/characters/render/ch0613_60_veteranm.png"
+        ],
         "since": "2021-09-28",
-        "notes": ["No voicelines"]
+        "notes": [
+          "No voicelines"
+        ]
       },
       {
         "name": "Veteran ♀",
-        "images": ["images/characters/render/ch0614_60_veteranf.png"],
+        "images": [
+          "images/characters/render/ch0614_60_veteranf.png"
+        ],
         "since": "2021-09-28",
-        "notes": ["No voicelines"]
+        "notes": [
+          "No voicelines"
+        ]
       },
       {
         "name": "Pokémon Breeder",
-        "images": ["images/characters/render/ch0623_30_pokemonbreederf.png"],
+        "images": [
+          "images/characters/render/ch0623_30_pokemonbreederf.png"
+        ],
         "since": "2021-09-28",
-        "notes": ["No voicelines"]
+        "notes": [
+          "No voicelines"
+        ]
       },
       {
         "name": "Ryuki",
@@ -140,7 +181,9 @@
       },
       {
         "name": "Meowth (Team Rocket)",
-        "images": ["images/monsters/128/pm0052_00_nyarth_128.ktx.png"],
+        "images": [
+          "images/monsters/128/pm0052_00_nyarth_128.ktx.png"
+        ],
         "since": "2020-06-25",
         "notes": [
           "Appears in the <a href='https://bulbapedia.bulbagarden.net/wiki/List_of_special_events_in_Pok%C3%A9mon_Masters_EX#Double_Trouble'>Double Trouble</a> and <a href='https://bulbapedia.bulbagarden.net/wiki/List_of_special_events_in_Pok%C3%A9mon_Masters_EX#Blasting_Off_Again'>Blasting Off Again</a> special events",
@@ -194,7 +237,11 @@
       {
         "name": "Drasna",
         "since": "2020-07-29",
-        "notes": ["Listed in the db/master/pb/FieldTalkVoice.pb file as ch0155_00_dracaena", "No model", "No voicelines"]
+        "notes": [
+          "Listed in the db/master/pb/FieldTalkVoice.pb file as ch0155_00_dracaena",
+          "No model",
+          "No voicelines"
+        ]
       },
       {
         "name": "Paulo",
@@ -214,12 +261,16 @@
       {
         "name": "Team Rocket Grunt ♂",
         "since": "2021-09-14",
-        "images": ["images/characters/256/ch0640_20_rocket_shitappam_256.ktx.png"]
+        "images": [
+          "images/characters/256/ch0640_20_rocket_shitappam_256.ktx.png"
+        ]
       },
       {
         "name": "Team Rocket Grunt ♀",
         "since": "2021-09-14",
-        "images": ["images/characters/256/ch0641_20_rocket_shitappaf_256.ktx.png"]
+        "images": [
+          "images/characters/256/ch0641_20_rocket_shitappaf_256.ktx.png"
+        ]
       },
       {
         "name": "Ace Trainer ♂ (SM/USUM)",
@@ -380,12 +431,18 @@
           "images/characters/beta/ch0014_00_cheren_1024.ktx.png",
           "images/mindscapes/beta/Tx_ch0014_00_cheren_mindscape00.ktx.png"
         ],
-        "notes": ["No voicelines"]
+        "notes": [
+          "No voicelines"
+        ]
       },
       {
         "name": "Anabel",
         "since": "2019-07-25",
-        "notes": ["Listed in the db/master/pb/FieldTalkVoice.pb file as ch0178_00_lira", "No model", "No voicelines"]
+        "notes": [
+          "Listed in the db/master/pb/FieldTalkVoice.pb file as ch0178_00_lira",
+          "No model",
+          "No voicelines"
+        ]
       },
       {
         "name": "Unknown girl",
@@ -393,7 +450,9 @@
         "images": [
           "images/characters/beta/s000_tex_20.ktx.png"
         ],
-        "notes": ["Appears on the texture of a Terrain model (Terrain/s000/Textures/s000_tex_20.ktx)"]
+        "notes": [
+          "Appears on the texture of a Terrain model (Terrain/s000/Textures/s000_tex_20.ktx)"
+        ]
       },
       {
         "name": "Red",
@@ -401,7 +460,9 @@
         "images": [
           "images/characters/beta/deck_04.ktx.png"
         ],
-        "notes": ["Used in an early version of the Gear menu (ui/image/Dialog/Deck/deck_04.ktx)"]
+        "notes": [
+          "Used in an early version of the Gear menu (ui/image/Dialog/Deck/deck_04.ktx)"
+        ]
       },
       {
         "name": "Red (ch0000_01_red)",
@@ -410,17 +471,29 @@
           "images/characters/beta/ch0000_01_red_1024.ktx.png",
           "images/mindscapes/beta/Tx_ch0000_01_red_mindscape00.ktx.png"
         ],
-        "notes": ["Model folder with ActorsConfig.json file", "No model", "No voicelines"]
+        "notes": [
+          "Model folder with ActorsConfig.json file",
+          "No model",
+          "No voicelines"
+        ]
       },
       {
         "name": "Red (ch0000_02_red)",
         "since": "2019-07-25",
-        "notes": ["Model folder with ActorsConfig.json file", "No model", "No voicelines"]
+        "notes": [
+          "Model folder with ActorsConfig.json file",
+          "No model",
+          "No voicelines"
+        ]
       },
       {
         "name": "Brock (ch0015_51_takeshi)",
         "since": "2019-07-25",
-        "notes": ["Model folder with ActorsConfig.json file", "No model", "No voicelines"]
+        "notes": [
+          "Model folder with ActorsConfig.json file",
+          "No model",
+          "No voicelines"
+        ]
       },
       {
         "name": "Ace Trainer ♂ (ORAS)",
@@ -428,7 +501,9 @@
         "images": [
           "images/characters/beta/ace-trainer-oras.png"
         ],
-        "notes": ["No voicelines"]
+        "notes": [
+          "No voicelines"
+        ]
       },
       {
         "name": "ch9999_00_common",
