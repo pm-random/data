@@ -1,0 +1,30 @@
+name: Minify data
+on:
+  push:
+    branches: main
+defaults:
+  run:
+    shell: bash
+env:
+  USER: 'pm-random'
+  REPO: 'data'
+  NAME: 'data-minifier'
+  BRANCH: 'gh-pages'
+  MESSAGE: 'minify'
+jobs:
+  minify:
+    runs-on: ubuntu-latest
+    name: minify
+    steps:
+    - uses: actions/checkout@v2
+    - name: Minify json
+      run: node minify_json.js
+    - name: Create local repository
+      run: |
+        git init --initial-branch "$BRANCH"
+        git config user.name "$NAME[bot]"
+        git config user.email "$NAME@github.com"
+        git add images/ json/
+        git commit -m "$MESSAGE"
+    - name: Push minified data to origin
+      run: git push -f "https://$USER:${{ secrets.GITHUB_TOKEN }}@github.com/$USER/$REPO.git" $BRANCH:$BRANCH
