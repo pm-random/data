@@ -287,6 +287,13 @@
       "Rival Strike",
       "Pallet Town Strike",
       "Passionate Spirit Strike"
+    ],
+    "Blue & Arcanine": [
+      "Fire Strike",
+      "Kanto Strike",
+      "Champion Strike",
+      "Rival Strike",
+      "Pallet Town Strike"
     ]
   },
   "Wulfric": {
@@ -1032,6 +1039,12 @@
       "Scarf Support",
       "Contest Lover Support"
     ],
+    "Sygna Suit Dawn & Cresselia": [
+      "Psychic Support",
+      "Sinnoh Support",
+      "Main Character Support",
+      "Sygna Suit Support"
+    ],
     "Dawn (Palentine’s 2021) & Alcremie": [
       "Fairy Tech",
       "Sinnoh Tech",
@@ -1428,6 +1441,13 @@
       "Sinnoh Strike",
       "Villain Strike",
       "Gadgeteer Strike"
+    ],
+    "Sygna Suit Cyrus & Darkrai": [
+      "Dark Tech",
+      "Sinnoh Tech",
+      "Sygna Suit Tech",
+      "Scarf Tech",
+      "Villain Tech"
     ]
   },
   "Ghetsis": {
@@ -1526,6 +1546,13 @@
       "Galar Tech",
       "Rival Tech",
       "Seasonal Outfit Tech"
+    ],
+    "Marnie (Palentine’s 2022) & Mawile": [
+      "Steel Tech",
+      "Galar Tech",
+      "Seasonal Outfit Tech",
+      "Pigtails Tech",
+      "Cook Tech"
     ]
   },
   "Leon": {
@@ -1573,6 +1600,13 @@
       "Gym Leader Strike",
       "Body Builder Strike",
       "Sweet Tooth Strike"
+    ],
+    "Bea (Palentine’s 2022) & Vanilluxe": [
+      "Ice Support",
+      "Galar Support",
+      "Seasonal Outfit Support",
+      "Scarf Support",
+      "Sweet Tooth Support"
     ]
   },
   "Allister": {
@@ -1827,6 +1861,14 @@
       "Water Support",
       "Main Character Support"
     ],
+    "Player & Horsea (Support)": [
+      "Water Support",
+      "Main Character Support"
+    ],
+    "Player & Shellder (Support)": [
+      "Water Support",
+      "Main Character Support"
+    ],
     "Player & Scyther (Tech)": [
       "Bug Tech",
       "Main Character Tech"
@@ -2027,6 +2069,14 @@
       "Water Tech",
       "Main Character Tech"
     ],
+    "Player & Horsea (Tech)": [
+      "Water Tech",
+      "Main Character Tech"
+    ],
+    "Player & Shellder (Tech)": [
+      "Water Tech",
+      "Main Character Tech"
+    ],
     "Player & Bulbasaur (Physical Strike)": [
       "Grass Strike",
       "Main Character Strike"
@@ -2224,6 +2274,14 @@
       "Main Character Strike"
     ],
     "Player & Staryu (Special Strike)": [
+      "Water Strike",
+      "Main Character Strike"
+    ],
+    "Player & Horsea (Special Strike)": [
+      "Water Strike",
+      "Main Character Strike"
+    ],
+    "Player & Shellder (Special Strike)": [
       "Water Strike",
       "Main Character Strike"
     ],
