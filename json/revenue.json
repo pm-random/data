@@ -1,7 +1,7 @@
 {
   "stores": [
-    { "name": "App Store", "color": "#000000" },
-    { "name": "Google Play", "color": "#32de84" }
+    {"name": "App Store", "color": "#000000"},
+    {"name": "Google Play", "color": "#32de84"}
   ],
   "data": [
     ["2020-03", 0.4, null],
