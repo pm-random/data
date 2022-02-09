@@ -244,6 +244,15 @@
         ]
       },
       {
+        "name": "Blue (ch0021_10_green)",
+        "since": "2019-07-25",
+        "notes": [
+          "Listed in the db/master/pb/FieldTalkVoice.pb file as ch0021_10_green",
+          "No model",
+          "No voicelines"
+        ]
+      },
+      {
         "name": "Paulo",
         "since": "2019-07-25",
         "images": [
