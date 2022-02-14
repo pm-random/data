@@ -170,6 +170,15 @@
         ]
       },
       {
+        "name": "Benga",
+        "since": "2020-10-28",
+        "notes": [
+          "ch0212_00_banjiro referenced in Actors/ch0215_00_lutia/Models/ch0215_00_lutia.figure",
+          "No model",
+          "No voicelines"
+        ]
+      },
+      {
         "name": "Ryuki",
         "images": [
           "images/characters/256/ch0190_00_ryuki_256.ktx.png"
