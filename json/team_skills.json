@@ -218,6 +218,12 @@
       "Unova Tech",
       "Seasonal Outfit Tech",
       "Undella Town Tech"
+    ],
+    "Skyla (Anniversary 2022) & Tornadus": [
+      "Flying Tech",
+      "Unova Tech",
+      "Seasonal Outfit Tech",
+      "Undella Town Tech"
     ]
   },
   "Leaf": {
@@ -891,7 +897,10 @@
       "Cape Support",
       "Seasonal Outfit Support",
       "Cook Support"
-    ]
+    ],
+    "Rosa & Bulbasaur": [],
+    "Rosa & Cyndaquil": [],
+    "Rosa & Hydreigon": []
   },
   "Bianca": {
     "Bianca & Musharna": [
@@ -1074,7 +1083,11 @@
       "Seasonal Outfit Strike",
       "Pigtails Strike",
       "Alola Adventurer Strike"
-    ]
+    ],
+    "Lillie & Squirtle": [],
+    "Lillie & Totodile": [],
+    "Lillie & Prinplup": [],
+    "Lillie & Kommo-o": []
   },
   "Gladion": {
     "Gladion & Silvally": [
@@ -1164,6 +1177,13 @@
       "Seasonal Outfit Strike",
       "Researcher Strike",
       "Battle Partner Strike"
+    ],
+    "May (Anniversary 2022) & Latias": [
+      "Psychic Tech",
+      "Hoenn Tech",
+      "Seasonal Outfit Tech",
+      "Free Spirit Tech",
+      "Battle Partner Tech"
     ]
   },
   "Wallace": {
@@ -1633,6 +1653,13 @@
       "Gym Leader Strike",
       "Gadgeteer Strike",
       "Passionate Spirit Strike"
+    ],
+    "Raihan (Anniversary 2022) & Flygon": [
+      "Dragon Tech",
+      "Galar Tech",
+      "Seasonal Outfit Tech",
+      "Sunglasses Tech",
+      "Gadgeteer Tech"
     ]
   },
   "Sonia": {
@@ -1869,6 +1896,14 @@
       "Water Support",
       "Main Character Support"
     ],
+    "Player & Munchlax (Support)": [
+      "Normal Support",
+      "Main Character Support"
+    ],
+    "Player & Happiny (Support)": [
+      "Normal Support",
+      "Main Character Support"
+    ],
     "Player & Scyther (Tech)": [
       "Bug Tech",
       "Main Character Tech"
@@ -2075,6 +2110,14 @@
     ],
     "Player & Shellder (Tech)": [
       "Water Tech",
+      "Main Character Tech"
+    ],
+    "Player & Munchlax (Tech)": [
+      "Normal Tech",
+      "Main Character Tech"
+    ],
+    "Player & Happiny (Tech)": [
+      "Normal Tech",
       "Main Character Tech"
     ],
     "Player & Bulbasaur (Physical Strike)": [
@@ -2285,9 +2328,24 @@
       "Water Strike",
       "Main Character Strike"
     ],
+    "Player & Munchlax (Physical Strike)": [
+      "Normal Strike",
+      "Main Character Strike"
+    ],
+    "Player & Happiny (Physical Strike)": [
+      "Normal Strike",
+      "Main Character Strike"
+    ],
     "Player & Solgaleo": [
       "Steel Strike",
       "Main Character Strike"
-    ]
+    ],
+    "Player & Charmander": [],
+    "Player & Chikorita": [],
+    "Player & Marshtomp": [],
+    "Player & Grotle": [],
+    "Player & Serperior": [],
+    "Player & Delphox": [],
+    "Player & Tyranitar": []
   }
 }
