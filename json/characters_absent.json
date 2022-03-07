@@ -4,6 +4,7 @@
     "characters": [
       "Bill",
       "Copycat",
+      "Daisy",
       "Mr. Fuji"
     ]
   },
@@ -16,6 +17,7 @@
     "characters": [
       "Professor Elm",
       "Chuck",
+      "DJ Mary",
       "Petrel",
       "Proton",
       "Li",
@@ -41,7 +43,8 @@
   {
     "name": "FireRed / LeafGreen",
     "characters": [
-      "Celio"
+      "Celio",
+      "Primo"
     ]
   },
   {
@@ -51,7 +54,7 @@
       "Juan",
       "Greta",
       "Tucker",
-      "Spencer",
+      "Spenser",
       "Brandon"
     ]
   },
@@ -80,7 +83,8 @@
   {
     "name": "HeartGold / SoulSilver",
     "characters": [
-      "Magnus"
+      "Magnus",
+      "Maximo"
     ]
   },
   {
@@ -177,10 +181,7 @@
       "Chase",
       "Elaine",
       "Trace",
-      "Green",
-      "Lily",
-      "Daisy",
-      "Violet"
+      "Green"
     ]
   },
   {
