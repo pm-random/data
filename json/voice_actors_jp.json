@@ -806,6 +806,10 @@
       {
         "id": "ch0259_00_sania",
         "name": "Sonia"
+      },
+      {
+        "id": "ch0259_40_sania",
+        "name": "Sonia (Special Costume)"
       }
     ]
   },
@@ -820,6 +824,10 @@
       {
         "id": "ch0118_40_lillie",
         "name": "Lillie (New Year’s 2021)"
+      },
+      {
+        "id": "ch0118_41_lillie",
+        "name": "Lillie (Special Costume)"
       },
       {
         "id": "ch0118_50_lillie",
@@ -1348,6 +1356,16 @@
     ]
   },
   {
+    "name": "Shintaro Asanuma",
+    "name_jp": "浅沼晋太郎",
+    "characters": [
+      {
+        "id": "ch0145_00_pod",
+        "name": "Chili"
+      }
+    ]
+  },
+  {
     "name": "Shiori Izawa",
     "name_jp": "井澤詩織",
     "characters": [
@@ -1474,6 +1492,16 @@
       {
         "id": "ch0162_00_koki",
         "name": "Lucas"
+      }
+    ]
+  },
+  {
+    "name": "Soma Saito",
+    "name_jp": "斉藤壮馬",
+    "characters": [
+      {
+        "id": "ch0146_00_corn",
+        "name": "Cress"
       }
     ]
   },
@@ -1832,6 +1860,10 @@
       {
         "id": "ch0108_00_nobori",
         "name": "Ingo"
+      },
+      {
+        "id": "ch0108_40_nobori",
+        "name": "Ingo (Special Costume)"
       }
     ]
   },
@@ -1922,6 +1954,16 @@
     ]
   },
   {
+    "name": "Yuki Kaji",
+    "name_jp": "梶裕貴",
+    "characters": [
+      {
+        "id": "ch0107_00_dent",
+        "name": "Cilan"
+      }
+    ]
+  },
+  {
     "name": "Yuki Ono",
     "name_jp": "小野友樹",
     "characters": [
@@ -1972,6 +2014,10 @@
       {
         "id": "ch0109_00_kudari",
         "name": "Emmet"
+      },
+      {
+        "id": "ch0109_40_kudari",
+        "name": "Emmet (Special Costume)"
       }
     ]
   },

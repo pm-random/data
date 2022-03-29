@@ -32,6 +32,30 @@
     "title": "Current Version (non-playable)",
     "characters": [
       {
+        "name": "Cilan",
+        "since": "2022-03-29",
+        "images": [
+          "images/characters/256/ch0107_00_dent_256.ktx.png",
+          "images/mindscapes/Tx_ch0107_00_dent_mindscape00.ktx.png"
+        ]
+      },
+      {
+        "name": "Chili",
+        "since": "2022-03-29",
+        "images": [
+          "images/characters/256/ch0145_00_pod_256.ktx.png",
+          "images/mindscapes/Tx_ch0145_00_pod_mindscape00.ktx.png"
+        ]
+      },
+      {
+        "name": "Cress",
+        "since": "2022-03-29",
+        "images": [
+          "images/characters/256/ch0146_00_corn_256.ktx.png",
+          "images/mindscapes/Tx_ch0146_00_corn_mindscape00.ktx.png"
+        ]
+      },
+      {
         "name": "Saturn",
         "since": "2021-12-21",
         "images": [
@@ -551,13 +575,6 @@
         "since": "2019-06-27",
         "images": [
           "images/characters/trailer/rivals.png"
-        ]
-      },
-      {
-        "name": "Chili, Cilan, Cress",
-        "since": "2019-06-27",
-        "images": [
-          "images/characters/trailer/chili-cilan-cress.png"
         ]
       },
       {

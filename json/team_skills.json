@@ -940,6 +940,13 @@
       "Unova Support",
       "Battle Facility Foe Support",
       "Battle Partner Support"
+    ],
+    "Ingo (Special Costume) & Accelgor": [
+      "Bug Tech",
+      "Unova Tech",
+      "Special Costume Tech",
+      "Glasses Tech",
+      "Battle Partner Tech"
     ]
   },
   "Emmet": {
@@ -947,6 +954,13 @@
       "Rock Strike",
       "Unova Strike",
       "Battle Facility Foe Strike",
+      "Battle Partner Strike"
+    ],
+    "Emmet (Special Costume) & Escavalier": [
+      "Bug Strike",
+      "Unova Strike",
+      "Special Costume Strike",
+      "Glasses Strike",
       "Battle Partner Strike"
     ]
   },
@@ -1076,6 +1090,12 @@
       "Seasonal Outfit Support",
       "Fancy Lady Support",
       "Battle Partner Support"
+    ],
+    "Lillie (Special Costume) & Polteageist": [
+      "Ghost Support",
+      "Alola Support",
+      "Special Costume Support",
+      "Fancy Lady Support"
     ],
     "Lillie (Anniversary 2021) & Lunala": [
       "Ghost Strike",
@@ -1675,6 +1695,13 @@
       "Sunglasses Support",
       "Researcher Support",
       "Grown Woman Support"
+    ],
+    "Sonia (Special Costume) & Tsareena": [
+      "Grass Strike",
+      "Galar Strike",
+      "Special Costume Strike",
+      "Knowledgeable Strike",
+      "Grown Woman Strike"
     ]
   },
   "Player": {
