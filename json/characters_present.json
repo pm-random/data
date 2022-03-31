@@ -37,6 +37,9 @@
         "images": [
           "images/characters/256/ch0107_00_dent_256.ktx.png",
           "images/mindscapes/Tx_ch0107_00_dent_mindscape00.ktx.png"
+        ],
+        "notes": [
+          "Appears in Costume Event: Curious Tea Party"
         ]
       },
       {
@@ -45,6 +48,9 @@
         "images": [
           "images/characters/256/ch0145_00_pod_256.ktx.png",
           "images/mindscapes/Tx_ch0145_00_pod_mindscape00.ktx.png"
+        ],
+        "notes": [
+          "Appears in Costume Event: Curious Tea Party"
         ]
       },
       {
@@ -53,6 +59,9 @@
         "images": [
           "images/characters/256/ch0146_00_corn_256.ktx.png",
           "images/mindscapes/Tx_ch0146_00_corn_mindscape00.ktx.png"
+        ],
+        "notes": [
+          "Appears in Costume Event: Curious Tea Party"
         ]
       },
       {
