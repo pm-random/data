@@ -149,7 +149,7 @@
 
   {"number": "0153", "name": "Glacia", "internal_name": "prim"},
 
-  {"number": "0155", "name": "Drasna", "internal_name": "dracaena", "status": "npc"},
+  {"number": "0155", "name": "Drasna", "internal_name": "dracaena", "status": "id-only"},
 
   {"number": "0157", "name": "Valerie", "internal_name": "mache"},
   {"number": "0158", "name": "Diantha", "internal_name": "carnet"},
@@ -160,7 +160,7 @@
 
   {"number": "0170", "name": "Burgh", "internal_name": "arty"},
 
-  {"number": "0178", "name": "Anabel", "internal_name": "lira", "status": "softlaunch"},
+  {"number": "0178", "name": "Anabel", "internal_name": "lira", "status": "id-only-early"},
 
   {"number": "0183", "name": "Molayne", "internal_name": "molayne"},
 
@@ -176,7 +176,7 @@
 
   {"number": "0205", "name": "Evelyn", "internal_name": "lesoir"},
 
-  {"number": "0212", "name": "Benga", "internal_name": "banjiro", "status": "npc"},
+  {"number": "0212", "name": "Benga", "internal_name": "banjiro", "status": "id-only"},
 
   {"number": "0215", "name": "Lisia", "internal_name": "lutia"},
 
