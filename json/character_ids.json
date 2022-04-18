@@ -205,7 +205,7 @@
 
   {"number": "0256", "name": "Piers", "internal_name": "nezz"},
   {"number": "0257", "name": "Raihan", "internal_name": "qibana"},
-
+  {"number": "0258", "name": "Meowth (Team Rocket)", "internal_name": "meowth", "status": "npc"},
   {"number": "0259", "name": "Sonia", "internal_name": "sania"},
 
   {"number": "0522", "name": "Lady", "internal_name": "lady", "status": "npc"},
