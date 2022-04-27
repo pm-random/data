@@ -12,23 +12,6 @@
     ]
   },
   {
-    "title": "Current Version (playable)",
-    "characters": [
-      {
-        "name": "Parker (Youngster)",
-        "since": "2020-06-25",
-        "images": [
-          "images/characters/256/ch0074_00_tanpan_256.ktx.png"
-        ],
-        "notes": [
-          "Partnered with Cottonee",
-          "Teams up with the player and Jessie in the <a href='https://bulbapedia.bulbagarden.net/wiki/List_of_special_events_in_Pok%C3%A9mon_Masters_EX#Double_Trouble'>Double Trouble</a> special event",
-          "<a href='https://gamepress.gg/pokemonmasters/pokemon/youngster-cottonee'>Sync Pair info</a>"
-        ]
-      }
-    ]
-  },
-  {
     "title": "Current Version (non-playable)",
     "characters": [
       {
@@ -512,6 +495,23 @@
         "since": "2019-07-25",
         "images": [
           "images/characters/render/trinnia.png"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Current Version (playable)",
+    "characters": [
+      {
+        "name": "Parker (Youngster)",
+        "since": "2020-06-25",
+        "images": [
+          "images/characters/256/ch0074_00_tanpan_256.ktx.png"
+        ],
+        "notes": [
+          "Partnered with Cottonee",
+          "Teams up with the player and Jessie in the <a href='https://bulbapedia.bulbagarden.net/wiki/List_of_special_events_in_Pok%C3%A9mon_Masters_EX#Double_Trouble'>Double Trouble</a> special event",
+          "<a href='https://gamepress.gg/pokemonmasters/pokemon/youngster-cottonee'>Sync Pair info</a>"
         ]
       }
     ]
