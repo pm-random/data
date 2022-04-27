@@ -480,6 +480,10 @@
         "name": "Morty"
       },
       {
+        "id": "ch0148_10_matsuba",
+        "name": "Sygna Suit Morty"
+      },
+      {
         "id": "ch0148_40_matsuba",
         "name": "Morty (Fall 2021)"
       }
@@ -777,6 +781,20 @@
       {
         "id": "ch0140_00_sakaki",
         "name": "Giovanni"
+      },
+      {
+        "id": "ch0140_10_sakaki",
+        "name": "Sygna Suit Giovanni"
+      }
+    ]
+  },
+  {
+    "name": "Koji Takahashi",
+    "name_jp": "高橋孝治",
+    "characters": [
+      {
+        "id": "ch0141_00_apollo",
+        "name": "Archer"
       }
     ]
   },
@@ -962,6 +980,16 @@
       {
         "id": "ch0240_00_musashi",
         "name": "Jessie"
+      }
+    ]
+  },
+  {
+    "name": "Michiko Kaiden",
+    "name_jp": "鷄冠井美智子",
+    "characters": [
+      {
+        "id": "ch0142_00_athena",
+        "name": "Ariana"
       }
     ]
   },
@@ -1404,6 +1432,16 @@
     ]
   },
   {
+    "name": "Sho Okumura",
+    "name_jp": "奥村翔",
+    "characters": [
+      {
+        "id": "ch0144_00_lance",
+        "name": "Proton"
+      }
+    ]
+  },
+  {
     "name": "Shogo Sakata",
     "name_jp": "坂田将吾",
     "characters": [
@@ -1560,6 +1598,16 @@
       {
         "id": "ch0538_70_gingam",
         "name": "Team Galactic Grunt"
+      }
+    ]
+  },
+  {
+    "name": "Taichi Takeda",
+    "name_jp": "武田太一",
+    "characters": [
+      {
+        "id": "ch0143_00_lambda",
+        "name": "Petrel"
       }
     ]
   },
@@ -1806,6 +1854,16 @@
     ]
   },
   {
+    "name": "Yohei Azakami",
+    "name_jp": "阿座上洋平",
+    "characters": [
+      {
+        "id": "ch0176_00_goyo",
+        "name": "Lucian"
+      }
+    ]
+  },
+  {
     "name": "Yoko Hikasa",
     "name_jp": "日笠陽子",
     "characters": [
@@ -1820,6 +1878,16 @@
       {
         "id": "ch0106_80_kamitsure",
         "name": "Elesa (Classic)"
+      }
+    ]
+  },
+  {
+    "name": "Yorie Terauchi",
+    "name_jp": "寺内よりえ",
+    "characters": [
+      {
+        "id": "ch0154_00_kikuno",
+        "name": "Bertha"
       }
     ]
   },
@@ -1850,6 +1918,16 @@
       {
         "id": "ch0161_00_hara",
         "name": "Hala"
+      }
+    ]
+  },
+  {
+    "name": "Yoshitaka Yamaya",
+    "name_jp": "山谷祥生",
+    "characters": [
+      {
+        "id": "ch0152_00_ryo",
+        "name": "Aaron"
       }
     ]
   },

@@ -1,24 +1,5 @@
 [
   {
-    "title": "<a href='https://pokemonmasters-game.com/en-US/announcements/Other_4030_5W_1'>Dev Letter #33</href>",
-    "characters": [
-      {
-        "name": "Aaron, Bertha, Lucian",
-        "since": "2022-04-25",
-        "images": [
-          "images/characters/announcement/sinnoh-league.png"
-        ]
-      },
-      {
-        "name": "Sygna Suit Morty",
-        "since": "2022-04-25",
-        "images": [
-          "images/characters/announcement/sygna-morty.png"
-        ]
-      }
-    ]
-  },
-  {
     "title": "<a href='https://www.youtube.com/watch?v=kdja9m4YlT4&t=252'>Pokémon Presents 18.8.2021</a>",
     "characters": [
       {
@@ -50,6 +31,50 @@
   {
     "title": "Current Version (non-playable)",
     "characters": [
+      {
+        "name": "Archer",
+        "since": "2022-04-27",
+        "images": [
+          "images/characters/256/ch0141_00_apollo_256.ktx.png",
+          "images/mindscapes/Tx_ch0141_00_apollo_mindscape00.ktx.png"
+        ],
+        "notes": [
+          "Appears in the the Rocket Execs Assemble Villain Event and the Johto Villain Arc"
+        ]
+      },
+      {
+        "name": "Ariana",
+        "since": "2022-04-27",
+        "images": [
+          "images/characters/256/ch0142_00_athena_256.ktx.png",
+          "images/mindscapes/Tx_ch0142_00_athena_mindscape00.ktx.png"
+        ],
+        "notes": [
+          "Appears in the the Rocket Execs Assemble Villain Event and the Johto Villain Arc"
+        ]
+      },
+      {
+        "name": "Petrel",
+        "since": "2022-04-27",
+        "images": [
+          "images/characters/256/ch0143_00_lambda_256.ktx.png",
+          "images/mindscapes/Tx_ch0143_00_lambda_mindscape00.ktx.png"
+        ],
+        "notes": [
+          "Appears in the the Rocket Execs Assemble Villain Event and the Johto Villain Arc"
+        ]
+      },
+      {
+        "name": "Proton",
+        "since": "2022-04-27",
+        "images": [
+          "images/characters/256/ch0144_00_lance_256.ktx.png",
+          "images/mindscapes/Tx_ch0144_00_lance_mindscape00.ktx.png"
+        ],
+        "notes": [
+          "Appears in the the Rocket Execs Assemble Villain Event and the Johto Villain Arc"
+        ]
+      },
       {
         "name": "Cilan",
         "since": "2022-03-29",
@@ -592,7 +617,7 @@
     "title": "<a href='https://www.youtube.com/watch?v=5LYyycD0YPA'>Pokémon Masters Animated Trailer</a>",
     "characters": [
       {
-        "name": "Archer, Giovanni (FRLG), Ariana",
+        "name": "Giovanni (FRLG)",
         "since": "2019-06-27",
         "images": [
           "images/characters/trailer/team-rocket.png"

@@ -1318,6 +1318,12 @@
       "Kanto Strike",
       "Villain Strike",
       "Complicated Family Strike"
+    ],
+    "Sygna Suit Giovanni & Nidoking": [
+      "Ground Strike",
+      "Johto Strike",
+      "Villain Strike",
+      "Sygna Suit Strike"
     ]
   },
   "Morty": {
@@ -1333,6 +1339,13 @@
       "Johto Support",
       "Gym Leader Support",
       "Scarf Support",
+      "Supernatural Support"
+    ],
+    "Sygna Suit Morty & Ho-Oh": [
+      "Fire Support",
+      "Johto Support",
+      "Gym Leader Support",
+      "Sygna Suit Support",
       "Supernatural Support"
     ],
     "Morty (Fall 2021) & Banette": [
@@ -1369,12 +1382,29 @@
       "Contest Lover Strike"
     ]
   },
+  "Aaron": {
+    "Aaron & Vespiquen": [
+      "Bug Support",
+      "Sinnoh Support",
+      "Elite Four Support",
+      "Nature Lover Support"
+    ]
+  },
   "Glacia": {
     "Glacia & Glalie": [
       "Ice Support",
       "Hoenn Support",
       "Elite Four Support",
       "Grown Woman Support"
+    ]
+  },
+  "Bertha": {
+    "Bertha & Hippowdon": [
+      "Ground Tech",
+      "Sinnoh Tech",
+      "Elite Four Tech",
+      "Scarf Tech",
+      "Veteran Trainer Tech"
     ]
   },
   "Valerie": {
@@ -1452,6 +1482,15 @@
       "Seasonal Outfit Support",
       "Artistic Support",
       "Free Spirit Support"
+    ]
+  },
+  "Lucian": {
+    "Lucian & Girafarig": [
+      "Psychic Tech",
+      "Sinnoh Tech",
+      "Elite Four Tech",
+      "Glasses Tech",
+      "Knowledgeable Tech"
     ]
   },
   "Molayne": {
@@ -1937,6 +1976,10 @@
       "Normal Support",
       "Main Character Support"
     ],
+    "Player & Magikarp (Support)": [
+      "Water Support",
+      "Main Character Support"
+    ],
     "Player & Scyther (Tech)": [
       "Bug Tech",
       "Main Character Tech"
@@ -2153,6 +2196,10 @@
       "Normal Tech",
       "Main Character Tech"
     ],
+    "Player & Magikarp (Tech)": [
+      "Water Tech",
+      "Main Character Tech"
+    ],
     "Player & Bulbasaur (Physical Strike)": [
       "Grass Strike",
       "Main Character Strike"
@@ -2367,6 +2414,10 @@
     ],
     "Player & Happiny (Physical Strike)": [
       "Normal Strike",
+      "Main Character Strike"
+    ],
+    "Player & Magikarp (Special Strike)": [
+      "Water Strike",
       "Main Character Strike"
     ],
     "Player & Solgaleo": [

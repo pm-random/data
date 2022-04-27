@@ -138,7 +138,10 @@
   {"number": "0137", "name": "Professor Oak", "internal_name": "orchid1"},
 
   {"number": "0140", "name": "Giovanni", "internal_name": "sakaki"},
-
+  {"number": "0141", "name": "Archer", "internal_name": "apollo", "status": "npc"},
+  {"number": "0142", "name": "Ariana", "internal_name": "athena", "status": "npc"},
+  {"number": "0143", "name": "Petrel", "internal_name": "lambda", "status": "npc"},
+  {"number": "0144", "name": "Proton", "internal_name": "lance", "status": "npc"},
   {"number": "0145", "name": "Chili", "internal_name": "pod", "status": "npc"},
   {"number": "0146", "name": "Cress", "internal_name": "corn", "status": "npc"},
 
@@ -146,9 +149,9 @@
   {"number": "0149", "name": "Kiawe", "internal_name": "kaki"},
   {"number": "0150", "name": "Falkner", "internal_name": "hayato"},
   {"number": "0151", "name": "Fantina", "internal_name": "melissa"},
-
+  {"number": "0152", "name": "Aaron", "internal_name": "ryo"},
   {"number": "0153", "name": "Glacia", "internal_name": "prim"},
-
+  {"number": "0154", "name": "Bertha", "internal_name": "kikuno"},
   {"number": "0155", "name": "Drasna", "internal_name": "dracaena", "status": "id-only"},
 
   {"number": "0157", "name": "Valerie", "internal_name": "mache"},
@@ -159,6 +162,8 @@
   {"number": "0162", "name": "Lucas", "internal_name": "koki"},
 
   {"number": "0170", "name": "Burgh", "internal_name": "arty"},
+
+  {"number": "0176", "name": "Lucian", "internal_name": "goyo"},
 
   {"number": "0178", "name": "Anabel", "internal_name": "lira", "status": "id-only-early"},
 
