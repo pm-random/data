@@ -59,6 +59,50 @@
         ]
       },
       {
+        "name": "Archer",
+        "since": "2022-04-27",
+        "images": [
+          "images/characters/256/ch0141_00_apollo_256.ktx.png",
+          "images/mindscapes/Tx_ch0141_00_apollo_mindscape00.ktx.png"
+        ],
+        "notes": [
+          "Appears in Rocket Execs Assemble, and in the Johto Villain Arc"
+        ]
+      },
+      {
+        "name": "Ariana",
+        "since": "2022-04-27",
+        "images": [
+          "images/characters/256/ch0142_00_athena_256.ktx.png",
+          "images/mindscapes/Tx_ch0142_00_athena_mindscape00.ktx.png"
+        ],
+        "notes": [
+          "Appears in Rocket Execs Assemble, and in the Johto Villain Arc"
+        ]
+      },
+      {
+        "name": "Petrel",
+        "since": "2022-04-27",
+        "images": [
+          "images/characters/256/ch0143_00_lambda_256.ktx.png",
+          "images/mindscapes/Tx_ch0143_00_lambda_mindscape00.ktx.png"
+        ],
+        "notes": [
+          "Appears in Rocket Execs Assemble, and in the Johto Villain Arc"
+        ]
+      },
+      {
+        "name": "Proton",
+        "since": "2022-04-27",
+        "images": [
+          "images/characters/256/ch0144_00_lance_256.ktx.png",
+          "images/mindscapes/Tx_ch0144_00_lance_mindscape00.ktx.png"
+        ],
+        "notes": [
+          "Appears in Rocket Execs Assemble, and in the Johto Villain Arc"
+        ]
+      },
+      {
         "name": "Cilan",
         "since": "2022-03-29",
         "images": [
