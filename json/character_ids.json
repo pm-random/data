@@ -144,7 +144,7 @@
   {"number": "0144", "name": "Proton", "internal_name": "lance", "status": "npc"},
   {"number": "0145", "name": "Chili", "internal_name": "pod", "status": "npc"},
   {"number": "0146", "name": "Cress", "internal_name": "corn", "status": "npc"},
-
+  {"number": "0147", "name": "Hugh", "internal_name": "hugh", "status": "npc"},
   {"number": "0148", "name": "Morty", "internal_name": "matsuba"},
   {"number": "0149", "name": "Kiawe", "internal_name": "kaki"},
   {"number": "0150", "name": "Falkner", "internal_name": "hayato"},
@@ -201,7 +201,7 @@
   {"number": "0243", "name": "Gloria", "internal_name": "yuri"},
   {"number": "0244", "name": "Hop", "internal_name": "hop"},
   {"number": "0245", "name": "Marnie", "internal_name": "mary"},
-
+  {"number": "0246", "name": "Bede", "internal_name": "beet"},
   {"number": "0247", "name": "Leon", "internal_name": "dande"},
 
   {"number": "0249", "name": "Nessa", "internal_name": "rulina"},

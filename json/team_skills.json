@@ -39,6 +39,13 @@
       "Pigtails Support",
       "Pokéathlete Support"
     ],
+    "Sygna Suit Lyra & Celebi": [
+      "Grass Tech",
+      "Johto Tech",
+      "Main Character Tech",
+      "Sygna Suit Tech",
+      "Pigtails Tech"
+    ],
     "Lyra (Summer 2020) & Jigglypuff": [
       "Fairy Strike",
       "Johto Strike",
@@ -247,6 +254,13 @@
       "Main Character Strike",
       "Pigtails Strike",
       "Knowledgeable Strike"
+    ],
+    "Sygna Suit Kris & Suicune": [
+      "Water Support",
+      "Johto Support",
+      "Main Character Support",
+      "Sygna Suit Support",
+      "Knowledgeable Support"
     ]
   },
   "Brendan": {
@@ -1006,6 +1020,13 @@
       "Johto Strike",
       "Main Character Strike",
       "Pokéathlete Strike"
+    ],
+    "Sygna Suit Ethan & Lugia": [
+      "Flying Strike",
+      "Johto Strike",
+      "Main Character Strike",
+      "Sygna Suit Strike",
+      "Scarf Strike"
     ]
   },
   "Jasmine": {
@@ -1638,6 +1659,13 @@
       "Seasonal Outfit Tech",
       "Pigtails Tech",
       "Cook Tech"
+    ]
+  },
+  "Bede": {
+    "Bede & Hatterene": [
+      "Fairy Tech",
+      "Galar Tech",
+      "Rival Tech"
     ]
   },
   "Leon": {

@@ -310,6 +310,10 @@
       {
         "id": "ch0112_00_hibiki",
         "name": "Ethan"
+      },
+      {
+        "id": "ch0112_10_hibiki",
+        "name": "Sygna Suit Ethan"
       }
     ]
   },
@@ -625,6 +629,10 @@
       {
         "id": "ch0018_00_chris",
         "name": "Kris"
+      },
+      {
+        "id": "ch0018_10_chris",
+        "name": "Sygna Suit Kris"
       }
     ]
   },
@@ -1338,6 +1346,10 @@
         "name": "Lyra"
       },
       {
+        "id": "ch0002_10_kotone",
+        "name": "Sygna Suit Lyra"
+      },
+      {
         "id": "ch0002_40_kotone",
         "name": "Lyra (Summer 2020)"
       }
@@ -1706,6 +1718,26 @@
       {
         "id": "ch0194_10_akagi",
         "name": "Sygna Suit Cyrus"
+      }
+    ]
+  },
+  {
+    "name": "Takuma Nagatsuka",
+    "name_jp": "永塚拓馬",
+    "characters": [
+      {
+        "id": "ch0246_00_beet",
+        "name": "Bede"
+      }
+    ]
+  },
+  {
+    "name": "Tasuku Hatanaka",
+    "name_jp": "畠中祐",
+    "characters": [
+      {
+        "id": "ch0147_00_hugh",
+        "name": "Hugh"
       }
     ]
   },

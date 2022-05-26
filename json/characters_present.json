@@ -15,6 +15,17 @@
     "title": "Current Version (non-playable)",
     "characters": [
       {
+        "name": "Hugh",
+        "since": "2022-05-26",
+        "images": [
+          "images/characters/256/ch0147_00_hugh_256.ktx.png",
+          "images/mindscapes/Tx_ch0147_00_hugh_mindscape00.ktx.png"
+        ],
+        "notes": [
+          "Appears in the Rival Challenge Special Event"
+        ]
+      },
+      {
         "name": "Archer",
         "since": "2022-04-27",
         "images": [
@@ -621,13 +632,6 @@
         "since": "2019-06-27",
         "images": [
           "images/characters/trailer/team-rocket.png"
-        ]
-      },
-      {
-        "name": "Hugh",
-        "since": "2019-06-27",
-        "images": [
-          "images/characters/trailer/rivals.png"
         ]
       },
       {
