@@ -1,5 +1,21 @@
 [
   {
+    "title": "Apple Game Center leak",
+    "characters": [
+      {
+        "name": "N",
+        "since": "2022-06-24",
+        "images": [
+          "images/characters/leak/n-gamecenter-leak.png",
+          "images/characters/leak/n-gamecenter-leak-cropped.png"
+        ],
+        "notes": [
+          "Icon used for a brief amount of time in the Apple Game Center, instead of the Lugia one"
+        ]
+      }
+    ]
+  },
+  {
     "title": "Current Version (non-playable)",
     "characters": [
       {
