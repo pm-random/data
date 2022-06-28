@@ -69,7 +69,7 @@
       },
       {
         "id": "ch0130_40_serena",
-        "name": "Serena (Palentine’s 2021)"
+        "name": "Serena (Palentine's 2021)"
       }
     ]
   },
@@ -327,7 +327,7 @@
       },
       {
         "id": "ch0115_40_denji",
-        "name": "Volkner (New Year’s 2022)"
+        "name": "Volkner (New Year's 2022)"
       }
     ]
   },
@@ -369,7 +369,7 @@
       },
       {
         "id": "ch0250_40_saida",
-        "name": "Bea (Palentine’s 2022)"
+        "name": "Bea (Palentine's 2022)"
       }
     ]
   },
@@ -384,6 +384,10 @@
       {
         "id": "ch0243_40_yuri",
         "name": "Gloria (Summer 2021)"
+      },
+      {
+        "id": "ch0243_80_yuri",
+        "name": "Gloria (Dojo Uniform)"
       }
     ]
   },
@@ -452,6 +456,10 @@
       {
         "id": "ch0089_40_n",
         "name": "N (Anniversary 2021)"
+      },
+      {
+        "id": "ch0089_41_n",
+        "name": "N (Summer 2022)"
       }
     ]
   },
@@ -472,6 +480,16 @@
       {
         "id": "ch0040_00_hachiku",
         "name": "Brycen"
+      }
+    ]
+  },
+  {
+    "name": "Hironori Kondo",
+    "name_jp": "近藤浩徳",
+    "characters": [
+      {
+        "id": "ch0171_00_shijima",
+        "name": "Chuck"
       }
     ]
   },
@@ -849,7 +867,7 @@
       },
       {
         "id": "ch0118_40_lillie",
-        "name": "Lillie (New Year’s 2021)"
+        "name": "Lillie (New Year's 2021)"
       },
       {
         "id": "ch0118_41_lillie",
@@ -934,6 +952,10 @@
       {
         "id": "ch0004_40_toko",
         "name": "Hilda (Special Costume)"
+      },
+      {
+        "id": "ch0004_41_toko",
+        "name": "Hilda (Summer 2022)"
       }
     ]
   },
@@ -1138,6 +1160,16 @@
     ]
   },
   {
+    "name": "Rica Matsumoto",
+    "name_jp": "松本梨香",
+    "characters": [
+      {
+        "id": "ch0264_00_satoshi",
+        "name": "Ash"
+      }
+    ]
+  },
+  {
     "name": "Rie Takahashi",
     "name_jp": "高橋李依",
     "characters": [
@@ -1151,7 +1183,7 @@
       },
       {
         "id": "ch0116_40_hikari",
-        "name": "Dawn (Palentine’s 2021)"
+        "name": "Dawn (Palentine's 2021)"
       }
     ]
   },
@@ -1165,7 +1197,7 @@
       },
       {
         "id": "ch0114_40_natsume",
-        "name": "Sabrina (New Year’s 2022)"
+        "name": "Sabrina (New Year's 2022)"
       }
     ]
   },
@@ -1841,7 +1873,7 @@
       },
       {
         "id": "ch0111_40_wataru",
-        "name": "Lance (New Year’s 2021)"
+        "name": "Lance (New Year's 2021)"
       }
     ]
   },
@@ -1882,6 +1914,10 @@
       {
         "id": "ch0012_00_corni",
         "name": "Korrina"
+      },
+      {
+        "id": "ch0012_10_corni",
+        "name": "Sygna Suit Korrina"
       }
     ]
   },
@@ -2049,7 +2085,7 @@
       },
       {
         "id": "ch0245_41_mary",
-        "name": "Marnie (Palentine’s 2022)"
+        "name": "Marnie (Palentine's 2022)"
       }
     ]
   },

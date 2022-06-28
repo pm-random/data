@@ -1,23 +1,29 @@
 [
   {
-    "title": "Apple Game Center leak",
-    "characters": [
-      {
-        "name": "N",
-        "since": "2022-06-24",
-        "images": [
-          "images/characters/leak/n-gamecenter-leak.png",
-          "images/characters/leak/n-gamecenter-leak-cropped.png"
-        ],
-        "notes": [
-          "Icon used for a brief amount of time in the Apple Game Center, instead of the Lugia one"
-        ]
-      }
-    ]
-  },
-  {
     "title": "Current Version (non-playable)",
     "characters": [
+      {
+        "name": "Chuck",
+        "since": "2022-06-28",
+        "images": [
+          "images/characters/256/ch0171_00_shijima_256.ktx.png",
+          "images/mindscapes/Tx_ch0171_00_shijima_mindscape00.ktx.png"
+        ],
+        "notes": [
+          "Appears in the Strongest Fighters Solo Event"
+        ]
+      },
+      {
+        "name": "Ash",
+        "since": "2022-06-28",
+        "images": [
+          "images/characters/256/ch0264_00_satoshi_256.ktx.png",
+          "images/mindscapes/Tx_ch0264_00_satoshi_mindscape00.ktx.png"
+        ],
+        "notes": [
+          "Appears in The Classic Thunderbolt special event / Anime Collaboration"
+        ]
+      },
       {
         "name": "Hugh",
         "since": "2022-05-26",

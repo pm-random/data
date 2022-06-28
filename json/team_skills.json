@@ -77,6 +77,13 @@
       "Main Character Strike",
       "Passionate Spirit Strike",
       "Special Costume Strike"
+    ],
+    "Hilda (Summer 2022) & Grapploct": [
+      "Fighting Support",
+      "Unova Support",
+      "Seasonal Outfit Support",
+      "Passionate Spirit Support",
+      "Unova Adventurer Support"
     ]
   },
   "Lorelei": {
@@ -176,6 +183,12 @@
       "Kalos Strike",
       "Gym Leader Strike",
       "Passionate Spirit Strike"
+    ],
+    "Sygna Suit Korrina & Marshadow": [
+      "Ghost Tech",
+      "Kalos Tech",
+      "Sygna Suit Tech",
+      "Passionate Spirit Tech"
     ]
   },
   "Hapu": {
@@ -760,6 +773,13 @@
       "Rival Tech",
       "Seasonal Outfit Tech",
       "Supernatural Tech"
+    ],
+    "N (Summer 2022) & Zoroark": [
+      "Dark Strike",
+      "Unova Strike",
+      "Seasonal Outfit Strike",
+      "Supernatural Strike",
+      "Unova Adventurer Strike"
     ]
   },
   "Steven": {
@@ -1007,7 +1027,7 @@
       "Cape Strike",
       "Dragon Cousin Strike"
     ],
-    "Lance (New Year’s 2021) & Gyarados": [
+    "Lance (New Year's 2021) & Gyarados": [
       "Flying Strike",
       "Kanto Strike",
       "Seasonal Outfit Strike",
@@ -1052,7 +1072,7 @@
       "Gym Leader Support",
       "Supernatural Support"
     ],
-    "Sabrina (New Year’s 2022) & Chingling": [
+    "Sabrina (New Year's 2022) & Chingling": [
       "Psychic Support",
       "Kanto Support",
       "Seasonal Outfit Support",
@@ -1067,7 +1087,7 @@
       "Sinnoh Bros Tech",
       "Gadgeteer Tech"
     ],
-    "Volkner (New Year’s 2022) & Electivire": [
+    "Volkner (New Year's 2022) & Electivire": [
       "Electric Strike",
       "Sinnoh Strike",
       "Seasonal Outfit Strike",
@@ -1089,7 +1109,7 @@
       "Main Character Support",
       "Sygna Suit Support"
     ],
-    "Dawn (Palentine’s 2021) & Alcremie": [
+    "Dawn (Palentine's 2021) & Alcremie": [
       "Fairy Tech",
       "Sinnoh Tech",
       "Seasonal Outfit Tech",
@@ -1105,7 +1125,7 @@
       "Battle Partner Support",
       "Alola Adventurer Support"
     ],
-    "Lillie (New Year’s 2021) & Ribombee": [
+    "Lillie (New Year's 2021) & Ribombee": [
       "Bug Support",
       "Alola Support",
       "Seasonal Outfit Support",
@@ -1273,7 +1293,7 @@
       "Main Character Strike",
       "Sygna Suit Strike"
     ],
-    "Serena (Palentine’s 2021) & Whimsicott": [
+    "Serena (Palentine's 2021) & Whimsicott": [
       "Fairy Tech",
       "Kalos Tech",
       "Seasonal Outfit Tech",
@@ -1627,7 +1647,15 @@
       "Water Strike",
       "Galar Strike",
       "Main Character Strike",
-      "Seasonal Outfit Strike"
+      "Seasonal Outfit Strike",
+      "Galar Adventurer Strike"
+    ],
+    "Gloria (Dojo Uniform) & Urshifu": [
+      "Water Tech",
+      "Galar Tech",
+      "Main Character Tech",
+      "Passionate Spirit Tech",
+      "Galar Adventurer Tech"
     ]
   },
   "Hop": {
@@ -1651,9 +1679,10 @@
       "Fairy Tech",
       "Galar Tech",
       "Rival Tech",
-      "Seasonal Outfit Tech"
+      "Seasonal Outfit Tech",
+      "Galar Adventurer Tech"
     ],
-    "Marnie (Palentine’s 2022) & Mawile": [
+    "Marnie (Palentine's 2022) & Mawile": [
       "Steel Tech",
       "Galar Tech",
       "Seasonal Outfit Tech",
@@ -1665,7 +1694,8 @@
     "Bede & Hatterene": [
       "Fairy Tech",
       "Galar Tech",
-      "Rival Tech"
+      "Rival Tech",
+      "Galar Adventurer Tech"
     ]
   },
   "Leon": {
@@ -1714,7 +1744,7 @@
       "Body Builder Strike",
       "Sweet Tooth Strike"
     ],
-    "Bea (Palentine’s 2022) & Vanilluxe": [
+    "Bea (Palentine's 2022) & Vanilluxe": [
       "Ice Support",
       "Galar Support",
       "Seasonal Outfit Support",
@@ -2008,6 +2038,10 @@
       "Water Support",
       "Main Character Support"
     ],
+    "Player & Tyrogue (Support)": [
+      "Fighting Support",
+      "Main Character Support"
+    ],
     "Player & Scyther (Tech)": [
       "Bug Tech",
       "Main Character Tech"
@@ -2228,6 +2262,10 @@
       "Water Tech",
       "Main Character Tech"
     ],
+    "Player & Tyrogue (Tech)": [
+      "Fighting Tech",
+      "Main Character Tech"
+    ],
     "Player & Bulbasaur (Physical Strike)": [
       "Grass Strike",
       "Main Character Strike"
@@ -2446,6 +2484,10 @@
     ],
     "Player & Magikarp (Special Strike)": [
       "Water Strike",
+      "Main Character Strike"
+    ],
+    "Player & Tyrogue (Physical Strike)": [
+      "Fighting Strike",
       "Main Character Strike"
     ],
     "Player & Solgaleo": [

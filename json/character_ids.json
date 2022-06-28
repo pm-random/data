@@ -162,6 +162,7 @@
   {"number": "0162", "name": "Lucas", "internal_name": "koki"},
 
   {"number": "0170", "name": "Burgh", "internal_name": "arty"},
+  {"number": "0171", "name": "Chuck", "internal_name": "shijima", "status": "npc"},
 
   {"number": "0176", "name": "Lucian", "internal_name": "goyo"},
 
@@ -212,6 +213,8 @@
   {"number": "0257", "name": "Raihan", "internal_name": "qibana"},
   {"number": "0258", "name": "Meowth (Team Rocket)", "internal_name": "meowth", "status": "npc"},
   {"number": "0259", "name": "Sonia", "internal_name": "sania"},
+
+  {"number": "0264", "name": "Ash", "internal_name": "satoshi", "status": "npc"},
 
   {"number": "0522", "name": "Lady", "internal_name": "lady", "status": "npc"},
 
