@@ -1,5 +1,21 @@
 [
   {
+    "title": "Apple Game Center leak",
+    "characters": [
+      {
+        "name": "May",
+        "since": "2022-07-09",
+        "images": [
+          "images/characters/leak/may-gamecenter-1.jpg",
+          "images/characters/leak/may-gamecenter-2.jpg"
+        ],
+        "notes": [
+          "Icon used for a brief amount of time in the Apple Game Center"
+        ]
+      }
+    ]
+  },
+  {
     "title": "Current Version (non-playable)",
     "characters": [
       {
