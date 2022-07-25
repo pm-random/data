@@ -1,0 +1,222 @@
+{
+  "versions": [
+    {"name": "1.0.0", "date": "2019-07-25", "highlight": true},
+    {"name": "1.1.0", "date": "2019-08-29", "highlight": true},
+    {"name": "1.1.1", "date": "2019-09-06"},
+    {"name": "1.2.0", "date": "2019-09-25"},
+    {"name": "1.2.1", "date": "2019-10-08"},
+    {"name": "1.3.0", "date": "2019-10-28"},
+    {"name": "1.3.1", "date": "2019-11-05"},
+    {"name": "1.4.0", "date": "2019-11-25"},
+    {"name": "1.5.0", "date": "2019-12-23"},
+    {"name": "1.5.5", "date": "2020-01-15"},
+    {"name": "1.6.0", "date": "2020-01-27"},
+    {"name": "1.6.5", "date": "2020-02-10"},
+    {"name": "1.6.6", "date": "2020-02-14"},
+    {"name": "1.7.0", "date": "2020-02-20"},
+    {"name": "1.7.1", "date": "2020-02-27"},
+    {"name": "1.8.0", "date": "2020-03-23"},
+    {"name": "1.8.5", "date": "2020-04-08"},
+    {"name": "1.9.0", "date": "2020-04-27"},
+    {"name": "1.10.0", "date": "2020-05-25"},
+    {"name": "1.10.5", "date": "2020-06-08"},
+    {"name": "1.11.0", "date": "2020-06-25"},
+    {"name": "1.12.0", "date": "2020-07-29"},
+    {"name": "2.0.0", "date": "2020-08-25", "highlight": true},
+    {"name": "2.0.5", "date": "2020-09-07"},
+    {"name": "2.1.0", "date": "2020-09-28"},
+    {"name": "2.2.0", "date": "2020-10-28"},
+    {"name": "2.2.5", "date": "2020-11-04"},
+    {"name": "2.3.0", "date": "2020-11-26"},
+    {"name": "2.4.0", "date": "2020-12-21"},
+    {"name": "2.5.0", "date": "2021-01-26"},
+    {"name": "2.5.1", "date": "2021-01-27"},
+    {"name": "2.6.0", "date": "2021-02-24"},
+    {"name": "2.6.1", "date": "2021-03-09"},
+    {"name": "2.7.0", "date": "2021-03-29"},
+    {"name": "2.8.0", "date": "2021-04-26"},
+    {"name": "2.8.1", "date": "2021-04-30"},
+    {"name": "2.9.0", "date": "2021-05-27"},
+    {"name": "2.10.0", "date": "2021-06-28"},
+    {"name": "2.10.1", "date": "2021-07-15"},
+    {"name": "2.11.0", "date": "2021-07-28"},
+    {"name": "2.11.1", "date": "2021-08-10"},
+    {"name": "2.12.0", "date": "2021-08-27"},
+    {"name": "2.12.5", "date": "2021-09-14"},
+    {"name": "2.13.0", "date": "2021-09-28"},
+    {"name": "2.14.0", "date": "2021-10-27"},
+    {"name": "2.15.0", "date": "2021-11-25"},
+    {"name": "2.15.1", "date": "2021-11-29"},
+    {"name": "2.16.0", "date": "2021-12-21"},
+    {"name": "2.16.1", "date": "2021-12-27"},
+    {"name": "2.16.2", "date": "2022-01-11"},
+    {"name": "2.17.0", "date": "2022-01-17"},
+    {"name": "2.18.0", "date": "2022-02-24"},
+    {"name": "2.18.5", "date": "2022-03-15"},
+    {"name": "2.19.0", "date": "2022-03-29"},
+    {"name": "2.20.0", "date": "2022-04-27"},
+    {"name": "2.20.1", "date": "2022-04-28"},
+    {"name": "2.20.2", "date": "2022-05-06"},
+    {"name": "2.21.0", "date": "2022-05-26"},
+    {"name": "2.22.0", "date": "2022-06-28"}
+  ],
+  "letters": [
+    {"link": "https://pokemonmasters-game.com/en-US/announcements/Other_M2_W2_1", "date": "2019-10-09"},
+    {"link": "https://pokemonmasters-game.com/en-US/announcements/Other_M2_W3_3", "date": "2019-10-17"},
+    {"link": "https://pokemonmasters-game.com/en-US/announcements/Other_1100_W1_1", "date": "2019-11-07"},
+    {"link": "https://www.youtube.com/watch?v=WyVXo6A5gRo", "date": "2019-11-26"},
+    {"link": "https://pokemonmasters-game.com/en-US/announcements/Other_1120_1W_2", "date": "2019-12-26"},
+    {"link": "https://pokemonmasters-game.com/en-US/announcements/Other_1120_3W_1", "date": "2020-01-15"},
+    {"link": "https://pokemonmasters-game.com/en-US/announcements/Other_2020_1W_2", "date": "2020-02-27"},
+    {"link": "https://pokemonmasters-game.com/en-US/announcements/Other_2020_3W_2", "date": "2020-03-13"},
+    {"link": "https://pokemonmasters-game.com/en-US/announcements/Other_2030_4W_1", "date": "2020-04-17"},
+    {"link": "https://pokemonmasters-game.com/en-US/announcements/Other_2040_2W_1", "date": "2020-05-08"},
+    {"link": "https://pokemonmasters-game.com/en-US/announcements/Other_2050_4W_1", "date": "2020-06-11"},
+    {"link": "https://pokemonmasters-game.com/en-US/announcements/Other_2060_3W_1", "date": "2020-07-17"},
+    {"link": "https://www.youtube.com/watch?v=hNoFQr6fM_4", "date": "2020-08-17"},
+    {"link": "https://pokemonmasters-game.com/en-US/announcements/Other_2100_1W_1", "date": "2020-10-30"},
+    {"link": "https://pokemonmasters-game.com/en-US/announcements/Other_2100_4W_1", "date": "2020-11-25"},
+    {"link": "https://pokemonmasters-game.com/en-US/announcements/Other_2110_3W_1", "date": "2020-12-16"},
+    {"link": "https://pokemonmasters-game.com/en-US/announcements/Other_2120_4W_1", "date": "2021-01-15"},
+    {"link": "https://pokemonmasters-game.com/en-US/announcements/Other_3010_2W_1", "date": "2021-02-11"},
+    {"link": "https://pokemonmasters-game.com/en-US/announcements/Other_3020_3W_1", "date": "2021-03-15"},
+    {"link": "https://pokemonmasters-game.com/en-US/announcements/Other_3040_1W_1", "date": "2021-04-26"},
+    {"link": "https://pokemonmasters-game.com/en-US/announcements/Other_3040_3W_1", "date": "2021-05-14"},
+    {"link": "https://pokemonmasters-game.com/en-US/announcements/Other_3060_1W_1", "date": "2021-06-28"},
+    {"link": "https://pokemonmasters-game.com/en-US/announcements/Other_3070_1W_1", "date": "2021-07-26"},
+    {"link": "https://pokemonmasters-game.com/en-US/announcements/Other_3070_4W_1", "date": "2021-08-26"},
+    {"link": "https://pokemonmasters-game.com/en-US/announcements/Other_3080_4W_1", "date": "2021-09-28"},
+    {"link": "https://pokemonmasters-game.com/en-US/announcements/Other_3090_4W_1", "date": "2021-10-27"},
+    {"link": "https://pokemonmasters-game.com/en-US/announcements/Other_3100_4W_1", "date": "2021-11-25"},
+    {"link": "https://pokemonmasters-game.com/en-US/announcements/Other_3110_4W_1", "date": "2021-12-24"},
+    {"link": "https://pokemonmasters-game.com/en-US/announcements/Other_3110_4W_2", "date": "2022-01-01"},
+    {"link": "https://pokemonmasters-game.com/en-US/announcements/Other_3120_5W_1", "date": "2022-01-25"},
+    {"link": "https://pokemonmasters-game.com/en-US/announcements/Other_4010_5W_1", "date": "2022-02-28"},
+    {"link": "https://pokemonmasters-game.com/en-US/announcements/Other_4020_5W_1", "date": "2022-03-29"},
+    {"link": "https://pokemonmasters-game.com/en-US/announcements/Other_4030_5W_1", "date": "2022-04-25"},
+    {"link": "https://pokemonmasters-game.com/en-US/announcements/Other_4040_5W_1", "date": "2022-05-26"},
+    {"link": "https://pokemonmasters-game.com/en-US/announcements/Other_4050_5W_1", "date": "2022-06-28"}
+  ],
+  "milestones": [
+    {
+      "name": "DeNA FY2018 Operating Results reveal a new Pokémon mobile game",
+      "link": "https://dena.com/intl/ir/finance/result.html",
+      "date": "2019-05-10"
+    },
+    {
+      "name": "Pokémon Masters announced at the 2019 Pokémon Press Conference",
+      "link": "https://www.youtube.com/watch?v=vTWkBjxvBok",
+      "date": "2019-05-29"
+    },
+    {
+      "name": "Trailer: More Trainers, More Battles. 💥 Get Ready for Pokémon Masters!",
+      "link": "https://www.youtube.com/watch?v=QXuT7ZsrqRA",
+      "date": "2019-06-27"
+    },
+    {
+      "name": "Trailer: Get ready to battle like never before in Pokémon Masters!",
+      "link": "https://www.youtube.com/watch?v=oIwGe83JUo8",
+      "date": "2019-07-18"
+    },
+    {
+      "name": "Soft Launch (Singapore and Canada)",
+      "date": "2019-07-25"
+    },
+    {
+      "name": "Pokémon Masters playable at the 2019 Pokémon World Championships",
+      "link": "https://twitter.com/PokemonMasters/status/1159932448047882241",
+      "date": "2019-08-16"
+    },
+    {
+      "name": "Official Release",
+      "date": "2019-08-29"
+    },
+    {
+      "name": "Celebrate Pokémon! (SWSH promotion)",
+      "date": "2019-11-08"
+    },
+    {
+      "name": "First Poké Fair Scout (Lance and Dragonite)",
+      "date": "2019-12-26"
+    },
+    {
+      "name": "Trailer: Six Months of Sync Pairs in Pokémon Masters!",
+      "link": "https://www.youtube.com/watch?v=HahbHIIRgDY",
+      "date": "2020-02-27"
+    },
+    {
+      "name": "Six-Months Celebration & Battle Villa",
+      "date": "2020-02-28"
+    },
+    {
+      "name": "Pokémon Eggs",
+      "date": "2020-04-27"
+    },
+    {
+      "name": "Legendary Arena",
+      "date": "2020-06-11"
+    },
+    {
+      "name": "Celebrate Pokémon! (SWSH DLC promotion)",
+      "date": "2020-06-21"
+    },
+    {
+      "name": "Special Event: Double Trouble (Movie 23 promotion)",
+      "date": "2020-07-09"
+    },
+    {
+      "name": "Stamina",
+      "date": "2020-07-29"
+    },
+    {
+      "name": "Pokémon Masters renamed to Pokémon Masters EX",
+      "date": "2020-08-24"
+    },
+    {
+      "name": "1st Anniversary & Champion Stadium",
+      "link": "https://www.youtube.com/watch?v=BxPYKedhTL0",
+      "date": "2020-08-28"
+    },
+    {
+      "name": "Special Event: Blasting Off Again (Movie 23 promotion)",
+      "date": "2020-09-17"
+    },
+    {
+      "name": "First Gen 8 character added (Gloria)",
+      "date": "2020-11-30"
+    },
+    {
+      "name": "First Master Fair Scout (Leon and Charizard)",
+      "date": "2021-02-26"
+    },
+    {
+      "name": "1.5 Years Celebration",
+      "date": "2021-02-28"
+    },
+    {
+      "name": "Trailer: Pokémon Masters EX Two-Year Anniversary Celebration 🎉",
+      "link": "https://www.youtube.com/watch?v=QRNQe4Jpy_g",
+      "date": "2021-08-26"
+    },
+    {
+      "name": "Celebrate Pokémon! (BDSP login bonus)",
+      "date": "2021-11-19"
+    },
+    {
+      "name": "Celebrate Pokémon! (Legends Arceus login bonus)",
+      "date": "2022-01-28"
+    },
+    {
+      "name": "2.5 Years Celebration",
+      "date": "2022-02-28"
+    },
+    {
+      "name": "Legendary Gauntlet",
+      "date": "2022-06-11"
+    },
+    {
+      "name": "Special Event: The Classic Thunderbolt (Anime Collaboration)",
+      "date": "2022-07-07"
+    }
+  ]  
+}
