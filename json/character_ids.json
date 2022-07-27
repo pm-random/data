@@ -186,10 +186,10 @@
 
   {"number": "0215", "name": "Lisia", "internal_name": "lutia"},
 
-  {"number": "0217", "name": "Looker", "internal_name": "handsome", "status": "npc"},
+  {"number": "0217", "name": "Looker", "internal_name": "handsome"},
 
   {"number": "0221", "name": "Tabitha", "internal_name": "homura", "status": "npc"},
-  {"number": "0222", "name": "Courtney", "internal_name": "kagari", "status": "npc"},
+  {"number": "0222", "name": "Courtney", "internal_name": "kagari"},
   {"number": "0223", "name": "Matt", "internal_name": "ushio", "status": "npc"},
   {"number": "0224", "name": "Shelly", "internal_name": "izumi", "status": "npc"},
   {"number": "0225", "name": "Mars", "internal_name": "mars", "status": "npc"},
@@ -216,16 +216,23 @@
 
   {"number": "0264", "name": "Ash", "internal_name": "satoshi", "status": "npc"},
 
+  {"number": "0502", "name": "Team Aqua Grunt ♂", "internal_name": "aqua_shitappam", "status": "npc"},
+  {"number": "0503", "name": "Team Aqua Grunt ♀", "internal_name": "aqua_shitappaf", "status": "npc"},
+
   {"number": "0522", "name": "Lady", "internal_name": "lady", "status": "npc"},
 
   {"number": "0538", "name": "Team Galactic Grunt ♂", "internal_name": "gingam", "status": "npc"},
   {"number": "0539", "name": "Team Galactic Grunt ♀", "internal_name": "gingaf", "status": "npc"},
 
   {"number": "0552", "name": "Gentleman", "internal_name": "gentleman", "status": "npc"},
+
   {"number": "0613", "name": "Veteran ♂", "internal_name": "veteranm", "status": "npc"},
   {"number": "0614", "name": "Veteran ♀", "internal_name": "veteranf", "status": "npc"},
 
   {"number": "0623", "name": "Pokémon Breeder ♀", "internal_name": "pokemonbreederf", "status": "npc"},
+
+  {"number": "0626", "name": "Team Magma Grunt ♂", "internal_name": "magma_shitappam", "status": "npc"},
+  {"number": "0627", "name": "Team Magma Grunt ♀", "internal_name": "magma_shitappaf", "status": "npc"},
 
   {"number": "0640", "name": "Team Rocket Grunt ♂", "internal_name": "rocket_shitappam", "status": "npc"},
   {"number": "0641", "name": "Team Rocket Grunt ♀", "internal_name": "rocket_shitappaf", "status": "npc"}

@@ -58,7 +58,8 @@
     {"name": "2.20.1", "date": "2022-04-28"},
     {"name": "2.20.2", "date": "2022-05-06"},
     {"name": "2.21.0", "date": "2022-05-26"},
-    {"name": "2.22.0", "date": "2022-06-28"}
+    {"name": "2.22.0", "date": "2022-06-28"},
+    {"name": "2.23.0", "date": "2022-07-27"}
   ],
   "letters": [
     {"link": "https://pokemonmasters-game.com/en-US/announcements/Other_M2_W2_1", "date": "2019-10-09"},
@@ -95,7 +96,8 @@
     {"link": "https://pokemonmasters-game.com/en-US/announcements/Other_4020_5W_1", "date": "2022-03-29"},
     {"link": "https://pokemonmasters-game.com/en-US/announcements/Other_4030_5W_1", "date": "2022-04-25"},
     {"link": "https://pokemonmasters-game.com/en-US/announcements/Other_4040_5W_1", "date": "2022-05-26"},
-    {"link": "https://pokemonmasters-game.com/en-US/announcements/Other_4050_5W_1", "date": "2022-06-28"}
+    {"link": "https://pokemonmasters-game.com/en-US/announcements/Other_4050_5W_1", "date": "2022-06-28"},
+    {"link": "https://pokemonmasters-game.com/en-US/announcements/Other_4060_5W_1", "date": "2022-07-22"}
   ],
   "milestones": [
     {

@@ -1,23 +1,47 @@
 [
   {
-    "title": "Apple Game Center leak",
-    "characters": [
-      {
-        "name": "May",
-        "date": "2022-07-09",
-        "images": [
-          "images/characters/leak/may-gamecenter-1.jpg",
-          "images/characters/leak/may-gamecenter-2.jpg"
-        ],
-        "notes": [
-          "Icon used for a brief amount of time in the Apple Game Center"
-        ]
-      }
-    ]
-  },
-  {
     "title": "Current Version (non-playable)",
     "characters": [
+      {
+        "name": "Team Aqua Grunt ♂",
+        "date": "2022-07-27",
+        "images": [
+          "images/characters/256/ch0502_30_aqua_shitappam_256.ktx.png"
+        ],
+        "notes": [
+          "Appears in the Hoenn Villain Arc"
+        ]
+      },
+      {
+        "name": "Team Aqua Grunt ♀",
+        "date": "2022-07-27",
+        "images": [
+          "images/characters/256/ch0503_30_aqua_shitappaf_256.ktx.png"
+        ],
+        "notes": [
+          "Appears in the Hoenn Villain Arc"
+        ]
+      },
+      {
+        "name": "Team Aqua Grunt ♂",
+        "date": "2022-07-27",
+        "images": [
+          "images/characters/256/ch0626_30_magma_shitappam_256.ktx.png"
+        ],
+        "notes": [
+          "Appears in the Hoenn Villain Arc"
+        ]
+      },
+      {
+        "name": "Team Magma Grunt ♀",
+        "date": "2022-07-27",
+        "images": [
+          "images/characters/256/ch0627_30_magma_shitappaf_256.ktx.png"
+        ],
+        "notes": [
+          "Appears in the Hoenn Villain Arc"
+        ]
+      },
       {
         "name": "Chuck",
         "date": "2022-06-28",
@@ -183,17 +207,6 @@
         ]
       },
       {
-        "name": "Looker",
-        "date": "2021-12-21",
-        "images": [
-          "images/characters/256/ch0217_00_handsome_256.ktx.png"
-        ],
-        "notes": [
-          "Appears in the Sinnoh Villain Arc, with Croagunk",
-          "Previously listed in the db/master/pb/FieldTalkVoice.pb file in versions 1.0.0 to 1.1.1"
-        ]
-      },
-      {
         "name": "Tina",
         "date": "2021-11-24",
         "images": [
@@ -267,6 +280,37 @@
         ]
       },
       {
+        "name": "Matt",
+        "images": [
+          "images/characters/render/matt.png"
+        ],
+        "date": "2021-05-27",
+        "notes": [
+          "Appears in the <a href='https://bulbapedia.bulbagarden.net/wiki/List_of_story_events_in_Pok%C3%A9mon_Masters_EX#Masters_of_Land_and_Sea'>Masters of Land and Sea</a> story event and the Hoenn Villain Arc"
+        ]
+      },
+      {
+        "name": "Shelly",
+        "images": [
+          "images/characters/render/shelly.png"
+        ],
+        "date": "2021-05-27",
+        "notes": [
+          "Appears in the <a href='https://bulbapedia.bulbagarden.net/wiki/List_of_story_events_in_Pok%C3%A9mon_Masters_EX#Masters_of_Land_and_Sea'>Masters of Land and Sea</a> story event and the Hoenn Villain Arc"
+        ]
+      },
+      {
+        "name": "Tabitha",
+        "images": [
+          "images/characters/256/ch0221_00_homura_256.ktx.png",
+          "images/mindscapes/Tx_ch0221_00_homura_mindscape00.ktx.png"
+        ],
+        "date": "2021-05-27",
+        "notes": [
+          "Appears in the <a href='https://bulbapedia.bulbagarden.net/wiki/List_of_story_events_in_Pok%C3%A9mon_Masters_EX#Masters_of_Land_and_Sea'>Masters of Land and Sea</a> story event and the Hoenn Villain Arc"
+        ]
+      },
+      {
         "name": "Benga",
         "date": "2020-10-28",
         "notes": [
@@ -286,6 +330,15 @@
         ]
       },
       {
+        "name": "Drasna",
+        "date": "2020-07-29",
+        "notes": [
+          "Listed in the db/master/pb/FieldTalkVoice.pb file as ch0155_00_dracaena",
+          "No model",
+          "No voicelines"
+        ]
+      },
+      {
         "name": "Meowth (Team Rocket)",
         "images": [
           "images/monsters/128/pm0052_00_nyarth_128.ktx.png"
@@ -294,59 +347,6 @@
         "notes": [
           "Appears in the <a href='https://bulbapedia.bulbagarden.net/wiki/List_of_special_events_in_Pok%C3%A9mon_Masters_EX#Double_Trouble'>Double Trouble</a> and <a href='https://bulbapedia.bulbagarden.net/wiki/List_of_special_events_in_Pok%C3%A9mon_Masters_EX#Blasting_Off_Again'>Blasting Off Again</a> special events",
           "Voiced by his anime voice actor"
-        ]
-      },
-      {
-        "name": "Matt",
-        "images": [
-          "images/characters/render/matt.png"
-        ],
-        "date": "2021-05-27",
-        "notes": [
-          "Appears in the <a href='https://bulbapedia.bulbagarden.net/wiki/List_of_story_events_in_Pok%C3%A9mon_Masters_EX#Masters_of_Land_and_Sea'>Masters of Land and Sea</a> story event",
-          "No voicelines"
-        ]
-      },
-      {
-        "name": "Shelly",
-        "images": [
-          "images/characters/render/shelly.png"
-        ],
-        "date": "2021-05-27",
-        "notes": [
-          "Appears in the <a href='https://bulbapedia.bulbagarden.net/wiki/List_of_story_events_in_Pok%C3%A9mon_Masters_EX#Masters_of_Land_and_Sea'>Masters of Land and Sea</a> story event",
-          "No voicelines"
-        ]
-      },
-      {
-        "name": "Tabitha",
-        "images": [
-          "images/characters/render/tabitha.png"
-        ],
-        "date": "2021-05-27",
-        "notes": [
-          "Appears in the <a href='https://bulbapedia.bulbagarden.net/wiki/List_of_story_events_in_Pok%C3%A9mon_Masters_EX#Masters_of_Land_and_Sea'>Masters of Land and Sea</a> story event",
-          "No voicelines"
-        ]
-      },
-      {
-        "name": "Courtney",
-        "images": [
-          "images/characters/render/courtney.png"
-        ],
-        "date": "2021-05-27",
-        "notes": [
-          "Appears in the <a href='https://bulbapedia.bulbagarden.net/wiki/List_of_story_events_in_Pok%C3%A9mon_Masters_EX#Masters_of_Land_and_Sea'>Masters of Land and Sea</a> story event",
-          "No voicelines"
-        ]
-      },
-      {
-        "name": "Drasna",
-        "date": "2020-07-29",
-        "notes": [
-          "Listed in the db/master/pb/FieldTalkVoice.pb file as ch0155_00_dracaena",
-          "No model",
-          "No voicelines"
         ]
       },
       {

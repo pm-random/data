@@ -36,6 +36,10 @@
         "name": "May"
       },
       {
+        "id": "ch0126_10_haruka",
+        "name": "Sygna Suit May"
+      },
+      {
         "id": "ch0126_40_haruka",
         "name": "May (Spring 2021)"
       },
@@ -94,6 +98,16 @@
       {
         "id": "ch0050_00_sumomo",
         "name": "Maylene"
+      }
+    ]
+  },
+  {
+    "name": "Akihiro Hori",
+    "name_jp": "堀曜宏",
+    "characters": [
+      {
+        "id": "ch0502_30_aqua_shitappam",
+        "name": "Team Aqua Grunt"
       }
     ]
   },
@@ -548,6 +562,16 @@
       {
         "id": "ch0157_00_mache",
         "name": "Valerie"
+      }
+    ]
+  },
+  {
+    "name": "Izumi Chiba",
+    "name_jp": "千葉泉",
+    "characters": [
+      {
+        "id": "ch0627_30_magma_shitappaf",
+        "name": "Team Magma Grunt"
       }
     ]
   },
@@ -1024,6 +1048,16 @@
     ]
   },
   {
+    "name": "Michiko Neya",
+    "name_jp": "根谷美智子",
+    "characters": [
+      {
+        "id": "ch0224_00_izumi",
+        "name": "Shelly"
+      }
+    ]
+  },
+  {
     "name": "Michiyo Murase",
     "name_jp": "村瀬迪与",
     "characters": [
@@ -1048,6 +1082,16 @@
       {
         "id": "ch0091_20_shirona",
         "name": "Sygna Suit Cynthia (Renegade)"
+      }
+    ]
+  },
+  {
+    "name": "Minori Chihara",
+    "name_jp": "茅原実里",
+    "characters": [
+      {
+        "id": "ch0222_00_kagari",
+        "name": "Courtney"
       }
     ]
   },
@@ -1428,6 +1472,16 @@
     ]
   },
   {
+    "name": "Shino Shimoji",
+    "name_jp": "下地紫野",
+    "characters": [
+      {
+        "id": "ch0503_30_aqua_shitappaf",
+        "name": "Team Aqua Grunt"
+      }
+    ]
+  },
+  {
     "name": "Shintaro Asanuma",
     "name_jp": "浅沼晋太郎",
     "characters": [
@@ -1798,6 +1852,16 @@
     ]
   },
   {
+    "name": "Tatsuki Kobe",
+    "name_jp": "光部樹",
+    "characters": [
+      {
+        "id": "ch0626_30_magma_shitappam",
+        "name": "Team Magma Grunt"
+      }
+    ]
+  },
+  {
     "name": "Tomoaki Maeno",
     "name_jp": "前野智昭",
     "characters": [
@@ -1894,6 +1958,16 @@
       {
         "id": "ch0193_00_aogiri",
         "name": "Archie"
+      }
+    ]
+  },
+  {
+    "name": "Tsuyoshi Koyama",
+    "name_jp": "小山剛志",
+    "characters": [
+      {
+        "id": "ch0223_00_ushio",
+        "name": "Matt"
       }
     ]
   },
@@ -2146,6 +2220,10 @@
       {
         "id": "ch0019_00_yuki",
         "name": "Brendan"
+      },
+      {
+        "id": "ch0019_10_yuki",
+        "name": "Sygna Suit Brendan"
       },
       {
         "id": "ch0244_00_hop",
