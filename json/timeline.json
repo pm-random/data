@@ -59,7 +59,8 @@
     {"name": "2.20.2", "date": "2022-05-06"},
     {"name": "2.21.0", "date": "2022-05-26"},
     {"name": "2.22.0", "date": "2022-06-28"},
-    {"name": "2.23.0", "date": "2022-07-27"}
+    {"name": "2.23.0", "date": "2022-07-27"},
+    {"name": "2.23.5", "date": "2022-08-08"}
   ],
   "letters": [
     {"link": "https://pokemonmasters-game.com/en-US/announcements/Other_M2_W2_1", "date": "2019-10-09"},

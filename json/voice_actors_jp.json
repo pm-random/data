@@ -835,6 +835,10 @@
       {
         "id": "ch0140_10_sakaki",
         "name": "Sygna Suit Giovanni"
+      },
+      {
+        "id": "ch0140_80_sakaki",
+        "name": "Giovanni (Classic)"
       }
     ]
   },
@@ -1868,6 +1872,10 @@
       {
         "id": "ch0090_00_daigo",
         "name": "Steven"
+      },
+      {
+        "id": "ch0090_10_daigo",
+        "name": "Sygna Suit Steven"
       },
       {
         "id": "ch0090_40_daigo",

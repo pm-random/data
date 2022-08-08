@@ -282,7 +282,8 @@
       {
         "name": "Matt",
         "images": [
-          "images/characters/render/matt.png"
+          "images/characters/256/ch0223_00_ushio_256.ktx.png",
+          "images/mindscapes/Tx_ch0223_00_ushio_mindscape00.ktx.png"
         ],
         "date": "2021-05-27",
         "notes": [
@@ -292,7 +293,8 @@
       {
         "name": "Shelly",
         "images": [
-          "images/characters/render/shelly.png"
+          "images/characters/256/ch0224_00_izumi_256.ktx.png",
+          "images/mindscapes/Tx_ch0224_00_izumi_mindscape00.ktx.png"
         ],
         "date": "2021-05-27",
         "notes": [
@@ -680,13 +682,6 @@
   {
     "title": "<a href='https://www.youtube.com/watch?v=5LYyycD0YPA'>Pokémon Masters Animated Trailer</a>",
     "characters": [
-      {
-        "name": "Giovanni (FRLG)",
-        "date": "2019-06-27",
-        "images": [
-          "images/characters/trailer/team-rocket.png"
-        ]
-      },
       {
         "name": "Palmer",
         "date": "2019-06-27",
