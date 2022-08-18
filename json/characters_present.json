@@ -1,5 +1,23 @@
 [
   {
+    "title": "Official Japanese Twitter Account & Pokémon Worlds 2022",
+    "characters": [
+      {
+        "name": "Ash",
+        "date": "2022-08-18",
+        "images": [
+          "images/characters/trailer/worlds-20220818.jpg",
+          "images/characters/256/ch0264_00_satoshi_256.ktx.png",
+          "images/mindscapes/Tx_ch0264_00_satoshi_mindscape00.ktx.png"
+        ],
+        "notes": [
+          "<a href='https://www.youtube.com/watch?v=yhu7yjELvbU'>Video</a>",
+          "Appeared in The Classic Thunderbolt special event / Anime Collaboration"
+        ]
+      }
+    ]
+  },
+  {
     "title": "Current Version (non-playable)",
     "characters": [
       {
@@ -51,17 +69,6 @@
         ],
         "notes": [
           "Appears in the Strongest Fighters Solo Event"
-        ]
-      },
-      {
-        "name": "Ash",
-        "date": "2022-06-28",
-        "images": [
-          "images/characters/256/ch0264_00_satoshi_256.ktx.png",
-          "images/mindscapes/Tx_ch0264_00_satoshi_mindscape00.ktx.png"
-        ],
-        "notes": [
-          "Appears in The Classic Thunderbolt special event / Anime Collaboration"
         ]
       },
       {
@@ -665,16 +672,6 @@
         ],
         "notes": [
           "<a href='https://www.youtube.com/watch?v=kdja9m4YlT4&t=252'>Video</a>"
-        ]
-      },
-      {
-        "name": "???",
-        "date": "2022-08-03",
-        "images": [
-          "images/characters/trailer/presents-20220803.jpg"
-        ],
-        "notes": [
-          "<a href='https://youtu.be/ojiBuA97rdc?t=382'>Video</a>"
         ]
       }
     ]
