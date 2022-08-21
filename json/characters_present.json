@@ -1,5 +1,20 @@
 [
   {
+    "title": "The Pokémon Company newsletter",
+    "characters": [
+      {
+        "name": "Cynthia, Red",
+        "date": "2022-08-21",
+        "images": [
+          "images/characters/announcement/newsletter-20220821.png"
+        ],
+        "notes": [
+          "Image contained in the latest email of the newsletter"
+        ]
+      }
+    ]
+  },
+  {
     "title": "Official Japanese Twitter Account & Pokémon Worlds 2022",
     "characters": [
       {
