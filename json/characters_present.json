@@ -6,7 +6,7 @@
         "name": "Ash",
         "date": "2022-08-18",
         "images": [
-          "images/characters/trailer/worlds-20220818.jpg",
+          "images/characters/announcement/worlds-20220818.jpg",
           "images/characters/256/ch0264_00_satoshi_256.ktx.png",
           "images/mindscapes/Tx_ch0264_00_satoshi_mindscape00.ktx.png"
         ],
@@ -571,7 +571,7 @@
         "images": [
           "images/characters/beta/ch0014_00_cheren_1024.ktx.png",
           "images/mindscapes/beta/Tx_ch0014_00_cheren_mindscape00.ktx.png",
-          "images/characters/trailer/cheren-crop.png"
+          "images/characters/announcement/cheren-crop.png"
         ],
         "notes": [
           "No voicelines",
@@ -668,7 +668,7 @@
         "name": "Rose",
         "date": "2021-08-18",
         "images": [
-          "images/characters/trailer/presents-20210818.jpg"
+          "images/characters/announcement/presents-20210818.jpg"
         ],
         "notes": [
           "<a href='https://www.youtube.com/watch?v=kdja9m4YlT4&t=252'>Video</a>"
@@ -683,7 +683,7 @@
         "name": "Palmer",
         "date": "2019-06-27",
         "images": [
-          "images/characters/trailer/sinnoh-frontier.png"
+          "images/characters/announcement/sinnoh-frontier.png"
         ]
       }
     ]
