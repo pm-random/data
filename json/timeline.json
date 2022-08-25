@@ -60,7 +60,8 @@
     {"name": "2.21.0", "date": "2022-05-26"},
     {"name": "2.22.0", "date": "2022-06-28"},
     {"name": "2.23.0", "date": "2022-07-27"},
-    {"name": "2.23.5", "date": "2022-08-08"}
+    {"name": "2.23.5", "date": "2022-08-08"},
+    {"name": "2.24.0", "date": "2022-08-25"}
   ],
   "letters": [
     {"link": "https://pokemonmasters-game.com/en-US/announcements/Other_M2_W2_1", "date": "2019-10-09"},
@@ -98,7 +99,8 @@
     {"link": "https://pokemonmasters-game.com/en-US/announcements/Other_4030_5W_1", "date": "2022-04-25"},
     {"link": "https://pokemonmasters-game.com/en-US/announcements/Other_4040_5W_1", "date": "2022-05-26"},
     {"link": "https://pokemonmasters-game.com/en-US/announcements/Other_4050_5W_1", "date": "2022-06-28"},
-    {"link": "https://pokemonmasters-game.com/en-US/announcements/Other_4060_5W_1", "date": "2022-07-22"}
+    {"link": "https://pokemonmasters-game.com/en-US/announcements/Other_4060_5W_1", "date": "2022-07-22"},
+    {"link": "https://pokemonmasters-game.com/en-US/announcements/Other_4070_5W_1", "date": "2022-08-25"}
   ],
   "milestones": [
     {
@@ -246,6 +248,10 @@
     {
       "name": "3rd Anniversary, First Buddy Move Pair (Ash and Pikachu)",
       "date": "2022-08-28"
+    },
+    {
+      "name": "First scoutable generic pair (Sightseer Naomi and Sandslash)",
+      "date": "2022-09-25"
     }
   ]  
 }

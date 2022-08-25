@@ -1,5 +1,15 @@
 [
   {
+    "name": "Ai Kakuma",
+    "name_jp": "加隈亜衣",
+    "characters": [
+      {
+        "id": "ch0204_00_lanuit",
+        "name": "Nita"
+      }
+    ]
+  },
+  {
     "name": "Ai Kaneta",
     "name_jp": "金田愛",
     "characters": [
@@ -88,6 +98,10 @@
       {
         "id": "ch0101_10_mei",
         "name": "Rosa (Holiday 2019)"
+      },
+      {
+        "id": "ch0101_41_mei",
+        "name": "Rosa (Special Costume)"
       }
     ]
   },
@@ -370,6 +384,10 @@
       {
         "id": "ch0131_00_citron",
         "name": "Clemont"
+      },
+      {
+        "id": "ch0530_70_sightseerm",
+        "name": "Sightseer"
       }
     ]
   },
@@ -1032,6 +1050,20 @@
     ]
   },
   {
+    "name": "Mayuki Makiguchi",
+    "name_jp": "牧口真幸",
+    "characters": [
+      {
+        "id": "ch0531_70_sightseerf",
+        "name": "Sightseer"
+      },
+      {
+        "id": "ch0651_78_nanase",
+        "name": "Naomi (Sightseer)"
+      }
+    ]
+  },
+  {
     "name": "Megumi Hayashibara",
     "name_jp": "林原めぐみ",
     "characters": [
@@ -1082,6 +1114,10 @@
       {
         "id": "ch0091_01_shirona",
         "name": "Sygna Suit Cynthia"
+      },
+      {
+        "id": "ch0091_10_shirona",
+        "name": "Sygna Suit Cynthia (Aura)"
       },
       {
         "id": "ch0091_20_shirona",
@@ -1594,6 +1630,10 @@
       {
         "id": "ch0000_00_red",
         "name": "Sygna Suit Red"
+      },
+      {
+        "id": "ch0000_10_red",
+        "name": "Sygna Suit Red (Thunderbolt)"
       },
       {
         "id": "ch0000_80_red",

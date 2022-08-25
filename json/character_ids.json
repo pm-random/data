@@ -180,6 +180,7 @@
 
   {"number": "0198", "name": "Lucy", "internal_name": "azami"},
 
+  {"number": "0204", "name": "Nita", "internal_name": "lanuit"},
   {"number": "0205", "name": "Evelyn", "internal_name": "lesoir"},
 
   {"number": "0212", "name": "Benga", "internal_name": "banjiro", "status": "id-only"},
@@ -214,12 +215,15 @@
   {"number": "0258", "name": "Meowth (Team Rocket)", "internal_name": "meowth", "status": "npc"},
   {"number": "0259", "name": "Sonia", "internal_name": "sania"},
 
-  {"number": "0264", "name": "Ash", "internal_name": "satoshi", "status": "npc"},
+  {"number": "0264", "name": "Ash", "internal_name": "satoshi"},
 
   {"number": "0502", "name": "Team Aqua Grunt ♂", "internal_name": "aqua_shitappam", "status": "npc"},
   {"number": "0503", "name": "Team Aqua Grunt ♀", "internal_name": "aqua_shitappaf", "status": "npc"},
 
   {"number": "0522", "name": "Lady", "internal_name": "lady", "status": "npc"},
+
+  {"number": "0530", "name": "Sightseer ♂", "internal_name": "sightseerm", "status": "npc"},
+  {"number": "0531", "name": "Sightseer ♀", "internal_name": "sightseerf", "excludeFromCount": true},
 
   {"number": "0538", "name": "Team Galactic Grunt ♂", "internal_name": "gingam", "status": "npc"},
   {"number": "0539", "name": "Team Galactic Grunt ♀", "internal_name": "gingaf", "status": "npc"},
@@ -235,5 +239,7 @@
   {"number": "0627", "name": "Team Magma Grunt ♀", "internal_name": "magma_shitappaf", "status": "npc"},
 
   {"number": "0640", "name": "Team Rocket Grunt ♂", "internal_name": "rocket_shitappam", "status": "npc"},
-  {"number": "0641", "name": "Team Rocket Grunt ♀", "internal_name": "rocket_shitappaf", "status": "npc"}
+  {"number": "0641", "name": "Team Rocket Grunt ♀", "internal_name": "rocket_shitappaf", "status": "npc"},
+
+  {"number": "0651", "name": "Naomi (Sightseer)", "internal_name": "nanase"}
 ]

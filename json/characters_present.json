@@ -1,40 +1,14 @@
 [
   {
-    "title": "The Pokémon Company newsletter",
-    "characters": [
-      {
-        "name": "Cynthia, Red",
-        "date": "2022-08-21",
-        "images": [
-          "images/characters/announcement/newsletter-20220821.png"
-        ],
-        "notes": [
-          "Image contained in the latest email of the newsletter"
-        ]
-      }
-    ]
-  },
-  {
-    "title": "Official Japanese Twitter Account & Pokémon Worlds 2022",
-    "characters": [
-      {
-        "name": "Ash",
-        "date": "2022-08-18",
-        "images": [
-          "images/characters/announcement/worlds-20220818.jpg",
-          "images/characters/256/ch0264_00_satoshi_256.ktx.png",
-          "images/mindscapes/Tx_ch0264_00_satoshi_mindscape00.ktx.png"
-        ],
-        "notes": [
-          "<a href='https://www.youtube.com/watch?v=yhu7yjELvbU'>Video</a>",
-          "Appeared in The Classic Thunderbolt special event / Anime Collaboration"
-        ]
-      }
-    ]
-  },
-  {
     "title": "Current Version (non-playable)",
     "characters": [
+      {
+        "name": "Sightseer ♂",
+        "date": "2022-08-25",
+        "images": [
+          "images/characters/256/ch0530_70_sightseerm_256.ktx.png"
+        ]
+      },
       {
         "name": "Team Aqua Grunt ♂",
         "date": "2022-07-27",
