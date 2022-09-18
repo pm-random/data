@@ -1,5 +1,21 @@
 [
   {
+    "title": "Voice actor leak",
+    "characters": [
+      {
+        "name": "Shauna",
+        "date": "2022-09-17",
+        "images": [
+          "images/characters/leak/shauna-va-leak.webp"
+        ],
+        "notes": [
+          "Posted by her <a href='https://twitter.com/gkbowes'>English voice actor</a>, now deleted",
+          "<a href='https://www.youtube.com/watch?v=t0cGbaKrtHU'>Poce video</a>"
+        ]
+      }
+    ]    
+  },
+  {
     "title": "Current Version (non-playable)",
     "characters": [
       {
