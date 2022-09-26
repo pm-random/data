@@ -171,7 +171,7 @@
   {"number": "0183", "name": "Molayne", "internal_name": "molayne"},
 
   {"number": "0190", "name": "Ryuki", "internal_name": "ryuki", "status": "npc"},
-
+  {"number": "0191", "name": "Colress", "internal_name": "achroma", "status": "npc"},
   {"number": "0192", "name": "Maxie", "internal_name": "matsubusa"},
   {"number": "0193", "name": "Archie", "internal_name": "aogiri"},
   {"number": "0194", "name": "Cyrus", "internal_name": "akagi"},
@@ -199,7 +199,7 @@
 
   {"number": "0240", "name": "Jessie", "internal_name": "musashi"},
   {"number": "0241", "name": "James", "internal_name": "kojiro"},
-
+  {"number": "0242", "name": "Victor", "internal_name": "masaru"},
   {"number": "0243", "name": "Gloria", "internal_name": "yuri"},
   {"number": "0244", "name": "Hop", "internal_name": "hop"},
   {"number": "0245", "name": "Marnie", "internal_name": "mary"},
@@ -210,6 +210,8 @@
   {"number": "0250", "name": "Bea", "internal_name": "saida"},
   {"number": "0251", "name": "Allister", "internal_name": "onion"},
 
+  {"number": "0254", "name": "Gordie", "internal_name": "gordie"},
+  {"number": "0255", "name": "Melony", "internal_name": "melon"},
   {"number": "0256", "name": "Piers", "internal_name": "nezz"},
   {"number": "0257", "name": "Raihan", "internal_name": "qibana"},
   {"number": "0258", "name": "Meowth (Team Rocket)", "internal_name": "meowth", "status": "npc"},
@@ -220,6 +222,7 @@
   {"number": "0502", "name": "Team Aqua Grunt ♂", "internal_name": "aqua_shitappam", "status": "npc"},
   {"number": "0503", "name": "Team Aqua Grunt ♀", "internal_name": "aqua_shitappaf", "status": "npc"},
 
+  {"number": "0521", "name": "Hex Maniac", "internal_name": "hexmaniac", "excludeFromCount": true},
   {"number": "0522", "name": "Lady", "internal_name": "lady", "status": "npc"},
 
   {"number": "0530", "name": "Sightseer ♂", "internal_name": "sightseerm", "status": "npc"},
@@ -241,5 +244,6 @@
   {"number": "0640", "name": "Team Rocket Grunt ♂", "internal_name": "rocket_shitappam", "status": "npc"},
   {"number": "0641", "name": "Team Rocket Grunt ♀", "internal_name": "rocket_shitappaf", "status": "npc"},
 
-  {"number": "0651", "name": "Naomi (Sightseer)", "internal_name": "nanase"}
+  {"number": "0651", "name": "Naomi (Sightseer)", "internal_name": "nanase"},
+  {"number": "0652", "name": "Helena (Hex Maniac)", "internal_name": "sayoko"}
 ]

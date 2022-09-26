@@ -240,6 +240,10 @@
         "name": "Iris"
       },
       {
+        "id": "ch0092_40_iris",
+        "name": "Iris (Fall 2022)"
+      },
+      {
         "id": "ch0092_80_iris",
         "name": "Iris (Champion)"
       }
@@ -298,6 +302,10 @@
       {
         "id": "ch0128_00_mitsuru",
         "name": "Wally"
+      },
+      {
+        "id": "ch0128_10_mitsuru",
+        "name": "Sygna Suit Wally"
       }
     ]
   },
@@ -492,6 +500,16 @@
       {
         "id": "ch0089_41_n",
         "name": "N (Summer 2022)"
+      }
+    ]
+  },
+  {
+    "name": "Hiro Shimono",
+    "name_jp": "下野紘",
+    "characters": [
+      {
+        "id": "ch0242_00_masaru",
+        "name": "Victor"
       }
     ]
   },
@@ -887,6 +905,16 @@
       {
         "id": "ch0127_00_mikuri",
         "name": "Wallace"
+      }
+    ]
+  },
+  {
+    "name": "Kouji Yusa",
+    "name_jp": "遊佐浩二",
+    "characters": [
+      {
+        "id": "ch0191_00_achroma",
+        "name": "Colress"
       }
     ]
   },
@@ -1320,6 +1348,10 @@
       {
         "id": "ch0251_00_onion",
         "name": "Allister"
+      },
+      {
+        "id": "ch0251_40_onion",
+        "name": "Allister (Fall 2022)"
       }
     ]
   },
@@ -1382,6 +1414,20 @@
       {
         "id": "ch0071_09_otona",
         "name": "Beauty [Team Break]"
+      }
+    ]
+  },
+  {
+    "name": "Saori Oonishi",
+    "name_jp": "大西沙織",
+    "characters": [
+      {
+        "id": "ch0521_60_hexmaniac",
+        "name": "Hex Maniac"
+      },
+      {
+        "id": "ch0652_68_sayoko",
+        "name": "Helena (Hex Maniac)"
       }
     ]
   },
@@ -1852,6 +1898,16 @@
     ]
   },
   {
+    "name": "Taku Yashiro",
+    "name_jp": "八代拓",
+    "characters": [
+      {
+        "id": "ch0254_00_gordie",
+        "name": "Gordie"
+      }
+    ]
+  },
+  {
     "name": "Takuma Nagatsuka",
     "name_jp": "永塚拓馬",
     "characters": [
@@ -2290,6 +2346,16 @@
       {
         "id": "ch0109_40_kudari",
         "name": "Emmet (Special Costume)"
+      }
+    ]
+  },
+  {
+    "name": "Yuuko Kaida",
+    "name_jp": "甲斐田裕子",
+    "characters": [
+      {
+        "id": "ch0255_00_melon",
+        "name": "Melony"
       }
     ]
   },

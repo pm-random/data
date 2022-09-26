@@ -19,6 +19,13 @@
     "title": "Current Version (non-playable)",
     "characters": [
       {
+        "name": "Colress",
+        "date": "2022-09-26",
+        "images": [
+          "images/characters/render/colress.png"
+        ]
+      },
+      {
         "name": "Sightseer ♂",
         "date": "2022-08-25",
         "images": [
