@@ -19,13 +19,34 @@
     "title": "Current Version (non-playable)",
     "characters": [
       {
-        "name": "Colress",
-        "date": "2022-09-26",
+        "name": "The Shadow Triad",
+        "date": "2022-10-27",
         "images": [
-          "images/characters/render/colress.png"
+          "images/characters/256/ch0265_00_shadowtriad1_256.ktx.png",
+          "images/mindscapes/Tx_ch0265_00_shadowtriad1_mindscape00.ktx.png"
         ],
         "notes": [
-          "Appears in Paulo Interludes 3 and 4 of the Main Story"
+          "Appear in the Unova Villain Arc"
+        ]
+      },
+      {
+        "name": "Team Plasma Grunt ♂",
+        "date": "2022-10-27",
+        "images": [
+          "images/characters/256/ch0608_50_plasma_shitappam_256.ktx.png"
+        ],
+        "notes": [
+          "Appears in the Unova Villain Arc"
+        ]
+      },
+      {
+        "name": "Team Plasma Grunt ♀",
+        "date": "2022-10-27",
+        "images": [
+          "images/characters/256/ch0609_50_plasma_shitappaf_256.ktx.png"
+        ],
+        "notes": [
+          "Appears in the Unova Villain Arc"
         ]
       },
       {
@@ -84,17 +105,6 @@
         ],
         "notes": [
           "Appears in the Strongest Fighters Solo Event"
-        ]
-      },
-      {
-        "name": "Hugh",
-        "date": "2022-05-26",
-        "images": [
-          "images/characters/256/ch0147_00_hugh_256.ktx.png",
-          "images/mindscapes/Tx_ch0147_00_hugh_mindscape00.ktx.png"
-        ],
-        "notes": [
-          "Appears in the Rival Challenge Special Event"
         ]
       },
       {

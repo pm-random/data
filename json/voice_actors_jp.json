@@ -156,6 +156,16 @@
     ]
   },
   {
+    "name": "Arisa Kori",
+    "name_jp": "香里有佐",
+    "characters": [
+      {
+        "id": "ch0609_50_plasma_shitappaf",
+        "name": "Team Plasma Grunt"
+      }
+    ]
+  },
+  {
     "name": "Atsushi Abe",
     "name_jp": "阿部敦",
     "characters": [
@@ -442,6 +452,16 @@
     ]
   },
   {
+    "name": "Fumitake Ishiguro",
+    "name_jp": "石黒史剛",
+    "characters": [
+      {
+        "id": "ch0608_50_plasma_shitappam",
+        "name": "Team Plasma Grunt"
+      }
+    ]
+  },
+  {
     "name": "Haruka Ito",
     "name_jp": "伊藤はるか",
     "characters": [
@@ -491,7 +511,7 @@
       },
       {
         "id": "ch0089_10_n",
-        "name": "N"
+        "name": "Sygna Suit N"
       },
       {
         "id": "ch0089_40_n",
@@ -674,6 +694,10 @@
       {
         "id": "ch0020_00_toya",
         "name": "Hilbert"
+      },
+      {
+        "id": "ch0020_10_toya",
+        "name": "Sygna Suit Hilbert"
       },
       {
         "id": "ch0020_40_toya",
@@ -1022,6 +1046,10 @@
       {
         "id": "ch0004_00_toko",
         "name": "Hilda"
+      },
+      {
+        "id": "ch0004_10_toko",
+        "name": "Sygna Suit Hilda"
       },
       {
         "id": "ch0004_40_toko",
@@ -1806,6 +1834,24 @@
       {
         "id": "ch0227_00_saturn",
         "name": "Saturn"
+      }
+    ]
+  },
+  {
+    "name": "Takaaki Torashima",
+    "name_jp": "虎島貴明",
+    "characters": [
+      {
+        "id": "ch0265_00_shadowtriad1",
+        "name": "The Shadow Triad"
+      },
+      {
+        "id": "ch0266_00_shadowtriad2",
+        "name": "The Shadow Triad"
+      },
+      {
+        "id": "ch0267_00_shadowtriad3",
+        "name": "The Shadow Triad"
       }
     ]
   },

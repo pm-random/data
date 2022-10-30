@@ -144,7 +144,7 @@
   {"number": "0144", "name": "Proton", "internal_name": "lance", "status": "npc"},
   {"number": "0145", "name": "Chili", "internal_name": "pod", "status": "npc"},
   {"number": "0146", "name": "Cress", "internal_name": "corn", "status": "npc"},
-  {"number": "0147", "name": "Hugh", "internal_name": "hugh", "status": "npc"},
+  {"number": "0147", "name": "Hugh", "internal_name": "hugh"},
   {"number": "0148", "name": "Morty", "internal_name": "matsuba"},
   {"number": "0149", "name": "Kiawe", "internal_name": "kaki"},
   {"number": "0150", "name": "Falkner", "internal_name": "hayato"},
@@ -171,7 +171,7 @@
   {"number": "0183", "name": "Molayne", "internal_name": "molayne"},
 
   {"number": "0190", "name": "Ryuki", "internal_name": "ryuki", "status": "npc"},
-  {"number": "0191", "name": "Colress", "internal_name": "achroma", "status": "npc"},
+  {"number": "0191", "name": "Colress", "internal_name": "achroma"},
   {"number": "0192", "name": "Maxie", "internal_name": "matsubusa"},
   {"number": "0193", "name": "Archie", "internal_name": "aogiri"},
   {"number": "0194", "name": "Cyrus", "internal_name": "akagi"},
@@ -218,6 +218,9 @@
   {"number": "0259", "name": "Sonia", "internal_name": "sania"},
 
   {"number": "0264", "name": "Ash", "internal_name": "satoshi"},
+  {"number": "0265", "name": "The Shadow Triad", "internal_name": "shadowtriad1", "status": "npc"},
+  {"number": "0266", "name": "The Shadow Triad", "internal_name": "shadowtriad2", "status": "npc"},
+  {"number": "0267", "name": "The Shadow Triad", "internal_name": "shadowtriad3", "status": "npc"},
 
   {"number": "0502", "name": "Team Aqua Grunt ♂", "internal_name": "aqua_shitappam", "status": "npc"},
   {"number": "0503", "name": "Team Aqua Grunt ♀", "internal_name": "aqua_shitappaf", "status": "npc"},
@@ -232,6 +235,9 @@
   {"number": "0539", "name": "Team Galactic Grunt ♀", "internal_name": "gingaf", "status": "npc"},
 
   {"number": "0552", "name": "Gentleman", "internal_name": "gentleman", "status": "npc"},
+
+  {"number": "0608", "name": "Team Plasma Grunt ♂", "internal_name": "plasma_shitappam", "status": "npc"},
+  {"number": "0609", "name": "Team Plasma Grunt ♀", "internal_name": "plasma_shitappaf", "status": "npc"},
 
   {"number": "0613", "name": "Veteran ♂", "internal_name": "veteranm", "status": "npc"},
   {"number": "0614", "name": "Veteran ♀", "internal_name": "veteranf", "status": "npc"},

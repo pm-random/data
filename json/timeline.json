@@ -62,7 +62,8 @@
     {"name": "2.23.0", "date": "2022-07-27"},
     {"name": "2.23.5", "date": "2022-08-08"},
     {"name": "2.24.0", "date": "2022-08-25"},
-    {"name": "2.25.0", "date": "2022-09-26"}
+    {"name": "2.25.0", "date": "2022-09-26"},
+    {"name": "2.26.0", "date": "2022-10-27"}
   ],
   "letters": [
     {"link": "https://pokemonmasters-game.com/en-US/announcements/Other_M2_W2_1", "date": "2019-10-09"},
@@ -102,7 +103,8 @@
     {"link": "https://pokemonmasters-game.com/en-US/announcements/Other_4050_5W_1", "date": "2022-06-28"},
     {"link": "https://pokemonmasters-game.com/en-US/announcements/Other_4060_5W_1", "date": "2022-07-22"},
     {"link": "https://pokemonmasters-game.com/en-US/announcements/Other_4070_5W_1", "date": "2022-08-25"},
-    {"link": "https://pokemonmasters-game.com/en-US/announcements/Other_4080_5W_1", "date": "2022-09-26"}
+    {"link": "https://pokemonmasters-game.com/en-US/announcements/Other_4080_5W_1", "date": "2022-09-26"},
+    {"link": "https://pokemonmasters-game.com/en-US/announcements/Other_4090_4W_1", "date": "2022-10-27"}
   ],
   "milestones": [
     {
@@ -260,6 +262,10 @@
     {
       "name": "First Fair-Exclusive Sync Grid tiles (Sygna Suit Wally and Gardevoir)",
       "date": "2022-09-28"
+    },
+    {
+      "name": "Celebrate Pokémon! (SV promotion)",
+      "date": "2022-11-18"
     }
-  ]  
+  ]
 }
