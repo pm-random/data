@@ -84,6 +84,10 @@
       {
         "id": "ch0130_40_serena",
         "name": "Serena (Palentine's 2021)"
+      },
+      {
+        "id": "ch0130_90_serena",
+        "name": "Serena (Champion)"
       }
     ]
   },
@@ -255,7 +259,7 @@
       },
       {
         "id": "ch0092_80_iris",
-        "name": "Iris (Champion)"
+        "name": "Iris (Alt.)"
       }
     ]
   },
@@ -825,6 +829,10 @@
       {
         "id": "ch0003_00_calme",
         "name": "Calem"
+      },
+      {
+        "id": "ch0003_90_calme",
+        "name": "Calem (Champion)"
       }
     ]
   },
@@ -2258,6 +2266,10 @@
       {
         "id": "ch0113_40_mikan",
         "name": "Jasmine (Special Costume)"
+      },
+      {
+        "id": "ch0113_41_mikan",
+        "name": "Jasmine (Holiday 2022)"
       }
     ]
   },
@@ -2360,6 +2372,10 @@
       {
         "id": "ch0026_00_akane",
         "name": "Whitney"
+      },
+      {
+        "id": "ch0026_40_akane",
+        "name": "Whitney (Holiday 2022)"
       }
     ]
   },
