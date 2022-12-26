@@ -1,23 +1,64 @@
 [
   {
-    "title": "Voice actor leak",
-    "characters": [
-      {
-        "name": "Shauna",
-        "date": "2022-09-17",
-        "images": [
-          "images/characters/leak/shauna-va-leak.webp"
-        ],
-        "notes": [
-          "Posted by her <a href='https://twitter.com/gkbowes'>English voice actor</a>, now deleted",
-          "<a href='https://www.youtube.com/watch?v=t0cGbaKrtHU'>Poce video</a>"
-        ]
-      }
-    ]    
-  },
-  {
     "title": "Current Version (non-playable)",
     "characters": [
+      {
+        "name": "Malva",
+        "date": "2022-12-26",
+        "images": [
+          "images/characters/256/ch0177_00_pachira_256.ktx.png",
+          "images/mindscapes/Tx_ch0177_00_pachira_mindscape00.ktx.png"
+        ]
+      },
+      {
+        "name": "Tierno",
+        "date": "2022-12-26",
+        "images": [
+          "images/characters/256/ch0180_00_tierno_256.ktx.png",
+          "images/mindscapes/Tx_ch0180_00_tierno_mindscape00.ktx.png"
+        ],
+        "notes": [
+          "Appears in Villain Event: Battle! Friends from Kalos"
+        ]
+      },
+      {
+        "name": "Trevor",
+        "date": "2022-12-26",
+        "images": [
+          "images/characters/256/ch0181_00_trova_256.ktx.png",
+          "images/mindscapes/Tx_ch0181_00_trova_mindscape00.ktx.png"
+        ],
+        "notes": [
+          "Appears in Villain Event: Battle! Friends from Kalos"
+        ]
+      },
+      {
+        "name": "Emma",
+        "date": "2022-12-26",
+        "images": [
+          "images/characters/render/emma.png"
+        ]
+      },
+      {
+        "name": "Team Flare Grunt ♂",
+        "date": "2022-12-26",
+        "images": [
+          "images/characters/256/ch0611_60_flare_shitappam_256.ktx.png"
+        ],
+        "notes": [
+          "Appears in the Kalos Villain Arc"
+        ]
+      },
+      {
+        "name": "Team Flare Grunt ♀",
+        "date": "2022-12-26",
+        "images": [
+          "images/characters/256/ch0644_60_flare_shitappaf_256.ktx.png"
+        ],
+        "notes": [
+          "Appears in the Kalos Villain Arc"
+        ]
+      },
       {
         "name": "The Shadow Triad",
         "date": "2022-10-27",

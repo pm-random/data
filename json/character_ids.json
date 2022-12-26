@@ -137,6 +137,7 @@
   {"number": "0136", "name": "Professor Sycamore", "internal_name": "platane"},
   {"number": "0137", "name": "Professor Oak", "internal_name": "orchid1"},
 
+  {"number": "0139", "name": "Shauna", "internal_name": "sana"},
   {"number": "0140", "name": "Giovanni", "internal_name": "sakaki"},
   {"number": "0141", "name": "Archer", "internal_name": "apollo", "status": "npc"},
   {"number": "0142", "name": "Ariana", "internal_name": "athena", "status": "npc"},
@@ -168,6 +169,8 @@
 
   {"number": "0178", "name": "Anabel", "internal_name": "lira", "status": "id-only-early"},
 
+  {"number": "0180", "name": "Tierno", "internal_name": "tierno", "status": "npc"},
+
   {"number": "0183", "name": "Molayne", "internal_name": "molayne"},
 
   {"number": "0190", "name": "Ryuki", "internal_name": "ryuki", "status": "npc"},
@@ -189,6 +192,7 @@
 
   {"number": "0217", "name": "Looker", "internal_name": "handsome"},
 
+  {"number": "0220", "name": "Emma", "internal_name": "matiere", "status": "npc"},
   {"number": "0221", "name": "Tabitha", "internal_name": "homura", "status": "npc"},
   {"number": "0222", "name": "Courtney", "internal_name": "kagari"},
   {"number": "0223", "name": "Matt", "internal_name": "ushio", "status": "npc"},
@@ -238,6 +242,8 @@
 
   {"number": "0608", "name": "Team Plasma Grunt ♂", "internal_name": "plasma_shitappam", "status": "npc"},
   {"number": "0609", "name": "Team Plasma Grunt ♀", "internal_name": "plasma_shitappaf", "status": "npc"},
+  {"number": "0610", "name": "Furisode Girl", "internal_name": "furisodegirl", "excludeFromCount": true},
+  {"number": "0611", "name": "Team Flare Grunt ♂", "internal_name": "flare_shitappam", "status": "npc"},
 
   {"number": "0613", "name": "Veteran ♂", "internal_name": "veteranm", "status": "npc"},
   {"number": "0614", "name": "Veteran ♀", "internal_name": "veteranf", "status": "npc"},
@@ -250,6 +256,9 @@
   {"number": "0640", "name": "Team Rocket Grunt ♂", "internal_name": "rocket_shitappam", "status": "npc"},
   {"number": "0641", "name": "Team Rocket Grunt ♀", "internal_name": "rocket_shitappaf", "status": "npc"},
 
+  {"number": "0644", "name": "Team Flare Grunt ♀", "internal_name": "flare_shitappaf", "status": "npc"},
+
   {"number": "0651", "name": "Naomi (Sightseer)", "internal_name": "nanase"},
-  {"number": "0652", "name": "Helena (Hex Maniac)", "internal_name": "sayoko"}
+  {"number": "0652", "name": "Helena (Hex Maniac)", "internal_name": "sayoko"},
+  {"number": "0653", "name": "Kali (Furisode Girl)", "internal_name": "kirika"}
 ]

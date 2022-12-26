@@ -1,2434 +1,2538 @@
-[
-  {
-    "name": "Ai Kakuma",
-    "name_jp": "加隈亜衣",
-    "characters": [
-      {
-        "id": "ch0204_00_lanuit",
-        "name": "Nita"
-      }
-    ]
-  },
-  {
-    "name": "Ai Kaneta",
-    "name_jp": "金田愛",
-    "characters": [
-      {
-        "id": "ch0121_00_plumeria",
-        "name": "Plumeria"
-      }
-    ]
-  },
-  {
-    "name": "Ai Kayano",
-    "name_jp": "茅野愛衣",
-    "characters": [
-      {
-        "id": "ch0008_00_erika",
-        "name": "Erika"
-      },
-      {
-        "id": "ch0008_10_erika",
-        "name": "Sygna Suit Erika"
-      },
-      {
-        "id": "ch0008_40_erika",
-        "name": "Erika (Holiday 2020)"
-      }
-    ]
-  },
-  {
-    "name": "Ai Nonaka",
-    "name_jp": "野中藍",
-    "characters": [
-      {
-        "id": "ch0126_00_haruka",
-        "name": "May"
-      },
-      {
-        "id": "ch0126_10_haruka",
-        "name": "Sygna Suit May"
-      },
-      {
-        "id": "ch0126_40_haruka",
-        "name": "May (Spring 2021)"
-      },
-      {
-        "id": "ch0126_41_haruka",
-        "name": "May (Anniversary 2022)"
-      }
-    ]
-  },
-  {
-    "name": "Aimi",
-    "name_jp": "愛美",
-    "characters": [
-      {
-        "id": "ch0129_00_higana",
-        "name": "Zinnia"
-      }
-    ]
-  },
-  {
-    "name": "Akari Kito",
-    "name_jp": "鬼頭明里",
-    "characters": [
-      {
-        "id": "ch0130_00_serena",
-        "name": "Serena"
-      },
-      {
-        "id": "ch0130_10_serena",
-        "name": "Sygna Suit Serena"
-      },
-      {
-        "id": "ch0130_40_serena",
-        "name": "Serena (Palentine's 2021)"
-      },
-      {
-        "id": "ch0130_90_serena",
-        "name": "Serena (Champion)"
-      }
-    ]
-  },
-  {
-    "name": "Aki Toyosaki",
-    "name_jp": "豊崎愛生",
-    "characters": [
-      {
-        "id": "ch0101_00_mei",
-        "name": "Rosa"
-      },
-      {
-        "id": "ch0101_10_mei",
-        "name": "Rosa (Holiday 2019)"
-      },
-      {
-        "id": "ch0101_41_mei",
-        "name": "Rosa (Special Costume)"
-      }
-    ]
-  },
-  {
-    "name": "Akiha Matsui",
-    "name_jp": "松井暁波",
-    "characters": [
-      {
-        "id": "ch0050_00_sumomo",
-        "name": "Maylene"
-      }
-    ]
-  },
-  {
-    "name": "Akihiro Hori",
-    "name_jp": "堀曜宏",
-    "characters": [
-      {
-        "id": "ch0502_30_aqua_shitappam",
-        "name": "Team Aqua Grunt"
-      }
-    ]
-  },
-  {
-    "name": "Akio Otsuka",
-    "name_jp": "大塚明夫",
-    "characters": [
-      {
-        "id": "ch0196_00_fleurdelis",
-        "name": "Lysandre"
-      }
-    ]
-  },
-  {
-    "name": "Ami Naga",
-    "name_jp": "名賀亜美",
-    "characters": [
-      {
-        "id": "ch0031_00_fuu",
-        "name": "Tate"
-      }
-    ]
-  },
-  {
-    "name": "Ari Ozawa",
-    "name_jp": "小澤亜李",
-    "characters": [
-      {
-        "id": "ch0013_00_hapu",
-        "name": "Hapu"
-      }
-    ]
-  },
-  {
-    "name": "Arisa Kori",
-    "name_jp": "香里有佐",
-    "characters": [
-      {
-        "id": "ch0609_50_plasma_shitappaf",
-        "name": "Team Plasma Grunt"
-      }
-    ]
-  },
-  {
-    "name": "Atsushi Abe",
-    "name_jp": "阿部敦",
-    "characters": [
-      {
-        "id": "ch0014_01_cheren",
-        "name": "Cheren"
-      }
-    ]
-  },
-  {
-    "name": "Aya Endo",
-    "name_jp": "遠藤綾",
-    "characters": [
-      {
-        "id": "ch0039_00_viola",
-        "name": "Viola"
-      }
-    ]
-  },
-  {
-    "name": "Aya Hisakawa",
-    "name_jp": "久川綾",
-    "characters": [
-      {
-        "id": "ch0158_00_carnet",
-        "name": "Diantha"
-      },
-      {
-        "id": "ch0158_40_carnet",
-        "name": "Diantha (Special Costume)"
-      }
-    ]
-  },
-  {
-    "name": "Aya Kawakami",
-    "name_jp": "川上彩",
-    "characters": [
-      {
-        "id": "ch0078_00_rangerf",
-        "name": "Pokémon Ranger"
-      },
-      {
-        "id": "ch0078_09_rangerf",
-        "name": "Pokémon Ranger [Team Break]"
-      },
-      {
-        "id": "ch0079_00_miniskirt",
-        "name": "Lass"
-      },
-      {
-        "id": "ch0079_09_miniskirt",
-        "name": "Lass [Team Break]"
-      }
-    ]
-  },
-  {
-    "name": "Ayahi Takagaki",
-    "name_jp": "高垣彩陽",
-    "characters": [
-      {
-        "id": "ch0105_00_rival2",
-        "name": "Tina"
-      }
-    ]
-  },
-  {
-    "name": "Ayako Kamegai",
-    "name_jp": "亀谷理子",
-    "characters": [
-      {
-        "id": "ch0030_00_ran",
-        "name": "Liza"
-      }
-    ]
-  },
-  {
-    "name": "Ayana Taketatsu",
-    "name_jp": "竹達彩奈",
-    "characters": [
-      {
-        "id": "ch0092_00_iris",
-        "name": "Iris"
-      },
-      {
-        "id": "ch0092_40_iris",
-        "name": "Iris (Fall 2022)"
-      },
-      {
-        "id": "ch0092_80_iris",
-        "name": "Iris (Alt.)"
-      }
-    ]
-  },
-  {
-    "name": "Ayane Sakura",
-    "name_jp": "佐倉綾音",
-    "characters": [
-      {
-        "id": "ch0110_00_kasumi",
-        "name": "Misty (Swimsuit)"
-      },
-      {
-        "id": "ch0110_01_kasumi",
-        "name": "Misty"
-      },
-      {
-        "id": "ch0110_10_kasumi",
-        "name": "Sygna Suit Misty"
-      }
-    ]
-  },
-  {
-    "name": "Ayano Shibuya",
-    "name_jp": "渋谷彩乃",
-    "characters": [
-      {
-        "id": "ch0081_00_enjif",
-        "name": "Preschooler"
-      },
-      {
-        "id": "ch0085_00_hopef",
-        "name": "Rising Star"
-      },
-      {
-        "id": "ch0085_09_hopef",
-        "name": "Rising Star [Team Break]"
-      }
-    ]
-  },
-  {
-    "name": "Ayumi Kinoshita",
-    "name_jp": "木下あゆ美",
-    "characters": [
-      {
-        "id": "ch0226_00_jupiter",
-        "name": "Jupiter"
-      }
-    ]
-  },
-  {
-    "name": "Ayumu Murase",
-    "name_jp": "村瀬歩",
-    "characters": [
-      {
-        "id": "ch0128_00_mitsuru",
-        "name": "Wally"
-      },
-      {
-        "id": "ch0128_10_mitsuru",
-        "name": "Sygna Suit Wally"
-      }
-    ]
-  },
-  {
-    "name": "Chisa Suganuma",
-    "name_jp": "菅沼千紗",
-    "characters": [
-      {
-        "id": "ch0011_00_homika",
-        "name": "Roxie"
-      }
-    ]
-  },
-  {
-    "name": "Cho",
-    "name_jp": "チョー",
-    "characters": [
-      {
-        "id": "ch0032_00_yanagi",
-        "name": "Pryce"
-      }
-    ]
-  },
-  {
-    "name": "Daiki Yamashita",
-    "name_jp": "山下大輝",
-    "characters": [
-      {
-        "id": "ch0098_00_hau",
-        "name": "Hau"
-      }
-    ]
-  },
-  {
-    "name": "Daisuke Hirose",
-    "name_jp": "廣瀬大介",
-    "characters": [
-      {
-        "id": "ch0112_00_hibiki",
-        "name": "Ethan"
-      },
-      {
-        "id": "ch0112_10_hibiki",
-        "name": "Sygna Suit Ethan"
-      }
-    ]
-  },
-  {
-    "name": "Daisuke Namikawa",
-    "name_jp": "浪川大輔",
-    "characters": [
-      {
-        "id": "ch0115_00_denji",
-        "name": "Volkner"
-      },
-      {
-        "id": "ch0115_40_denji",
-        "name": "Volkner (New Year's 2022)"
-      }
-    ]
-  },
-  {
-    "name": "Daisuke Ono",
-    "name_jp": "小野大輔",
-    "characters": [
-      {
-        "id": "ch0048_00_gima",
-        "name": "Grimsley"
-      },
-      {
-        "id": "ch0048_10_gima",
-        "name": "Sygna Suit Grimsley"
-      },
-      {
-        "id": "ch0048_80_gima",
-        "name": "Grimsley (Kimono)"
-      }
-    ]
-  },
-  {
-    "name": "Daisuke Sakaguchi",
-    "name_jp": "阪口大助",
-    "characters": [
-      {
-        "id": "ch0131_00_citron",
-        "name": "Clemont"
-      },
-      {
-        "id": "ch0530_70_sightseerm",
-        "name": "Sightseer"
-      }
-    ]
-  },
-  {
-    "name": "Eri Kitamura",
-    "name_jp": "喜多村英梨",
-    "characters": [
-      {
-        "id": "ch0250_00_saida",
-        "name": "Bea"
-      },
-      {
-        "id": "ch0250_40_saida",
-        "name": "Bea (Palentine's 2022)"
-      }
-    ]
-  },
-  {
-    "name": "Eri Yukimura",
-    "name_jp": "幸村恵理",
-    "characters": [
-      {
-        "id": "ch0243_00_yuri",
-        "name": "Gloria"
-      },
-      {
-        "id": "ch0243_40_yuri",
-        "name": "Gloria (Summer 2021)"
-      },
-      {
-        "id": "ch0243_80_yuri",
-        "name": "Gloria (Dojo Uniform)"
-      }
-    ]
-  },
-  {
-    "name": "Eriko Kadokura",
-    "name_jp": "角倉英里子",
-    "characters": [
-      {
-        "id": "ch0539_70_gingaf",
-        "name": "Team Galactic Grunt"
-      }
-    ]
-  },
-  {
-    "name": "Fumitake Ishiguro",
-    "name_jp": "石黒史剛",
-    "characters": [
-      {
-        "id": "ch0608_50_plasma_shitappam",
-        "name": "Team Plasma Grunt"
-      }
-    ]
-  },
-  {
-    "name": "Haruka Ito",
-    "name_jp": "伊藤はるか",
-    "characters": [
-      {
-        "id": "ch0027_00_natane",
-        "name": "Gardenia"
-      }
-    ]
-  },
-  {
-    "name": "Haruka Shamoto",
-    "name_jp": "社本悠",
-    "characters": [
-      {
-        "id": "ch0029_00_asuna",
-        "name": "Flannery"
-      }
-    ]
-  },
-  {
-    "name": "Hekiru Shiina",
-    "name_jp": "椎名へきる",
-    "characters": [
-      {
-        "id": "ch0065_00_professor",
-        "name": "Professor Bellis"
-      }
-    ]
-  },
-  {
-    "name": "Hikaru Hanada",
-    "name_jp": "花田光",
-    "characters": [
-      {
-        "id": "ch0195_00_ghetsis",
-        "name": "Ghetsis"
-      }
-    ]
-  },
-  {
-    "name": "Hikaru Midorikawa",
-    "name_jp": "緑川光",
-    "characters": [
-      {
-        "id": "ch0089_00_n",
-        "name": "N"
-      },
-      {
-        "id": "ch0089_10_n",
-        "name": "Sygna Suit N"
-      },
-      {
-        "id": "ch0089_40_n",
-        "name": "N (Anniversary 2021)"
-      },
-      {
-        "id": "ch0089_41_n",
-        "name": "N (Summer 2022)"
-      }
-    ]
-  },
-  {
-    "name": "Hiro Shimono",
-    "name_jp": "下野紘",
-    "characters": [
-      {
-        "id": "ch0242_00_masaru",
-        "name": "Victor"
-      }
-    ]
-  },
-  {
-    "name": "Hirofumi Nojima",
-    "name_jp": "野島裕史",
-    "characters": [
-      {
-        "id": "ch0047_00_itsuki",
-        "name": "Will"
-      }
-    ]
-  },
-  {
-    "name": "Hiromichi Kogami",
-    "name_jp": "小上裕通",
-    "characters": [
-      {
-        "id": "ch0040_00_hachiku",
-        "name": "Brycen"
-      }
-    ]
-  },
-  {
-    "name": "Hironori Kondo",
-    "name_jp": "近藤浩徳",
-    "characters": [
-      {
-        "id": "ch0171_00_shijima",
-        "name": "Chuck"
-      }
-    ]
-  },
-  {
-    "name": "Hiroshi Kamiya",
-    "name_jp": "神谷浩史",
-    "characters": [
-      {
-        "id": "ch0148_00_matsuba",
-        "name": "Morty"
-      },
-      {
-        "id": "ch0148_10_matsuba",
-        "name": "Sygna Suit Morty"
-      },
-      {
-        "id": "ch0148_40_matsuba",
-        "name": "Morty (Fall 2021)"
-      }
-    ]
-  },
-  {
-    "name": "Hiroshi Naka",
-    "name_jp": "中博史",
-    "characters": [
-      {
-        "id": "ch0037_00_fukuji",
-        "name": "Ramos"
-      }
-    ]
-  },
-  {
-    "name": "Hitomi Nabatame",
-    "name_jp": "生天目仁美",
-    "characters": [
-      {
-        "id": "ch0051_00_litchi",
-        "name": "Olivia"
-      }
-    ]
-  },
-  {
-    "name": "Hitomi Shogawa",
-    "name_jp": "所河ひとみ",
-    "characters": [
-      {
-        "id": "ch0198_00_azami",
-        "name": "Lucy"
-      }
-    ]
-  },
-  {
-    "name": "Hitomi Ueda",
-    "name_jp": "上田瞳",
-    "characters": [
-      {
-        "id": "ch0157_00_mache",
-        "name": "Valerie"
-      }
-    ]
-  },
-  {
-    "name": "Izumi Chiba",
-    "name_jp": "千葉泉",
-    "characters": [
-      {
-        "id": "ch0627_30_magma_shitappaf",
-        "name": "Team Magma Grunt"
-      }
-    ]
-  },
-  {
-    "name": "Jiro Saito",
-    "name_jp": "斉藤次郎",
-    "characters": [
-      {
-        "id": "ch0057_00_shiba",
-        "name": "Bruno"
-      }
-    ]
-  },
-  {
-    "name": "Jouji Nakata",
-    "name_jp": "中田譲治",
-    "characters": [
-      {
-        "id": "ch0192_00_matsubusa",
-        "name": "Maxie"
-      }
-    ]
-  },
-  {
-    "name": "Jun Miyamoto",
-    "name_jp": "宮本淳",
-    "characters": [
-      {
-        "id": "ch0076_00_collector",
-        "name": "Collector"
-      },
-      {
-        "id": "ch0076_09_collector",
-        "name": "Collector [Team Break]"
-      },
-      {
-        "id": "ch0077_00_daisukim",
-        "name": "Poké Fan"
-      },
-      {
-        "id": "ch0077_09_daisukim",
-        "name": "Poké Fan [Team Break]"
-      }
-    ]
-  },
-  {
-    "name": "Junichi Suwabe",
-    "name_jp": "諏訪部順一",
-    "characters": [
-      {
-        "id": "ch0001_00_kukui",
-        "name": "Kukui"
-      },
-      {
-        "id": "ch0117_00_royalmask",
-        "name": "The Masked Royal"
-      }
-    ]
-  },
-  {
-    "name": "Junko Minagawa",
-    "name_jp": "皆川純子",
-    "characters": [
-      {
-        "id": "ch0020_00_toya",
-        "name": "Hilbert"
-      },
-      {
-        "id": "ch0020_10_toya",
-        "name": "Sygna Suit Hilbert"
-      },
-      {
-        "id": "ch0020_40_toya",
-        "name": "Hilbert (Fall 2020)"
-      }
-    ]
-  },
-  {
-    "name": "KENN",
-    "characters": [
-      {
-        "id": "ch0043_00_toki",
-        "name": "Brawly"
-      }
-    ]
-  },
-  {
-    "name": "Kaede Yuasa",
-    "name_jp": "湯浅かえで",
-    "characters": [
-      {
-        "id": "ch0102_00_bell",
-        "name": "Bianca"
-      }
-    ]
-  },
-  {
-    "name": "Kana Asumi",
-    "name_jp": "阿澄佳奈",
-    "characters": [
-      {
-        "id": "ch0018_00_chris",
-        "name": "Kris"
-      },
-      {
-        "id": "ch0018_10_chris",
-        "name": "Sygna Suit Kris"
-      }
-    ]
-  },
-  {
-    "name": "Kaori Nazuka",
-    "name_jp": "名塚佳織",
-    "characters": [
-      {
-        "id": "ch0160_00_suiren",
-        "name": "Lana"
-      }
-    ]
-  },
-  {
-    "name": "Katsuyuki Konishi",
-    "name_jp": "小西克幸",
-    "characters": [
-      {
-        "id": "ch0136_00_platane",
-        "name": "Professor Sycamore"
-      }
-    ]
-  },
-  {
-    "name": "Kei Kawamura",
-    "name_jp": "河村螢",
-    "characters": [
-      {
-        "id": "ch0028_00_ibuki",
-        "name": "Clair"
-      }
-    ]
-  },
-  {
-    "name": "Ken Uo",
-    "name_jp": "魚建",
-    "characters": [
-      {
-        "id": "ch0059_00_katsura",
-        "name": "Blaine"
-      }
-    ]
-  },
-  {
-    "name": "Kenichi Ogata",
-    "name_jp": "緒方賢一",
-    "characters": [
-      {
-        "id": "ch0137_00_orchid1",
-        "name": "Professor Oak"
-      }
-    ]
-  },
-  {
-    "name": "Kenichiro Matsuda",
-    "name_jp": "松田健一郎",
-    "characters": [
-      {
-        "id": "ch0022_00_urup",
-        "name": "Wulfric"
-      }
-    ]
-  },
-  {
-    "name": "Kenji Nojima",
-    "name_jp": "野島健児",
-    "characters": [
-      {
-        "id": "ch0038_00_hyouta",
-        "name": "Roark"
-      }
-    ]
-  },
-  {
-    "name": "Kenjiro Tsuda",
-    "name_jp": "津田健次郎",
-    "characters": [
-      {
-        "id": "ch0056_00_kuchinashi",
-        "name": "Nanu"
-      }
-    ]
-  },
-  {
-    "name": "Kensho Ono",
-    "name_jp": "小野賢章",
-    "characters": [
-      {
-        "id": "ch0003_00_calme",
-        "name": "Calem"
-      },
-      {
-        "id": "ch0003_90_calme",
-        "name": "Calem (Champion)"
-      }
-    ]
-  },
-  {
-    "name": "Kisho Taniyama",
-    "name_jp": "谷山紀章",
-    "characters": [
-      {
-        "id": "ch0256_00_nezz",
-        "name": "Piers"
-      }
-    ]
-  },
-  {
-    "name": "Kiyotaka Furushima",
-    "name_jp": "古島清孝",
-    "characters": [
-      {
-        "id": "ch0084_00_kenkyuin",
-        "name": "Scientist"
-      },
-      {
-        "id": "ch0084_09_kenkyuin",
-        "name": "Scientist [Team Break]"
-      }
-    ]
-  },
-  {
-    "name": "Kohsuke Tanabe",
-    "name_jp": "田邊幸輔",
-    "characters": [
-      {
-        "id": "ch0150_00_hayato",
-        "name": "Falkner"
-      }
-    ]
-  },
-  {
-    "name": "Kohsuke Toriumi",
-    "name_jp": "鳥海浩輔",
-    "characters": [
-      {
-        "id": "ch0015_00_takeshi",
-        "name": "Brock"
-      },
-      {
-        "id": "ch0015_01_takeshi",
-        "name": "Sygna Suit Brock"
-      },
-      {
-        "id": "ch0257_00_qibana",
-        "name": "Raihan"
-      },
-      {
-        "id": "ch0257_40_qibana",
-        "name": "Raihan (Anniversary 2022)"
-      }
-    ]
-  },
-  {
-    "name": "Koji Ishii",
-    "name_jp": "石井康嗣",
-    "characters": [
-      {
-        "id": "ch0140_00_sakaki",
-        "name": "Giovanni"
-      },
-      {
-        "id": "ch0140_10_sakaki",
-        "name": "Sygna Suit Giovanni"
-      },
-      {
-        "id": "ch0140_80_sakaki",
-        "name": "Giovanni (Classic)"
-      }
-    ]
-  },
-  {
-    "name": "Koji Takahashi",
-    "name_jp": "高橋孝治",
-    "characters": [
-      {
-        "id": "ch0141_00_apollo",
-        "name": "Archer"
-      }
-    ]
-  },
-  {
-    "name": "Koki Uchiyama",
-    "name_jp": "内山昂輝",
-    "characters": [
-      {
-        "id": "ch0119_00_gladion",
-        "name": "Gladion"
-      }
-    ]
-  },
-  {
-    "name": "Kosuke Kuwano",
-    "name_jp": "桑野晃輔",
-    "characters": [
-      {
-        "id": "ch0127_00_mikuri",
-        "name": "Wallace"
-      }
-    ]
-  },
-  {
-    "name": "Kouji Yusa",
-    "name_jp": "遊佐浩二",
-    "characters": [
-      {
-        "id": "ch0191_00_achroma",
-        "name": "Colress"
-      }
-    ]
-  },
-  {
-    "name": "Lynn",
-    "characters": [
-      {
-        "id": "ch0259_00_sania",
-        "name": "Sonia"
-      },
-      {
-        "id": "ch0259_40_sania",
-        "name": "Sonia (Special Costume)"
-      }
-    ]
-  },
-  {
-    "name": "Maaya Uchida",
-    "name_jp": "内田真礼",
-    "characters": [
-      {
-        "id": "ch0118_00_lillie",
-        "name": "Lillie"
-      },
-      {
-        "id": "ch0118_40_lillie",
-        "name": "Lillie (New Year's 2021)"
-      },
-      {
-        "id": "ch0118_41_lillie",
-        "name": "Lillie (Special Costume)"
-      },
-      {
-        "id": "ch0118_50_lillie",
-        "name": "Lillie (Anniversary 2021)"
-      }
-    ]
-  },
-  {
-    "name": "Mai Fuchigami",
-    "name_jp": "渕上舞",
-    "characters": [
-      {
-        "id": "ch0049_00_fuyo",
-        "name": "Phoebe"
-      }
-    ]
-  },
-  {
-    "name": "Mai Goto",
-    "name_jp": "後藤麻衣",
-    "characters": [
-      {
-        "id": "ch0044_00_tsutsuji",
-        "name": "Roxanne"
-      }
-    ]
-  },
-  {
-    "name": "Mamoru Miyano",
-    "name_jp": "宮野真守",
-    "characters": [
-      {
-        "id": "ch0066_00_boss",
-        "name": "Lear"
-      },
-      {
-        "id": "ch0066_01_boss",
-        "name": "Lear"
-      }
-    ]
-  },
-  {
-    "name": "Manami Numakura",
-    "name_jp": "沼倉愛美",
-    "characters": [
-      {
-        "id": "ch0093_00_staff_center",
-        "name": "Trista"
-      },
-      {
-        "id": "ch0103_00_staff_shop",
-        "name": "Tricia"
-      },
-      {
-        "id": "ch0104_00_staff_cafe",
-        "name": "Trinnia"
-      }
-    ]
-  },
-  {
-    "name": "Marika Kohno",
-    "name_jp": "高野麻里佳",
-    "characters": [
-      {
-        "id": "ch0205_00_lesoir",
-        "name": "Evelyn"
-      }
-    ]
-  },
-  {
-    "name": "Mariko Nagai",
-    "name_jp": "永井真里子",
-    "characters": [
-      {
-        "id": "ch0004_00_toko",
-        "name": "Hilda"
-      },
-      {
-        "id": "ch0004_10_toko",
-        "name": "Sygna Suit Hilda"
-      },
-      {
-        "id": "ch0004_40_toko",
-        "name": "Hilda (Special Costume)"
-      },
-      {
-        "id": "ch0004_41_toko",
-        "name": "Hilda (Summer 2022)"
-      }
-    ]
-  },
-  {
-    "name": "Masaaki Ihara",
-    "name_jp": "伊原正明",
-    "characters": [
-      {
-        "id": "ch0080_00_yamaotoko",
-        "name": "Hiker"
-      },
-      {
-        "id": "ch0080_09_yamaotoko",
-        "name": "Hiker [Team Break]"
-      }
-    ]
-  },
-  {
-    "name": "Masaharu Sato",
-    "name_jp": "佐藤正治",
-    "characters": [
-      {
-        "id": "ch0094_00_genji",
-        "name": "Drake"
-      }
-    ]
-  },
-  {
-    "name": "Masaki Terasoma",
-    "name_jp": "てらそままさき",
-    "characters": [
-      {
-        "id": "ch0132_00_adeku",
-        "name": "Alder"
-      }
-    ]
-  },
-  {
-    "name": "Masaya Fukunishi",
-    "name_jp": "福西勝也",
-    "characters": [
-      {
-        "id": "ch0053_00_zakuro",
-        "name": "Grant"
-      }
-    ]
-  },
-  {
-    "name": "Mayuki Makiguchi",
-    "name_jp": "牧口真幸",
-    "characters": [
-      {
-        "id": "ch0531_70_sightseerf",
-        "name": "Sightseer"
-      },
-      {
-        "id": "ch0651_78_nanase",
-        "name": "Naomi (Sightseer)"
-      }
-    ]
-  },
-  {
-    "name": "Megumi Hayashibara",
-    "name_jp": "林原めぐみ",
-    "characters": [
-      {
-        "id": "ch0240_00_musashi",
-        "name": "Jessie"
-      }
-    ]
-  },
-  {
-    "name": "Michiko Kaiden",
-    "name_jp": "鷄冠井美智子",
-    "characters": [
-      {
-        "id": "ch0142_00_athena",
-        "name": "Ariana"
-      }
-    ]
-  },
-  {
-    "name": "Michiko Neya",
-    "name_jp": "根谷美智子",
-    "characters": [
-      {
-        "id": "ch0224_00_izumi",
-        "name": "Shelly"
-      }
-    ]
-  },
-  {
-    "name": "Michiyo Murase",
-    "name_jp": "村瀬迪与",
-    "characters": [
-      {
-        "id": "ch0036_00_mamane",
-        "name": "Sophocles"
-      }
-    ]
-  },
-  {
-    "name": "Mie Sonozaki",
-    "name_jp": "園崎未恵",
-    "characters": [
-      {
-        "id": "ch0091_00_shirona",
-        "name": "Cynthia"
-      },
-      {
-        "id": "ch0091_01_shirona",
-        "name": "Sygna Suit Cynthia"
-      },
-      {
-        "id": "ch0091_10_shirona",
-        "name": "Sygna Suit Cynthia (Aura)"
-      },
-      {
-        "id": "ch0091_20_shirona",
-        "name": "Sygna Suit Cynthia (Renegade)"
-      }
-    ]
-  },
-  {
-    "name": "Minori Chihara",
-    "name_jp": "茅原実里",
-    "characters": [
-      {
-        "id": "ch0222_00_kagari",
-        "name": "Courtney"
-      }
-    ]
-  },
-  {
-    "name": "Mirei Kumagai",
-    "name_jp": "熊谷海麗",
-    "characters": [
-      {
-        "id": "ch0074_00_tanpan",
-        "name": "Parker"
-      },
-      {
-        "id": "ch0075_00_bikini",
-        "name": "Swimmer"
-      },
-      {
-        "id": "ch0075_09_bikini",
-        "name": "Swimmer [Team Break]"
-      }
-    ]
-  },
-  {
-    "name": "Misuzu Togashi",
-    "name_jp": "富樫美鈴",
-    "characters": [
-      {
-        "id": "ch0070_00_elitef",
-        "name": "Ace Trainer"
-      },
-      {
-        "id": "ch0070_09_elitef",
-        "name": "Ace Trainer [Team Break]"
-      },
-      {
-        "id": "ch0086_00_campm",
-        "name": "Camper"
-      },
-      {
-        "id": "ch0086_09_campm",
-        "name": "Camper [Team Break]"
-      }
-    ]
-  },
-  {
-    "name": "Mitsuki Saiga",
-    "name_jp": "斎賀みつき",
-    "characters": [
-      {
-        "id": "ch0122_00_yo",
-        "name": "Elio"
-      }
-    ]
-  },
-  {
-    "name": "Miyuki Kobori",
-    "name_jp": "小堀幸",
-    "characters": [
-      {
-        "id": "ch0100_00_kyohei",
-        "name": "Nate"
-      }
-    ]
-  },
-  {
-    "name": "Naomi Kusumi",
-    "name_jp": "楠見尚己",
-    "characters": [
-      {
-        "id": "ch0033_00_yakon",
-        "name": "Clay"
-      }
-    ]
-  },
-  {
-    "name": "Natsumi Aono",
-    "name_jp": "青野菜月",
-    "characters": [
-      {
-        "id": "ch0023_00_momi",
-        "name": "Cheryl"
-      }
-    ]
-  },
-  {
-    "name": "Nobunaga Shimazaki",
-    "name_jp": "島﨑信長",
-    "characters": [
-      {
-        "id": "ch0170_00_arty",
-        "name": "Burgh"
-      },
-      {
-        "id": "ch0170_40_arty",
-        "name": "Burgh (Spring 2021)"
-      }
-    ]
-  },
-  {
-    "name": "Nozomi Mikajiri",
-    "name_jp": "三日尻望",
-    "characters": [
-      {
-        "id": "ch0083_00_badgirl",
-        "name": "Punk Girl"
-      },
-      {
-        "id": "ch0083_09_badgirl",
-        "name": "Punk Girl [Team Break]"
-      }
-    ]
-  },
-  {
-    "name": "Rica Matsumoto",
-    "name_jp": "松本梨香",
-    "characters": [
-      {
-        "id": "ch0264_00_satoshi",
-        "name": "Ash"
-      }
-    ]
-  },
-  {
-    "name": "Rie Takahashi",
-    "name_jp": "高橋李依",
-    "characters": [
-      {
-        "id": "ch0116_00_hikari",
-        "name": "Dawn"
-      },
-      {
-        "id": "ch0116_10_hikari",
-        "name": "Sygna Suit Dawn"
-      },
-      {
-        "id": "ch0116_40_hikari",
-        "name": "Dawn (Palentine's 2021)"
-      }
-    ]
-  },
-  {
-    "name": "Rie Tanaka",
-    "name_jp": "田中理恵",
-    "characters": [
-      {
-        "id": "ch0114_00_natsume",
-        "name": "Sabrina"
-      },
-      {
-        "id": "ch0114_40_natsume",
-        "name": "Sabrina (New Year's 2022)"
-      }
-    ]
-  },
-  {
-    "name": "Riho Sugiyama",
-    "name_jp": "杉山里穂",
-    "characters": [
-      {
-        "id": "ch0060_00_anzu",
-        "name": "Janine"
-      }
-    ]
-  },
-  {
-    "name": "Rina Sato",
-    "name_jp": "佐藤利奈",
-    "characters": [
-      {
-        "id": "ch0016_00_huuro",
-        "name": "Skyla"
-      },
-      {
-        "id": "ch0016_40_huuro",
-        "name": "Skyla (Holiday 2020)"
-      },
-      {
-        "id": "ch0016_41_huuro",
-        "name": "Skyla (Anniversary 2022)"
-      }
-    ]
-  },
-  {
-    "name": "Ryo Hirohashi",
-    "name_jp": "広橋涼",
-    "characters": [
-      {
-        "id": "ch0251_00_onion",
-        "name": "Allister"
-      },
-      {
-        "id": "ch0251_40_onion",
-        "name": "Allister (Fall 2022)"
-      }
-    ]
-  },
-  {
-    "name": "Ryohei Kimura",
-    "name_jp": "木村良平",
-    "characters": [
-      {
-        "id": "ch0064_00_rival",
-        "name": "Paulo"
-      }
-    ]
-  },
-  {
-    "name": "Ryoka Yuzuki",
-    "name_jp": "柚木涼香",
-    "characters": [
-      {
-        "id": "ch0062_00_karin",
-        "name": "Karen"
-      }
-    ]
-  },
-  {
-    "name": "Ryota Iwasaki",
-    "name_jp": "岩崎諒太",
-    "characters": [
-      {
-        "id": "ch0052_00_shizui",
-        "name": "Marlon"
-      }
-    ]
-  },
-  {
-    "name": "Ryota Osaka",
-    "name_jp": "逢坂良太",
-    "characters": [
-      {
-        "id": "ch0021_00_green",
-        "name": "Blue"
-      },
-      {
-        "id": "ch0021_01_green",
-        "name": "Sygna Suit Blue"
-      },
-      {
-        "id": "ch0021_80_green",
-        "name": "Blue (Classic)"
-      }
-    ]
-  },
-  {
-    "name": "Saki Endo",
-    "name_jp": "遠藤さき",
-    "characters": [
-      {
-        "id": "ch0071_00_otona",
-        "name": "Beauty"
-      },
-      {
-        "id": "ch0071_09_otona",
-        "name": "Beauty [Team Break]"
-      }
-    ]
-  },
-  {
-    "name": "Saori Oonishi",
-    "name_jp": "大西沙織",
-    "characters": [
-      {
-        "id": "ch0521_60_hexmaniac",
-        "name": "Hex Maniac"
-      },
-      {
-        "id": "ch0652_68_sayoko",
-        "name": "Helena (Hex Maniac)"
-      }
-    ]
-  },
-  {
-    "name": "Sara Matsumoto",
-    "name_jp": "松本沙羅",
-    "characters": [
-      {
-        "id": "ch0097_00_mai",
-        "name": "Marley"
-      }
-    ]
-  },
-  {
-    "name": "Satomi Moriya",
-    "name_jp": "森谷里美",
-    "characters": [
-      {
-        "id": "ch0045_00_tsukushi",
-        "name": "Bugsy"
-      }
-    ]
-  },
-  {
-    "name": "Satomi Sato",
-    "name_jp": "佐藤聡美",
-    "characters": [
-      {
-        "id": "ch0095_00_cattleya",
-        "name": "Caitlin"
-      },
-      {
-        "id": "ch0095_40_cattleya",
-        "name": "Caitlin (Fall 2021)"
-      }
-    ]
-  },
-  {
-    "name": "Satsuki Yukino",
-    "name_jp": "ゆきのさつき",
-    "characters": [
-      {
-        "id": "ch0225_00_mars",
-        "name": "Mars"
-      }
-    ]
-  },
-  {
-    "name": "Sayaka Kinoshita",
-    "name_jp": "木下紗華",
-    "characters": [
-      {
-        "id": "ch0153_00_prim",
-        "name": "Glacia"
-      }
-    ]
-  },
-  {
-    "name": "Sayaka Ohara",
-    "name_jp": "大原さやか",
-    "characters": [
-      {
-        "id": "ch0120_00_lusamine",
-        "name": "Lusamine"
-      },
-      {
-        "id": "ch0120_10_lusamine",
-        "name": "Sygna Suit Lusamine"
-      }
-    ]
-  },
-  {
-    "name": "Sayaka Senbongi",
-    "name_jp": "千本木彩花",
-    "characters": [
-      {
-        "id": "ch0002_00_kotone",
-        "name": "Lyra"
-      },
-      {
-        "id": "ch0002_10_kotone",
-        "name": "Sygna Suit Lyra"
-      },
-      {
-        "id": "ch0002_40_kotone",
-        "name": "Lyra (Summer 2020)"
-      }
-    ]
-  },
-  {
-    "name": "Serika Hiromatsu",
-    "name_jp": "弘松芹香",
-    "characters": [
-      {
-        "id": "ch0005_00_kanna",
-        "name": "Lorelei"
-      }
-    ]
-  },
-  {
-    "name": "Shiho Kawaraki",
-    "name_jp": "河原木志穂",
-    "characters": [
-      {
-        "id": "ch0058_00_kahiri",
-        "name": "Kahili"
-      }
-    ]
-  },
-  {
-    "name": "Shiina Natsukawa",
-    "name_jp": "夏川椎菜",
-    "characters": [
-      {
-        "id": "ch0215_00_lutia",
-        "name": "Lisia"
-      }
-    ]
-  },
-  {
-    "name": "Shinichiro Miki",
-    "name_jp": "三木眞一郎",
-    "characters": [
-      {
-        "id": "ch0241_00_kojiro",
-        "name": "James"
-      }
-    ]
-  },
-  {
-    "name": "Shino Shimoji",
-    "name_jp": "下地紫野",
-    "characters": [
-      {
-        "id": "ch0503_30_aqua_shitappaf",
-        "name": "Team Aqua Grunt"
-      }
-    ]
-  },
-  {
-    "name": "Shintaro Asanuma",
-    "name_jp": "浅沼晋太郎",
-    "characters": [
-      {
-        "id": "ch0145_00_pod",
-        "name": "Chili"
-      }
-    ]
-  },
-  {
-    "name": "Shiori Izawa",
-    "name_jp": "井澤詩織",
-    "characters": [
-      {
-        "id": "ch0067_00_leader1",
-        "name": "Rachel"
-      },
-      {
-        "id": "ch0067_01_leader1",
-        "name": "Rachel"
-      }
-    ]
-  },
-  {
-    "name": "Shiori Mikami",
-    "name_jp": "三上枝織",
-    "characters": [
-      {
-        "id": "ch0007_00_acerola",
-        "name": "Acerola"
-      },
-      {
-        "id": "ch0007_40_acerola",
-        "name": "Acerola (Fall 2020)"
-      }
-    ]
-  },
-  {
-    "name": "Shiori Sakurai",
-    "name_jp": "櫻井しおり",
-    "characters": [
-      {
-        "id": "ch0025_00_suzuna",
-        "name": "Candice"
-      }
-    ]
-  },
-  {
-    "name": "Sho Okumura",
-    "name_jp": "奥村翔",
-    "characters": [
-      {
-        "id": "ch0144_00_lance",
-        "name": "Proton"
-      }
-    ]
-  },
-  {
-    "name": "Shogo Sakata",
-    "name_jp": "坂田将吾",
-    "characters": [
-      {
-        "id": "ch0640_20_rocket_shitappam",
-        "name": "Team Rocket Grunt"
-      }
-    ]
-  },
-  {
-    "name": "Shohei Kajikawa",
-    "name_jp": "梶川翔平",
-    "characters": [
-      {
-        "id": "ch0135_00_kagetsu",
-        "name": "Sidney"
-      }
-    ]
-  },
-  {
-    "name": "Shohei Komatsu",
-    "name_jp": "小松昌平",
-    "characters": [
-      {
-        "id": "ch0041_00_nejiki",
-        "name": "Thorton"
-      }
-    ]
-  },
-  {
-    "name": "Shonosuke Horikoshi",
-    "name_jp": "堀越省之助",
-    "characters": [
-      {
-        "id": "ch0096_00_zumi",
-        "name": "Siebold"
-      },
-      {
-        "id": "ch0096_10_zumi",
-        "name": "Siebold (Holiday 2019)"
-      }
-    ]
-  },
-  {
-    "name": "Shouta Aoi",
-    "name_jp": "蒼井翔太",
-    "characters": [
-      {
-        "id": "ch0000_00_red",
-        "name": "Sygna Suit Red"
-      },
-      {
-        "id": "ch0000_10_red",
-        "name": "Sygna Suit Red (Thunderbolt)"
-      },
-      {
-        "id": "ch0000_80_red",
-        "name": "Red"
-      }
-    ]
-  },
-  {
-    "name": "Shugo Nakamura",
-    "name_jp": "仲村宗悟",
-    "characters": [
-      {
-        "id": "ch0190_00_ryuki",
-        "name": "Ryuki"
-      }
-    ]
-  },
-  {
-    "name": "Shuhei Matsuda",
-    "name_jp": "松田修平",
-    "characters": [
-      {
-        "id": "ch0082_00_kowai",
-        "name": "Street Thug"
-      },
-      {
-        "id": "ch0082_09_kowai",
-        "name": "Street Thug [Team Break]"
-      }
-    ]
-  },
-  {
-    "name": "Shun Horie",
-    "name_jp": "堀江瞬",
-    "characters": [
-      {
-        "id": "ch0162_00_koki",
-        "name": "Lucas"
-      }
-    ]
-  },
-  {
-    "name": "Soma Saito",
-    "name_jp": "斉藤壮馬",
-    "characters": [
-      {
-        "id": "ch0146_00_corn",
-        "name": "Cress"
-      }
-    ]
-  },
-  {
-    "name": "Sora Amamiya",
-    "name_jp": "雨宮天",
-    "characters": [
-      {
-        "id": "ch0124_00_mao",
-        "name": "Mallow"
-      },
-      {
-        "id": "ch0249_00_rulina",
-        "name": "Nessa"
-      },
-      {
-        "id": "ch0249_40_rulina",
-        "name": "Nessa (Holiday 2021)"
-      }
-    ]
-  },
-  {
-    "name": "Susumu Akaki",
-    "name_jp": "赤城進",
-    "characters": [
-      {
-        "id": "ch0055_00_gampi",
-        "name": "Wikstrom"
-      }
-    ]
-  },
-  {
-    "name": "Suzuko Mimori",
-    "name_jp": "三森すずこ",
-    "characters": [
-      {
-        "id": "ch0123_00_mizuki",
-        "name": "Selene"
-      }
-    ]
-  },
-  {
-    "name": "Tae Okajima",
-    "name_jp": "岡嶋妙",
-    "characters": [
-      {
-        "id": "ch0042_00_nagi",
-        "name": "Winona"
-      }
-    ]
-  },
-  {
-    "name": "Taichi Kusano",
-    "name_jp": "草野太一",
-    "characters": [
-      {
-        "id": "ch0538_70_gingam",
-        "name": "Team Galactic Grunt"
-      }
-    ]
-  },
-  {
-    "name": "Taichi Takeda",
-    "name_jp": "武田太一",
-    "characters": [
-      {
-        "id": "ch0143_00_lambda",
-        "name": "Petrel"
-      }
-    ]
-  },
-  {
-    "name": "Taiki Matsuno",
-    "name_jp": "松野太紀",
-    "characters": [
-      {
-        "id": "ch0227_00_saturn",
-        "name": "Saturn"
-      }
-    ]
-  },
-  {
-    "name": "Takaaki Torashima",
-    "name_jp": "虎島貴明",
-    "characters": [
-      {
-        "id": "ch0265_00_shadowtriad1",
-        "name": "The Shadow Triad"
-      },
-      {
-        "id": "ch0266_00_shadowtriad2",
-        "name": "The Shadow Triad"
-      },
-      {
-        "id": "ch0267_00_shadowtriad3",
-        "name": "The Shadow Triad"
-      }
-    ]
-  },
-  {
-    "name": "Takahiro Sakurai",
-    "name_jp": "櫻井孝宏",
-    "characters": [
-      {
-        "id": "ch0247_00_dande",
-        "name": "Leon"
-      },
-      {
-        "id": "ch0247_10_dande",
-        "name": "Sygna Suit Leon"
-      },
-      {
-        "id": "ch0247_40_dande",
-        "name": "Leon (Holiday 2021)"
-      }
-    ]
-  },
-  {
-    "name": "Takahiro Sumi",
-    "name_jp": "鷲見昂大",
-    "characters": [
-      {
-        "id": "ch0072_00_kaipan",
-        "name": "Swimmer"
-      },
-      {
-        "id": "ch0072_09_kaipan",
-        "name": "Swimmer [Team Break]"
-      },
-      {
-        "id": "ch0073_00_karate",
-        "name": "Black Belt"
-      },
-      {
-        "id": "ch0073_09_karate",
-        "name": "Black Belt [Team Break]"
-      }
-    ]
-  },
-  {
-    "name": "Takaya Kuroda",
-    "name_jp": "黒田崇矢",
-    "characters": [
-      {
-        "id": "ch0068_00_leader2",
-        "name": "Sawyer"
-      },
-      {
-        "id": "ch0068_01_leader2",
-        "name": "Sawyer"
-      }
-    ]
-  },
-  {
-    "name": "Takayuki Kondo",
-    "name_jp": "近藤孝行",
-    "characters": [
-      {
-        "id": "ch0183_00_molayne",
-        "name": "Molayne"
-      }
-    ]
-  },
-  {
-    "name": "Taketora",
-    "name_jp": "武虎",
-    "characters": [
-      {
-        "id": "ch0035_00_matthies",
-        "name": "Lt. Surge"
-      }
-    ]
-  },
-  {
-    "name": "Takeuchi Shunsuke",
-    "name_jp": "武内駿輔",
-    "characters": [
-      {
-        "id": "ch0194_00_akagi",
-        "name": "Cyrus"
-      },
-      {
-        "id": "ch0194_10_akagi",
-        "name": "Sygna Suit Cyrus"
-      }
-    ]
-  },
-  {
-    "name": "Taku Yashiro",
-    "name_jp": "八代拓",
-    "characters": [
-      {
-        "id": "ch0254_00_gordie",
-        "name": "Gordie"
-      }
-    ]
-  },
-  {
-    "name": "Takuma Nagatsuka",
-    "name_jp": "永塚拓馬",
-    "characters": [
-      {
-        "id": "ch0246_00_beet",
-        "name": "Bede"
-      }
-    ]
-  },
-  {
-    "name": "Tasuku Hatanaka",
-    "name_jp": "畠中祐",
-    "characters": [
-      {
-        "id": "ch0147_00_hugh",
-        "name": "Hugh"
-      }
-    ]
-  },
-  {
-    "name": "Tatsuhiro Kikuchi",
-    "name_jp": "菊地達弘",
-    "characters": [
-      {
-        "id": "ch0125_00_guzma",
-        "name": "Guzma"
-      },
-      {
-        "id": "ch0125_40_guzma",
-        "name": "Guzma (Special Costume)"
-      }
-    ]
-  },
-  {
-    "name": "Tatsuhisa Suzuki",
-    "name_jp": "鈴木達央",
-    "characters": [
-      {
-        "id": "ch0006_00_oba",
-        "name": "Flint"
-      }
-    ]
-  },
-  {
-    "name": "Tatsuki Kobe",
-    "name_jp": "光部樹",
-    "characters": [
-      {
-        "id": "ch0626_30_magma_shitappam",
-        "name": "Team Magma Grunt"
-      }
-    ]
-  },
-  {
-    "name": "Tomoaki Maeno",
-    "name_jp": "前野智昭",
-    "characters": [
-      {
-        "id": "ch0090_00_daigo",
-        "name": "Steven"
-      },
-      {
-        "id": "ch0090_10_daigo",
-        "name": "Sygna Suit Steven"
-      },
-      {
-        "id": "ch0090_40_daigo",
-        "name": "Steven (Summer 2020)"
-      },
-      {
-        "id": "ch0090_50_daigo",
-        "name": "Steven (Anniversary 2021)"
-      }
-    ]
-  },
-  {
-    "name": "Tomohiro Omachi",
-    "name_jp": "大町知広",
-    "characters": [
-      {
-        "id": "ch0069_00_elitem",
-        "name": "Ace Trainer"
-      },
-      {
-        "id": "ch0069_09_elitem",
-        "name": "Ace Trainer [Team Break]"
-      },
-      {
-        "id": "ch0149_00_kaki",
-        "name": "Kiawe"
-      }
-    ]
-  },
-  {
-    "name": "Tomokazu Sugita",
-    "name_jp": "杉田智和",
-    "characters": [
-      {
-        "id": "ch0009_00_senri",
-        "name": "Norman"
-      }
-    ]
-  },
-  {
-    "name": "Toru Okawa",
-    "name_jp": "大川透",
-    "characters": [
-      {
-        "id": "ch0054_00_kyo",
-        "name": "Koga"
-      }
-    ]
-  },
-  {
-    "name": "Toshiki Masuda",
-    "name_jp": "増田俊樹",
-    "characters": [
-      {
-        "id": "ch0046_00_datsura",
-        "name": "Noland"
-      }
-    ]
-  },
-  {
-    "name": "Toshiyuki Morikawa",
-    "name_jp": "森川智之",
-    "characters": [
-      {
-        "id": "ch0111_00_wataru",
-        "name": "Lance"
-      },
-      {
-        "id": "ch0111_40_wataru",
-        "name": "Lance (New Year's 2021)"
-      }
-    ]
-  },
-  {
-    "name": "Tsubasa Yonaga",
-    "name_jp": "代永翼",
-    "characters": [
-      {
-        "id": "ch0099_00_jun",
-        "name": "Barry"
-      }
-    ]
-  },
-  {
-    "name": "Tsuguo Mogami",
-    "name_jp": "最上嗣生",
-    "characters": [
-      {
-        "id": "ch0193_00_aogiri",
-        "name": "Archie"
-      }
-    ]
-  },
-  {
-    "name": "Tsuyoshi Koyama",
-    "name_jp": "小山剛志",
-    "characters": [
-      {
-        "id": "ch0223_00_ushio",
-        "name": "Matt"
-      }
-    ]
-  },
-  {
-    "name": "Volcano Ota",
-    "name_jp": "ボルケーノ太田",
-    "characters": [
-      {
-        "id": "ch0010_00_maximum",
-        "name": "Crasher Wake"
-      }
-    ]
-  },
-  {
-    "name": "Wakana Minami",
-    "name_jp": "美波わかな",
-    "characters": [
-      {
-        "id": "ch0012_00_corni",
-        "name": "Korrina"
-      },
-      {
-        "id": "ch0012_10_corni",
-        "name": "Sygna Suit Korrina"
-      }
-    ]
-  },
-  {
-    "name": "Yohei Azakami",
-    "name_jp": "阿座上洋平",
-    "characters": [
-      {
-        "id": "ch0176_00_goyo",
-        "name": "Lucian"
-      }
-    ]
-  },
-  {
-    "name": "Yoko Hikasa",
-    "name_jp": "日笠陽子",
-    "characters": [
-      {
-        "id": "ch0106_00_kamitsure",
-        "name": "Elesa"
-      },
-      {
-        "id": "ch0106_10_kamitsure",
-        "name": "Sygna Suit Elesa"
-      },
-      {
-        "id": "ch0106_80_kamitsure",
-        "name": "Elesa (Classic)"
-      }
-    ]
-  },
-  {
-    "name": "Yorie Terauchi",
-    "name_jp": "寺内よりえ",
-    "characters": [
-      {
-        "id": "ch0154_00_kikuno",
-        "name": "Bertha"
-      }
-    ]
-  },
-  {
-    "name": "Yoshikazu Nagano",
-    "name_jp": "永野善一",
-    "characters": [
-      {
-        "id": "ch0063_00_renbu",
-        "name": "Marshal"
-      }
-    ]
-  },
-  {
-    "name": "Yoshino Ohtori",
-    "name_jp": "鳳芳野",
-    "characters": [
-      {
-        "id": "ch0061_00_kikuko",
-        "name": "Agatha"
-      }
-    ]
-  },
-  {
-    "name": "Yoshitada Otsuka",
-    "name_jp": "大塚芳忠",
-    "characters": [
-      {
-        "id": "ch0161_00_hara",
-        "name": "Hala"
-      }
-    ]
-  },
-  {
-    "name": "Yoshitaka Yamaya",
-    "name_jp": "山谷祥生",
-    "characters": [
-      {
-        "id": "ch0152_00_ryo",
-        "name": "Aaron"
-      }
-    ]
-  },
-  {
-    "name": "Yoshitsugu Matsuoka",
-    "name_jp": "松岡禎丞",
-    "characters": [
-      {
-        "id": "ch0108_00_nobori",
-        "name": "Ingo"
-      },
-      {
-        "id": "ch0108_40_nobori",
-        "name": "Ingo (Special Costume)"
-      }
-    ]
-  },
-  {
-    "name": "Yuichiro Umehara",
-    "name_jp": "梅原裕一郎",
-    "characters": [
-      {
-        "id": "ch0159_00_kokuran",
-        "name": "Darach"
-      }
-    ]
-  },
-  {
-    "name": "Yuka Iguchi",
-    "name_jp": "井口裕香",
-    "characters": [
-      {
-        "id": "ch0113_00_mikan",
-        "name": "Jasmine"
-      },
-      {
-        "id": "ch0113_40_mikan",
-        "name": "Jasmine (Special Costume)"
-      },
-      {
-        "id": "ch0113_41_mikan",
-        "name": "Jasmine (Holiday 2022)"
-      }
-    ]
-  },
-  {
-    "name": "Yuka Nukui",
-    "name_jp": "貫井柚佳",
-    "characters": [
-      {
-        "id": "ch0024_00_shikimi",
-        "name": "Shauntal"
-      }
-    ]
-  },
-  {
-    "name": "Yuka Otsubo",
-    "name_jp": "大坪由佳",
-    "characters": [
-      {
-        "id": "ch0017_00_leaf",
-        "name": "Leaf"
-      },
-      {
-        "id": "ch0017_10_leaf",
-        "name": "Sygna Suit Leaf"
-      }
-    ]
-  },
-  {
-    "name": "Yukana",
-    "name_jp": "ゆかな",
-    "characters": [
-      {
-        "id": "ch0034_00_matsurika",
-        "name": "Mina"
-      }
-    ]
-  },
-  {
-    "name": "Yukari Tamura",
-    "name_jp": "田村ゆかり",
-    "characters": [
-      {
-        "id": "ch0245_00_mary",
-        "name": "Marnie"
-      },
-      {
-        "id": "ch0245_40_mary",
-        "name": "Marnie (Summer 2021)"
-      },
-      {
-        "id": "ch0245_41_mary",
-        "name": "Marnie (Palentine's 2022)"
-      }
-    ]
-  },
-  {
-    "name": "Yuki Kaida",
-    "name_jp": "甲斐田ゆき",
-    "characters": [
-      {
-        "id": "ch0151_00_melissa",
-        "name": "Fantina"
-      }
-    ]
-  },
-  {
-    "name": "Yuki Kaji",
-    "name_jp": "梶裕貴",
-    "characters": [
-      {
-        "id": "ch0107_00_dent",
-        "name": "Cilan"
-      }
-    ]
-  },
-  {
-    "name": "Yuki Ono",
-    "name_jp": "小野友樹",
-    "characters": [
-      {
-        "id": "ch0133_00_shilver",
-        "name": "Silver"
-      }
-    ]
-  },
-  {
-    "name": "Yukiko Motoyoshi",
-    "name_jp": "元吉有希子",
-    "characters": [
-      {
-        "id": "ch0641_20_rocket_shitappaf",
-        "name": "Team Rocket Grunt"
-      }
-    ]
-  },
-  {
-    "name": "Yuko Natsuyoshi",
-    "name_jp": "夏吉ゆうこ",
-    "characters": [
-      {
-        "id": "ch0026_00_akane",
-        "name": "Whitney"
-      },
-      {
-        "id": "ch0026_40_akane",
-        "name": "Whitney (Holiday 2022)"
-      }
-    ]
-  },
-  {
-    "name": "Yuko Sanpei",
-    "name_jp": "三瓶由布子",
-    "characters": [
-      {
-        "id": "ch0019_00_yuki",
-        "name": "Brendan"
-      },
-      {
-        "id": "ch0019_10_yuki",
-        "name": "Sygna Suit Brendan"
-      },
-      {
-        "id": "ch0244_00_hop",
-        "name": "Hop"
-      }
-    ]
-  },
-  {
-    "name": "Yuma Uchida",
-    "name_jp": "内田雄馬",
-    "characters": [
-      {
-        "id": "ch0109_00_kudari",
-        "name": "Emmet"
-      },
-      {
-        "id": "ch0109_40_kudari",
-        "name": "Emmet (Special Costume)"
-      }
-    ]
-  },
-  {
-    "name": "Yuuko Kaida",
-    "name_jp": "甲斐田裕子",
-    "characters": [
-      {
-        "id": "ch0255_00_melon",
-        "name": "Melony"
-      }
-    ]
-  },
-  {
-    "name": "Zenki Kitajima",
-    "name_jp": "北島善紀",
-    "characters": [
-      {
-        "id": "ch0217_00_handsome",
-        "name": "Looker"
-      }
-    ]
-  }
-]
+{
+  "actors": [
+    {
+      "name": "Ai Kakuma",
+      "name_jp": "加隈亜衣",
+      "characters": [
+        {
+          "id": "ch0204_00_lanuit",
+          "name": "Nita"
+        }
+      ]
+    },
+    {
+      "name": "Ai Kaneta",
+      "name_jp": "金田愛",
+      "characters": [
+        {
+          "id": "ch0121_00_plumeria",
+          "name": "Plumeria"
+        }
+      ]
+    },
+    {
+      "name": "Ai Kayano",
+      "name_jp": "茅野愛衣",
+      "characters": [
+        {
+          "id": "ch0008_00_erika",
+          "name": "Erika"
+        },
+        {
+          "id": "ch0008_10_erika",
+          "name": "Sygna Suit Erika"
+        },
+        {
+          "id": "ch0008_40_erika",
+          "name": "Erika (Holiday 2020)"
+        }
+      ]
+    },
+    {
+      "name": "Ai Nonaka",
+      "name_jp": "野中藍",
+      "characters": [
+        {
+          "id": "ch0126_00_haruka",
+          "name": "May"
+        },
+        {
+          "id": "ch0126_10_haruka",
+          "name": "Sygna Suit May"
+        },
+        {
+          "id": "ch0126_40_haruka",
+          "name": "May (Spring 2021)"
+        },
+        {
+          "id": "ch0126_41_haruka",
+          "name": "May (Anniversary 2022)"
+        }
+      ]
+    },
+    {
+      "name": "Aimi",
+      "name_jp": "愛美",
+      "characters": [
+        {
+          "id": "ch0129_00_higana",
+          "name": "Zinnia"
+        }
+      ]
+    },
+    {
+      "name": "Akari Kito",
+      "name_jp": "鬼頭明里",
+      "characters": [
+        {
+          "id": "ch0130_00_serena",
+          "name": "Serena"
+        },
+        {
+          "id": "ch0130_10_serena",
+          "name": "Sygna Suit Serena"
+        },
+        {
+          "id": "ch0130_40_serena",
+          "name": "Serena (Palentine's 2021)"
+        },
+        {
+          "id": "ch0130_90_serena",
+          "name": "Serena (Champion)"
+        }
+      ]
+    },
+    {
+      "name": "Aki Toyosaki",
+      "name_jp": "豊崎愛生",
+      "characters": [
+        {
+          "id": "ch0101_00_mei",
+          "name": "Rosa"
+        },
+        {
+          "id": "ch0101_10_mei",
+          "name": "Rosa (Holiday 2019)"
+        },
+        {
+          "id": "ch0101_41_mei",
+          "name": "Rosa (Special Costume)"
+        }
+      ]
+    },
+    {
+      "name": "Akiha Matsui",
+      "name_jp": "松井暁波",
+      "characters": [
+        {
+          "id": "ch0050_00_sumomo",
+          "name": "Maylene"
+        }
+      ]
+    },
+    {
+      "name": "Akihiro Hori",
+      "name_jp": "堀曜宏",
+      "characters": [
+        {
+          "id": "ch0502_30_aqua_shitappam",
+          "name": "Team Aqua Grunt"
+        }
+      ]
+    },
+    {
+      "name": "Akio Otsuka",
+      "name_jp": "大塚明夫",
+      "characters": [
+        {
+          "id": "ch0196_00_fleurdelis",
+          "name": "Lysandre"
+        }
+      ]
+    },
+    {
+      "name": "Ami Naga",
+      "name_jp": "名賀亜美",
+      "characters": [
+        {
+          "id": "ch0031_00_fuu",
+          "name": "Tate"
+        }
+      ]
+    },
+    {
+      "name": "Ari Ozawa",
+      "name_jp": "小澤亜李",
+      "characters": [
+        {
+          "id": "ch0013_00_hapu",
+          "name": "Hapu"
+        }
+      ]
+    },
+    {
+      "name": "Arisa Kori",
+      "name_jp": "香里有佐",
+      "characters": [
+        {
+          "id": "ch0609_50_plasma_shitappaf",
+          "name": "Team Plasma Grunt"
+        }
+      ]
+    },
+    {
+      "name": "Asami Shimoda",
+      "name_jp": "下田麻美",
+      "characters": [
+        {
+          "id": "ch0139_00_sana",
+          "name": "Shauna"
+        }
+      ]
+    },
+    {
+      "name": "Atsushi Abe",
+      "name_jp": "阿部敦",
+      "characters": [
+        {
+          "id": "ch0014_01_cheren",
+          "name": "Cheren"
+        }
+      ]
+    },
+    {
+      "name": "Aya Endo",
+      "name_jp": "遠藤綾",
+      "characters": [
+        {
+          "id": "ch0039_00_viola",
+          "name": "Viola"
+        }
+      ]
+    },
+    {
+      "name": "Aya Hisakawa",
+      "name_jp": "久川綾",
+      "characters": [
+        {
+          "id": "ch0158_00_carnet",
+          "name": "Diantha"
+        },
+        {
+          "id": "ch0158_10_carnet",
+          "name": "Sygna Suit Diantha"
+        },
+        {
+          "id": "ch0158_40_carnet",
+          "name": "Diantha (Special Costume)"
+        }
+      ]
+    },
+    {
+      "name": "Aya Kawakami",
+      "name_jp": "川上彩",
+      "characters": [
+        {
+          "id": "ch0078_00_rangerf",
+          "name": "Pokémon Ranger"
+        },
+        {
+          "id": "ch0078_09_rangerf",
+          "name": "Pokémon Ranger [Team Break]"
+        },
+        {
+          "id": "ch0079_00_miniskirt",
+          "name": "Lass"
+        },
+        {
+          "id": "ch0079_09_miniskirt",
+          "name": "Lass [Team Break]"
+        }
+      ]
+    },
+    {
+      "name": "Ayahi Takagaki",
+      "name_jp": "高垣彩陽",
+      "characters": [
+        {
+          "id": "ch0105_00_rival2",
+          "name": "Tina"
+        }
+      ]
+    },
+    {
+      "name": "Ayako Kamegai",
+      "name_jp": "亀谷理子",
+      "characters": [
+        {
+          "id": "ch0030_00_ran",
+          "name": "Liza"
+        }
+      ]
+    },
+    {
+      "name": "Ayana Taketatsu",
+      "name_jp": "竹達彩奈",
+      "characters": [
+        {
+          "id": "ch0092_00_iris",
+          "name": "Iris"
+        },
+        {
+          "id": "ch0092_40_iris",
+          "name": "Iris (Fall 2022)"
+        },
+        {
+          "id": "ch0092_80_iris",
+          "name": "Iris (Alt.)"
+        }
+      ]
+    },
+    {
+      "name": "Ayane Sakura",
+      "name_jp": "佐倉綾音",
+      "characters": [
+        {
+          "id": "ch0110_00_kasumi",
+          "name": "Misty (Swimsuit)"
+        },
+        {
+          "id": "ch0110_01_kasumi",
+          "name": "Misty"
+        },
+        {
+          "id": "ch0110_10_kasumi",
+          "name": "Sygna Suit Misty"
+        }
+      ]
+    },
+    {
+      "name": "Ayano Shibuya",
+      "name_jp": "渋谷彩乃",
+      "characters": [
+        {
+          "id": "ch0081_00_enjif",
+          "name": "Preschooler"
+        },
+        {
+          "id": "ch0085_00_hopef",
+          "name": "Rising Star"
+        },
+        {
+          "id": "ch0085_09_hopef",
+          "name": "Rising Star [Team Break]"
+        }
+      ]
+    },
+    {
+      "name": "Ayumi Kinoshita",
+      "name_jp": "木下あゆ美",
+      "characters": [
+        {
+          "id": "ch0226_00_jupiter",
+          "name": "Jupiter"
+        }
+      ]
+    },
+    {
+      "name": "Ayumu Murase",
+      "name_jp": "村瀬歩",
+      "characters": [
+        {
+          "id": "ch0128_00_mitsuru",
+          "name": "Wally"
+        },
+        {
+          "id": "ch0128_10_mitsuru",
+          "name": "Sygna Suit Wally"
+        }
+      ]
+    },
+    {
+      "name": "Chisa Suganuma",
+      "name_jp": "菅沼千紗",
+      "characters": [
+        {
+          "id": "ch0011_00_homika",
+          "name": "Roxie"
+        }
+      ]
+    },
+    {
+      "name": "Cho",
+      "name_jp": "チョー",
+      "characters": [
+        {
+          "id": "ch0032_00_yanagi",
+          "name": "Pryce"
+        }
+      ]
+    },
+    {
+      "name": "Daiki Yamashita",
+      "name_jp": "山下大輝",
+      "characters": [
+        {
+          "id": "ch0098_00_hau",
+          "name": "Hau"
+        }
+      ]
+    },
+    {
+      "name": "Daisuke Hirose",
+      "name_jp": "廣瀬大介",
+      "characters": [
+        {
+          "id": "ch0112_00_hibiki",
+          "name": "Ethan"
+        },
+        {
+          "id": "ch0112_10_hibiki",
+          "name": "Sygna Suit Ethan"
+        }
+      ]
+    },
+    {
+      "name": "Daisuke Kasuya",
+      "name_jp": "粕谷大介",
+      "characters": [
+        {
+          "id": "ch0180_00_tierno",
+          "name": "Tierno"
+        }
+      ]
+    },
+    {
+      "name": "Daisuke Namikawa",
+      "name_jp": "浪川大輔",
+      "characters": [
+        {
+          "id": "ch0115_00_denji",
+          "name": "Volkner"
+        },
+        {
+          "id": "ch0115_40_denji",
+          "name": "Volkner (New Year's 2022)"
+        }
+      ]
+    },
+    {
+      "name": "Daisuke Ono",
+      "name_jp": "小野大輔",
+      "characters": [
+        {
+          "id": "ch0048_00_gima",
+          "name": "Grimsley"
+        },
+        {
+          "id": "ch0048_10_gima",
+          "name": "Sygna Suit Grimsley"
+        },
+        {
+          "id": "ch0048_80_gima",
+          "name": "Grimsley (Kimono)"
+        }
+      ]
+    },
+    {
+      "name": "Daisuke Sakaguchi",
+      "name_jp": "阪口大助",
+      "characters": [
+        {
+          "id": "ch0131_00_citron",
+          "name": "Clemont"
+        },
+        {
+          "id": "ch0530_70_sightseerm",
+          "name": "Sightseer"
+        }
+      ]
+    },
+    {
+      "name": "Eri Kitamura",
+      "name_jp": "喜多村英梨",
+      "characters": [
+        {
+          "id": "ch0250_00_saida",
+          "name": "Bea"
+        },
+        {
+          "id": "ch0250_40_saida",
+          "name": "Bea (Palentine's 2022)"
+        }
+      ]
+    },
+    {
+      "name": "Eri Yukimura",
+      "name_jp": "幸村恵理",
+      "characters": [
+        {
+          "id": "ch0243_00_yuri",
+          "name": "Gloria"
+        },
+        {
+          "id": "ch0243_40_yuri",
+          "name": "Gloria (Summer 2021)"
+        },
+        {
+          "id": "ch0243_80_yuri",
+          "name": "Gloria (Dojo Uniform)"
+        }
+      ]
+    },
+    {
+      "name": "Eriko Kadokura",
+      "name_jp": "角倉英里子",
+      "characters": [
+        {
+          "id": "ch0539_70_gingaf",
+          "name": "Team Galactic Grunt"
+        }
+      ]
+    },
+    {
+      "name": "Fumitake Ishiguro",
+      "name_jp": "石黒史剛",
+      "characters": [
+        {
+          "id": "ch0608_50_plasma_shitappam",
+          "name": "Team Plasma Grunt"
+        }
+      ]
+    },
+    {
+      "name": "Haruka Ito",
+      "name_jp": "伊藤はるか",
+      "characters": [
+        {
+          "id": "ch0027_00_natane",
+          "name": "Gardenia"
+        }
+      ]
+    },
+    {
+      "name": "Haruka Shamoto",
+      "name_jp": "社本悠",
+      "characters": [
+        {
+          "id": "ch0029_00_asuna",
+          "name": "Flannery"
+        }
+      ]
+    },
+    {
+      "name": "Hekiru Shiina",
+      "name_jp": "椎名へきる",
+      "characters": [
+        {
+          "id": "ch0065_00_professor",
+          "name": "Professor Bellis"
+        }
+      ]
+    },
+    {
+      "name": "Hikaru Hanada",
+      "name_jp": "花田光",
+      "characters": [
+        {
+          "id": "ch0195_00_ghetsis",
+          "name": "Ghetsis"
+        }
+      ]
+    },
+    {
+      "name": "Hikaru Midorikawa",
+      "name_jp": "緑川光",
+      "characters": [
+        {
+          "id": "ch0089_00_n",
+          "name": "N"
+        },
+        {
+          "id": "ch0089_10_n",
+          "name": "Sygna Suit N"
+        },
+        {
+          "id": "ch0089_40_n",
+          "name": "N (Anniversary 2021)"
+        },
+        {
+          "id": "ch0089_41_n",
+          "name": "N (Summer 2022)"
+        }
+      ]
+    },
+    {
+      "name": "Hikaru Yoshihara",
+      "name_jp": "吉原光",
+      "characters": [
+        {
+          "id": "ch0611_60_flare_shitappam",
+          "name": "Team Flare Grunt"
+        }
+      ]
+    },
+    {
+      "name": "Hina Natsume",
+      "name_jp": "夏目妃菜",
+      "characters": [
+        {
+          "id": "ch0610_60_furisodegirl",
+          "name": "Furisode Girl"
+        },
+        {
+          "id": "ch0653_68_kirika",
+          "name": "Kali (Furisode Girl)"
+        }
+      ]
+    },
+    {
+      "name": "Hiro Shimono",
+      "name_jp": "下野紘",
+      "characters": [
+        {
+          "id": "ch0242_00_masaru",
+          "name": "Victor"
+        }
+      ]
+    },
+    {
+      "name": "Hirofumi Nojima",
+      "name_jp": "野島裕史",
+      "characters": [
+        {
+          "id": "ch0047_00_itsuki",
+          "name": "Will"
+        }
+      ]
+    },
+    {
+      "name": "Hiromichi Kogami",
+      "name_jp": "小上裕通",
+      "characters": [
+        {
+          "id": "ch0040_00_hachiku",
+          "name": "Brycen"
+        }
+      ]
+    },
+    {
+      "name": "Hironori Kondo",
+      "name_jp": "近藤浩徳",
+      "characters": [
+        {
+          "id": "ch0171_00_shijima",
+          "name": "Chuck"
+        }
+      ]
+    },
+    {
+      "name": "Hiroshi Kamiya",
+      "name_jp": "神谷浩史",
+      "characters": [
+        {
+          "id": "ch0148_00_matsuba",
+          "name": "Morty"
+        },
+        {
+          "id": "ch0148_10_matsuba",
+          "name": "Sygna Suit Morty"
+        },
+        {
+          "id": "ch0148_40_matsuba",
+          "name": "Morty (Fall 2021)"
+        }
+      ]
+    },
+    {
+      "name": "Hiroshi Naka",
+      "name_jp": "中博史",
+      "characters": [
+        {
+          "id": "ch0037_00_fukuji",
+          "name": "Ramos"
+        }
+      ]
+    },
+    {
+      "name": "Hitomi Nabatame",
+      "name_jp": "生天目仁美",
+      "characters": [
+        {
+          "id": "ch0051_00_litchi",
+          "name": "Olivia"
+        }
+      ]
+    },
+    {
+      "name": "Hitomi Shogawa",
+      "name_jp": "所河ひとみ",
+      "characters": [
+        {
+          "id": "ch0198_00_azami",
+          "name": "Lucy"
+        }
+      ]
+    },
+    {
+      "name": "Hitomi Ueda",
+      "name_jp": "上田瞳",
+      "characters": [
+        {
+          "id": "ch0157_00_mache",
+          "name": "Valerie"
+        }
+      ]
+    },
+    {
+      "name": "Izumi Chiba",
+      "name_jp": "千葉泉",
+      "characters": [
+        {
+          "id": "ch0627_30_magma_shitappaf",
+          "name": "Team Magma Grunt"
+        }
+      ]
+    },
+    {
+      "name": "Jiro Saito",
+      "name_jp": "斉藤次郎",
+      "characters": [
+        {
+          "id": "ch0057_00_shiba",
+          "name": "Bruno"
+        }
+      ]
+    },
+    {
+      "name": "Jouji Nakata",
+      "name_jp": "中田譲治",
+      "characters": [
+        {
+          "id": "ch0192_00_matsubusa",
+          "name": "Maxie"
+        }
+      ]
+    },
+    {
+      "name": "Jun Miyamoto",
+      "name_jp": "宮本淳",
+      "characters": [
+        {
+          "id": "ch0076_00_collector",
+          "name": "Collector"
+        },
+        {
+          "id": "ch0076_09_collector",
+          "name": "Collector [Team Break]"
+        },
+        {
+          "id": "ch0077_00_daisukim",
+          "name": "Poké Fan"
+        },
+        {
+          "id": "ch0077_09_daisukim",
+          "name": "Poké Fan [Team Break]"
+        }
+      ]
+    },
+    {
+      "name": "Junichi Suwabe",
+      "name_jp": "諏訪部順一",
+      "characters": [
+        {
+          "id": "ch0001_00_kukui",
+          "name": "Kukui"
+        },
+        {
+          "id": "ch0117_00_royalmask",
+          "name": "The Masked Royal"
+        }
+      ]
+    },
+    {
+      "name": "Junko Minagawa",
+      "name_jp": "皆川純子",
+      "characters": [
+        {
+          "id": "ch0020_00_toya",
+          "name": "Hilbert"
+        },
+        {
+          "id": "ch0020_10_toya",
+          "name": "Sygna Suit Hilbert"
+        },
+        {
+          "id": "ch0020_40_toya",
+          "name": "Hilbert (Fall 2020)"
+        }
+      ]
+    },
+    {
+      "name": "KENN",
+      "characters": [
+        {
+          "id": "ch0043_00_toki",
+          "name": "Brawly"
+        }
+      ]
+    },
+    {
+      "name": "Kaede Yuasa",
+      "name_jp": "湯浅かえで",
+      "characters": [
+        {
+          "id": "ch0102_00_bell",
+          "name": "Bianca"
+        }
+      ]
+    },
+    {
+      "name": "Kana Asumi",
+      "name_jp": "阿澄佳奈",
+      "characters": [
+        {
+          "id": "ch0018_00_chris",
+          "name": "Kris"
+        },
+        {
+          "id": "ch0018_10_chris",
+          "name": "Sygna Suit Kris"
+        }
+      ]
+    },
+    {
+      "name": "Kaori Nazuka",
+      "name_jp": "名塚佳織",
+      "characters": [
+        {
+          "id": "ch0160_00_suiren",
+          "name": "Lana"
+        }
+      ]
+    },
+    {
+      "name": "Katsuyuki Konishi",
+      "name_jp": "小西克幸",
+      "characters": [
+        {
+          "id": "ch0136_00_platane",
+          "name": "Professor Sycamore"
+        }
+      ]
+    },
+    {
+      "name": "Kei Kawamura",
+      "name_jp": "河村螢",
+      "characters": [
+        {
+          "id": "ch0028_00_ibuki",
+          "name": "Clair"
+        }
+      ]
+    },
+    {
+      "name": "Ken Uo",
+      "name_jp": "魚建",
+      "characters": [
+        {
+          "id": "ch0059_00_katsura",
+          "name": "Blaine"
+        }
+      ]
+    },
+    {
+      "name": "Kenichi Ogata",
+      "name_jp": "緒方賢一",
+      "characters": [
+        {
+          "id": "ch0137_00_orchid1",
+          "name": "Professor Oak"
+        }
+      ]
+    },
+    {
+      "name": "Kenichiro Matsuda",
+      "name_jp": "松田健一郎",
+      "characters": [
+        {
+          "id": "ch0022_00_urup",
+          "name": "Wulfric"
+        }
+      ]
+    },
+    {
+      "name": "Kenji Nojima",
+      "name_jp": "野島健児",
+      "characters": [
+        {
+          "id": "ch0038_00_hyouta",
+          "name": "Roark"
+        }
+      ]
+    },
+    {
+      "name": "Kenjiro Tsuda",
+      "name_jp": "津田健次郎",
+      "characters": [
+        {
+          "id": "ch0056_00_kuchinashi",
+          "name": "Nanu"
+        }
+      ]
+    },
+    {
+      "name": "Kensho Ono",
+      "name_jp": "小野賢章",
+      "characters": [
+        {
+          "id": "ch0003_00_calme",
+          "name": "Calem"
+        },
+        {
+          "id": "ch0003_90_calme",
+          "name": "Calem (Champion)"
+        }
+      ]
+    },
+    {
+      "name": "Kisho Taniyama",
+      "name_jp": "谷山紀章",
+      "characters": [
+        {
+          "id": "ch0256_00_nezz",
+          "name": "Piers"
+        }
+      ]
+    },
+    {
+      "name": "Kiyotaka Furushima",
+      "name_jp": "古島清孝",
+      "characters": [
+        {
+          "id": "ch0084_00_kenkyuin",
+          "name": "Scientist"
+        },
+        {
+          "id": "ch0084_09_kenkyuin",
+          "name": "Scientist [Team Break]"
+        }
+      ]
+    },
+    {
+      "name": "Kohsuke Tanabe",
+      "name_jp": "田邊幸輔",
+      "characters": [
+        {
+          "id": "ch0150_00_hayato",
+          "name": "Falkner"
+        }
+      ]
+    },
+    {
+      "name": "Kohsuke Toriumi",
+      "name_jp": "鳥海浩輔",
+      "characters": [
+        {
+          "id": "ch0015_00_takeshi",
+          "name": "Brock"
+        },
+        {
+          "id": "ch0015_01_takeshi",
+          "name": "Sygna Suit Brock"
+        },
+        {
+          "id": "ch0257_00_qibana",
+          "name": "Raihan"
+        },
+        {
+          "id": "ch0257_40_qibana",
+          "name": "Raihan (Anniversary 2022)"
+        }
+      ]
+    },
+    {
+      "name": "Koji Ishii",
+      "name_jp": "石井康嗣",
+      "characters": [
+        {
+          "id": "ch0140_00_sakaki",
+          "name": "Giovanni"
+        },
+        {
+          "id": "ch0140_10_sakaki",
+          "name": "Sygna Suit Giovanni"
+        },
+        {
+          "id": "ch0140_80_sakaki",
+          "name": "Giovanni (Classic)"
+        }
+      ]
+    },
+    {
+      "name": "Koji Takahashi",
+      "name_jp": "高橋孝治",
+      "characters": [
+        {
+          "id": "ch0141_00_apollo",
+          "name": "Archer"
+        }
+      ]
+    },
+    {
+      "name": "Koki Uchiyama",
+      "name_jp": "内山昂輝",
+      "characters": [
+        {
+          "id": "ch0119_00_gladion",
+          "name": "Gladion"
+        }
+      ]
+    },
+    {
+      "name": "Kosuke Kuwano",
+      "name_jp": "桑野晃輔",
+      "characters": [
+        {
+          "id": "ch0127_00_mikuri",
+          "name": "Wallace"
+        }
+      ]
+    },
+    {
+      "name": "Kotono Mitsuishi",
+      "name_jp": "三石琴乃",
+      "characters": [
+        {
+          "id": "ch0177_00_pachira",
+          "name": "Malva"
+        }
+      ]
+    },
+    {
+      "name": "Kouji Yusa",
+      "name_jp": "遊佐浩二",
+      "characters": [
+        {
+          "id": "ch0191_00_achroma",
+          "name": "Colress"
+        }
+      ]
+    },
+    {
+      "name": "Lynn",
+      "characters": [
+        {
+          "id": "ch0259_00_sania",
+          "name": "Sonia"
+        },
+        {
+          "id": "ch0259_40_sania",
+          "name": "Sonia (Special Costume)"
+        }
+      ]
+    },
+    {
+      "name": "Maaya Uchida",
+      "name_jp": "内田真礼",
+      "characters": [
+        {
+          "id": "ch0118_00_lillie",
+          "name": "Lillie"
+        },
+        {
+          "id": "ch0118_40_lillie",
+          "name": "Lillie (New Year's 2021)"
+        },
+        {
+          "id": "ch0118_41_lillie",
+          "name": "Lillie (Special Costume)"
+        },
+        {
+          "id": "ch0118_50_lillie",
+          "name": "Lillie (Anniversary 2021)"
+        },
+        {
+          "id": "ch0220_00_matiere",
+          "name": "Emma"
+        }
+      ]
+    },
+    {
+      "name": "Mai Fuchigami",
+      "name_jp": "渕上舞",
+      "characters": [
+        {
+          "id": "ch0049_00_fuyo",
+          "name": "Phoebe"
+        }
+      ]
+    },
+    {
+      "name": "Mai Goto",
+      "name_jp": "後藤麻衣",
+      "characters": [
+        {
+          "id": "ch0044_00_tsutsuji",
+          "name": "Roxanne"
+        }
+      ]
+    },
+    {
+      "name": "Mamoru Miyano",
+      "name_jp": "宮野真守",
+      "characters": [
+        {
+          "id": "ch0066_00_boss",
+          "name": "Lear"
+        },
+        {
+          "id": "ch0066_01_boss",
+          "name": "Lear"
+        }
+      ]
+    },
+    {
+      "name": "Manami Numakura",
+      "name_jp": "沼倉愛美",
+      "characters": [
+        {
+          "id": "ch0093_00_staff_center",
+          "name": "Trista"
+        },
+        {
+          "id": "ch0103_00_staff_shop",
+          "name": "Tricia"
+        },
+        {
+          "id": "ch0104_00_staff_cafe",
+          "name": "Trinnia"
+        }
+      ]
+    },
+    {
+      "name": "Marika Kohno",
+      "name_jp": "高野麻里佳",
+      "characters": [
+        {
+          "id": "ch0205_00_lesoir",
+          "name": "Evelyn"
+        }
+      ]
+    },
+    {
+      "name": "Mariko Nagai",
+      "name_jp": "永井真里子",
+      "characters": [
+        {
+          "id": "ch0004_00_toko",
+          "name": "Hilda"
+        },
+        {
+          "id": "ch0004_10_toko",
+          "name": "Sygna Suit Hilda"
+        },
+        {
+          "id": "ch0004_40_toko",
+          "name": "Hilda (Special Costume)"
+        },
+        {
+          "id": "ch0004_41_toko",
+          "name": "Hilda (Summer 2022)"
+        }
+      ]
+    },
+    {
+      "name": "Masaaki Ihara",
+      "name_jp": "伊原正明",
+      "characters": [
+        {
+          "id": "ch0080_00_yamaotoko",
+          "name": "Hiker"
+        },
+        {
+          "id": "ch0080_09_yamaotoko",
+          "name": "Hiker [Team Break]"
+        }
+      ]
+    },
+    {
+      "name": "Masaharu Sato",
+      "name_jp": "佐藤正治",
+      "characters": [
+        {
+          "id": "ch0094_00_genji",
+          "name": "Drake"
+        }
+      ]
+    },
+    {
+      "name": "Masaki Terasoma",
+      "name_jp": "てらそままさき",
+      "characters": [
+        {
+          "id": "ch0132_00_adeku",
+          "name": "Alder"
+        }
+      ]
+    },
+    {
+      "name": "Masaya Fukunishi",
+      "name_jp": "福西勝也",
+      "characters": [
+        {
+          "id": "ch0053_00_zakuro",
+          "name": "Grant"
+        }
+      ]
+    },
+    {
+      "name": "Mayuki Makiguchi",
+      "name_jp": "牧口真幸",
+      "characters": [
+        {
+          "id": "ch0531_70_sightseerf",
+          "name": "Sightseer"
+        },
+        {
+          "id": "ch0651_78_nanase",
+          "name": "Naomi (Sightseer)"
+        }
+      ]
+    },
+    {
+      "name": "Megumi Hayashibara",
+      "name_jp": "林原めぐみ",
+      "characters": [
+        {
+          "id": "ch0240_00_musashi",
+          "name": "Jessie"
+        }
+      ]
+    },
+    {
+      "name": "Michiko Kaiden",
+      "name_jp": "鷄冠井美智子",
+      "characters": [
+        {
+          "id": "ch0142_00_athena",
+          "name": "Ariana"
+        }
+      ]
+    },
+    {
+      "name": "Michiko Neya",
+      "name_jp": "根谷美智子",
+      "characters": [
+        {
+          "id": "ch0224_00_izumi",
+          "name": "Shelly"
+        }
+      ]
+    },
+    {
+      "name": "Michiyo Murase",
+      "name_jp": "村瀬迪与",
+      "characters": [
+        {
+          "id": "ch0036_00_mamane",
+          "name": "Sophocles"
+        }
+      ]
+    },
+    {
+      "name": "Mie Sonozaki",
+      "name_jp": "園崎未恵",
+      "characters": [
+        {
+          "id": "ch0091_00_shirona",
+          "name": "Cynthia"
+        },
+        {
+          "id": "ch0091_01_shirona",
+          "name": "Sygna Suit Cynthia"
+        },
+        {
+          "id": "ch0091_10_shirona",
+          "name": "Sygna Suit Cynthia (Aura)"
+        },
+        {
+          "id": "ch0091_20_shirona",
+          "name": "Sygna Suit Cynthia (Renegade)"
+        }
+      ]
+    },
+    {
+      "name": "Minori Chihara",
+      "name_jp": "茅原実里",
+      "characters": [
+        {
+          "id": "ch0222_00_kagari",
+          "name": "Courtney"
+        }
+      ]
+    },
+    {
+      "name": "Mirei Kumagai",
+      "name_jp": "熊谷海麗",
+      "characters": [
+        {
+          "id": "ch0074_00_tanpan",
+          "name": "Parker"
+        },
+        {
+          "id": "ch0075_00_bikini",
+          "name": "Swimmer"
+        },
+        {
+          "id": "ch0075_09_bikini",
+          "name": "Swimmer [Team Break]"
+        }
+      ]
+    },
+    {
+      "name": "Misuzu Togashi",
+      "name_jp": "富樫美鈴",
+      "characters": [
+        {
+          "id": "ch0070_00_elitef",
+          "name": "Ace Trainer"
+        },
+        {
+          "id": "ch0070_09_elitef",
+          "name": "Ace Trainer [Team Break]"
+        },
+        {
+          "id": "ch0086_00_campm",
+          "name": "Camper"
+        },
+        {
+          "id": "ch0086_09_campm",
+          "name": "Camper [Team Break]"
+        }
+      ]
+    },
+    {
+      "name": "Mitsuki Saiga",
+      "name_jp": "斎賀みつき",
+      "characters": [
+        {
+          "id": "ch0122_00_yo",
+          "name": "Elio"
+        }
+      ]
+    },
+    {
+      "name": "Miyuki Kobori",
+      "name_jp": "小堀幸",
+      "characters": [
+        {
+          "id": "ch0100_00_kyohei",
+          "name": "Nate"
+        }
+      ]
+    },
+    {
+      "name": "Naomi Kusumi",
+      "name_jp": "楠見尚己",
+      "characters": [
+        {
+          "id": "ch0033_00_yakon",
+          "name": "Clay"
+        }
+      ]
+    },
+    {
+      "name": "Natsumi Aono",
+      "name_jp": "青野菜月",
+      "characters": [
+        {
+          "id": "ch0023_00_momi",
+          "name": "Cheryl"
+        }
+      ]
+    },
+    {
+      "name": "Nobunaga Shimazaki",
+      "name_jp": "島﨑信長",
+      "characters": [
+        {
+          "id": "ch0170_00_arty",
+          "name": "Burgh"
+        },
+        {
+          "id": "ch0170_40_arty",
+          "name": "Burgh (Spring 2021)"
+        }
+      ]
+    },
+    {
+      "name": "Nozomi Mikajiri",
+      "name_jp": "三日尻望",
+      "characters": [
+        {
+          "id": "ch0083_00_badgirl",
+          "name": "Punk Girl"
+        },
+        {
+          "id": "ch0083_09_badgirl",
+          "name": "Punk Girl [Team Break]"
+        }
+      ]
+    },
+    {
+      "name": "Rica Matsumoto",
+      "name_jp": "松本梨香",
+      "characters": [
+        {
+          "id": "ch0264_00_satoshi",
+          "name": "Ash"
+        }
+      ]
+    },
+    {
+      "name": "Rie Takahashi",
+      "name_jp": "高橋李依",
+      "characters": [
+        {
+          "id": "ch0116_00_hikari",
+          "name": "Dawn"
+        },
+        {
+          "id": "ch0116_10_hikari",
+          "name": "Sygna Suit Dawn"
+        },
+        {
+          "id": "ch0116_40_hikari",
+          "name": "Dawn (Palentine's 2021)"
+        },
+        {
+          "id": "ch0116_41_hikari",
+          "name": "Dawn (New Year’s 2023)"
+        }
+      ]
+    },
+    {
+      "name": "Rie Tanaka",
+      "name_jp": "田中理恵",
+      "characters": [
+        {
+          "id": "ch0114_00_natsume",
+          "name": "Sabrina"
+        },
+        {
+          "id": "ch0114_40_natsume",
+          "name": "Sabrina (New Year's 2022)"
+        }
+      ]
+    },
+    {
+      "name": "Riho Sugiyama",
+      "name_jp": "杉山里穂",
+      "characters": [
+        {
+          "id": "ch0060_00_anzu",
+          "name": "Janine"
+        }
+      ]
+    },
+    {
+      "name": "Rina Sato",
+      "name_jp": "佐藤利奈",
+      "characters": [
+        {
+          "id": "ch0016_00_huuro",
+          "name": "Skyla"
+        },
+        {
+          "id": "ch0016_40_huuro",
+          "name": "Skyla (Holiday 2020)"
+        },
+        {
+          "id": "ch0016_41_huuro",
+          "name": "Skyla (Anniversary 2022)"
+        }
+      ]
+    },
+    {
+      "name": "Ryo Hirohashi",
+      "name_jp": "広橋涼",
+      "characters": [
+        {
+          "id": "ch0251_00_onion",
+          "name": "Allister"
+        },
+        {
+          "id": "ch0251_40_onion",
+          "name": "Allister (Fall 2022)"
+        }
+      ]
+    },
+    {
+      "name": "Ryohei Kimura",
+      "name_jp": "木村良平",
+      "characters": [
+        {
+          "id": "ch0064_00_rival",
+          "name": "Paulo"
+        }
+      ]
+    },
+    {
+      "name": "Ryoka Yuzuki",
+      "name_jp": "柚木涼香",
+      "characters": [
+        {
+          "id": "ch0062_00_karin",
+          "name": "Karen"
+        }
+      ]
+    },
+    {
+      "name": "Ryota Iwasaki",
+      "name_jp": "岩崎諒太",
+      "characters": [
+        {
+          "id": "ch0052_00_shizui",
+          "name": "Marlon"
+        }
+      ]
+    },
+    {
+      "name": "Ryota Osaka",
+      "name_jp": "逢坂良太",
+      "characters": [
+        {
+          "id": "ch0021_00_green",
+          "name": "Blue"
+        },
+        {
+          "id": "ch0021_01_green",
+          "name": "Sygna Suit Blue"
+        },
+        {
+          "id": "ch0021_80_green",
+          "name": "Blue (Classic)"
+        }
+      ]
+    },
+    {
+      "name": "Saki Endo",
+      "name_jp": "遠藤さき",
+      "characters": [
+        {
+          "id": "ch0071_00_otona",
+          "name": "Beauty"
+        },
+        {
+          "id": "ch0071_09_otona",
+          "name": "Beauty [Team Break]"
+        }
+      ]
+    },
+    {
+      "name": "Saori Oonishi",
+      "name_jp": "大西沙織",
+      "characters": [
+        {
+          "id": "ch0521_60_hexmaniac",
+          "name": "Hex Maniac"
+        },
+        {
+          "id": "ch0652_68_sayoko",
+          "name": "Helena (Hex Maniac)"
+        }
+      ]
+    },
+    {
+      "name": "Sara Matsumoto",
+      "name_jp": "松本沙羅",
+      "characters": [
+        {
+          "id": "ch0097_00_mai",
+          "name": "Marley"
+        }
+      ]
+    },
+    {
+      "name": "Satomi Moriya",
+      "name_jp": "森谷里美",
+      "characters": [
+        {
+          "id": "ch0045_00_tsukushi",
+          "name": "Bugsy"
+        }
+      ]
+    },
+    {
+      "name": "Satomi Sato",
+      "name_jp": "佐藤聡美",
+      "characters": [
+        {
+          "id": "ch0095_00_cattleya",
+          "name": "Caitlin"
+        },
+        {
+          "id": "ch0095_40_cattleya",
+          "name": "Caitlin (Fall 2021)"
+        }
+      ]
+    },
+    {
+      "name": "Satsuki Yukino",
+      "name_jp": "ゆきのさつき",
+      "characters": [
+        {
+          "id": "ch0225_00_mars",
+          "name": "Mars"
+        }
+      ]
+    },
+    {
+      "name": "Sayaka Kinoshita",
+      "name_jp": "木下紗華",
+      "characters": [
+        {
+          "id": "ch0153_00_prim",
+          "name": "Glacia"
+        }
+      ]
+    },
+    {
+      "name": "Sayaka Mori",
+      "name_jp": "森彩香",
+      "characters": [
+        {
+          "id": "ch0181_00_trova",
+          "name": "Trevor"
+        }
+      ]
+    },
+    {
+      "name": "Sayaka Ohara",
+      "name_jp": "大原さやか",
+      "characters": [
+        {
+          "id": "ch0120_00_lusamine",
+          "name": "Lusamine"
+        },
+        {
+          "id": "ch0120_10_lusamine",
+          "name": "Sygna Suit Lusamine"
+        }
+      ]
+    },
+    {
+      "name": "Sayaka Senbongi",
+      "name_jp": "千本木彩花",
+      "characters": [
+        {
+          "id": "ch0002_00_kotone",
+          "name": "Lyra"
+        },
+        {
+          "id": "ch0002_10_kotone",
+          "name": "Sygna Suit Lyra"
+        },
+        {
+          "id": "ch0002_40_kotone",
+          "name": "Lyra (Summer 2020)"
+        }
+      ]
+    },
+    {
+      "name": "Serika Hiromatsu",
+      "name_jp": "弘松芹香",
+      "characters": [
+        {
+          "id": "ch0005_00_kanna",
+          "name": "Lorelei"
+        }
+      ]
+    },
+    {
+      "name": "Shiho Kawaraki",
+      "name_jp": "河原木志穂",
+      "characters": [
+        {
+          "id": "ch0058_00_kahiri",
+          "name": "Kahili"
+        }
+      ]
+    },
+    {
+      "name": "Shiina Natsukawa",
+      "name_jp": "夏川椎菜",
+      "characters": [
+        {
+          "id": "ch0215_00_lutia",
+          "name": "Lisia"
+        },
+        {
+          "id": "ch0215_40_lutia",
+          "name": "Lisia (New Year’s 2023)"
+        }
+      ]
+    },
+    {
+      "name": "Shinichiro Miki",
+      "name_jp": "三木眞一郎",
+      "characters": [
+        {
+          "id": "ch0241_00_kojiro",
+          "name": "James"
+        }
+      ]
+    },
+    {
+      "name": "Shino Shimoji",
+      "name_jp": "下地紫野",
+      "characters": [
+        {
+          "id": "ch0503_30_aqua_shitappaf",
+          "name": "Team Aqua Grunt"
+        }
+      ]
+    },
+    {
+      "name": "Shintaro Asanuma",
+      "name_jp": "浅沼晋太郎",
+      "characters": [
+        {
+          "id": "ch0145_00_pod",
+          "name": "Chili"
+        }
+      ]
+    },
+    {
+      "name": "Shiori Izawa",
+      "name_jp": "井澤詩織",
+      "characters": [
+        {
+          "id": "ch0067_00_leader1",
+          "name": "Rachel"
+        },
+        {
+          "id": "ch0067_01_leader1",
+          "name": "Rachel"
+        }
+      ]
+    },
+    {
+      "name": "Shiori Mikami",
+      "name_jp": "三上枝織",
+      "characters": [
+        {
+          "id": "ch0007_00_acerola",
+          "name": "Acerola"
+        },
+        {
+          "id": "ch0007_40_acerola",
+          "name": "Acerola (Fall 2020)"
+        }
+      ]
+    },
+    {
+      "name": "Shiori Sakurai",
+      "name_jp": "櫻井しおり",
+      "characters": [
+        {
+          "id": "ch0025_00_suzuna",
+          "name": "Candice"
+        }
+      ]
+    },
+    {
+      "name": "Sho Okumura",
+      "name_jp": "奥村翔",
+      "characters": [
+        {
+          "id": "ch0144_00_lance",
+          "name": "Proton"
+        }
+      ]
+    },
+    {
+      "name": "Shogo Sakata",
+      "name_jp": "坂田将吾",
+      "characters": [
+        {
+          "id": "ch0640_20_rocket_shitappam",
+          "name": "Team Rocket Grunt"
+        }
+      ]
+    },
+    {
+      "name": "Shohei Kajikawa",
+      "name_jp": "梶川翔平",
+      "characters": [
+        {
+          "id": "ch0135_00_kagetsu",
+          "name": "Sidney"
+        }
+      ]
+    },
+    {
+      "name": "Shohei Komatsu",
+      "name_jp": "小松昌平",
+      "characters": [
+        {
+          "id": "ch0041_00_nejiki",
+          "name": "Thorton"
+        }
+      ]
+    },
+    {
+      "name": "Shonosuke Horikoshi",
+      "name_jp": "堀越省之助",
+      "characters": [
+        {
+          "id": "ch0096_00_zumi",
+          "name": "Siebold"
+        },
+        {
+          "id": "ch0096_10_zumi",
+          "name": "Siebold (Holiday 2019)"
+        }
+      ]
+    },
+    {
+      "name": "Shouta Aoi",
+      "name_jp": "蒼井翔太",
+      "characters": [
+        {
+          "id": "ch0000_00_red",
+          "name": "Sygna Suit Red"
+        },
+        {
+          "id": "ch0000_10_red",
+          "name": "Sygna Suit Red (Thunderbolt)"
+        },
+        {
+          "id": "ch0000_80_red",
+          "name": "Red"
+        }
+      ]
+    },
+    {
+      "name": "Shugo Nakamura",
+      "name_jp": "仲村宗悟",
+      "characters": [
+        {
+          "id": "ch0190_00_ryuki",
+          "name": "Ryuki"
+        }
+      ]
+    },
+    {
+      "name": "Shuhei Matsuda",
+      "name_jp": "松田修平",
+      "characters": [
+        {
+          "id": "ch0082_00_kowai",
+          "name": "Street Thug"
+        },
+        {
+          "id": "ch0082_09_kowai",
+          "name": "Street Thug [Team Break]"
+        }
+      ]
+    },
+    {
+      "name": "Shun Horie",
+      "name_jp": "堀江瞬",
+      "characters": [
+        {
+          "id": "ch0162_00_koki",
+          "name": "Lucas"
+        }
+      ]
+    },
+    {
+      "name": "Soma Saito",
+      "name_jp": "斉藤壮馬",
+      "characters": [
+        {
+          "id": "ch0146_00_corn",
+          "name": "Cress"
+        }
+      ]
+    },
+    {
+      "name": "Sora Amamiya",
+      "name_jp": "雨宮天",
+      "characters": [
+        {
+          "id": "ch0124_00_mao",
+          "name": "Mallow"
+        },
+        {
+          "id": "ch0249_00_rulina",
+          "name": "Nessa"
+        },
+        {
+          "id": "ch0249_40_rulina",
+          "name": "Nessa (Holiday 2021)"
+        }
+      ]
+    },
+    {
+      "name": "Susumu Akaki",
+      "name_jp": "赤城進",
+      "characters": [
+        {
+          "id": "ch0055_00_gampi",
+          "name": "Wikstrom"
+        }
+      ]
+    },
+    {
+      "name": "Suzuko Mimori",
+      "name_jp": "三森すずこ",
+      "characters": [
+        {
+          "id": "ch0123_00_mizuki",
+          "name": "Selene"
+        }
+      ]
+    },
+    {
+      "name": "Tae Okajima",
+      "name_jp": "岡嶋妙",
+      "characters": [
+        {
+          "id": "ch0042_00_nagi",
+          "name": "Winona"
+        }
+      ]
+    },
+    {
+      "name": "Taichi Kusano",
+      "name_jp": "草野太一",
+      "characters": [
+        {
+          "id": "ch0538_70_gingam",
+          "name": "Team Galactic Grunt"
+        }
+      ]
+    },
+    {
+      "name": "Taichi Takeda",
+      "name_jp": "武田太一",
+      "characters": [
+        {
+          "id": "ch0143_00_lambda",
+          "name": "Petrel"
+        }
+      ]
+    },
+    {
+      "name": "Taiki Matsuno",
+      "name_jp": "松野太紀",
+      "characters": [
+        {
+          "id": "ch0227_00_saturn",
+          "name": "Saturn"
+        }
+      ]
+    },
+    {
+      "name": "Takaaki Torashima",
+      "name_jp": "虎島貴明",
+      "characters": [
+        {
+          "id": "ch0265_00_shadowtriad1",
+          "name": "The Shadow Triad"
+        },
+        {
+          "id": "ch0266_00_shadowtriad2",
+          "name": "The Shadow Triad"
+        },
+        {
+          "id": "ch0267_00_shadowtriad3",
+          "name": "The Shadow Triad"
+        }
+      ]
+    },
+    {
+      "name": "Takahiro Sakurai",
+      "name_jp": "櫻井孝宏",
+      "characters": [
+        {
+          "id": "ch0247_00_dande",
+          "name": "Leon"
+        },
+        {
+          "id": "ch0247_10_dande",
+          "name": "Sygna Suit Leon"
+        },
+        {
+          "id": "ch0247_40_dande",
+          "name": "Leon (Holiday 2021)"
+        }
+      ]
+    },
+    {
+      "name": "Takahiro Sumi",
+      "name_jp": "鷲見昂大",
+      "characters": [
+        {
+          "id": "ch0072_00_kaipan",
+          "name": "Swimmer"
+        },
+        {
+          "id": "ch0072_09_kaipan",
+          "name": "Swimmer [Team Break]"
+        },
+        {
+          "id": "ch0073_00_karate",
+          "name": "Black Belt"
+        },
+        {
+          "id": "ch0073_09_karate",
+          "name": "Black Belt [Team Break]"
+        }
+      ]
+    },
+    {
+      "name": "Takaya Kuroda",
+      "name_jp": "黒田崇矢",
+      "characters": [
+        {
+          "id": "ch0068_00_leader2",
+          "name": "Sawyer"
+        },
+        {
+          "id": "ch0068_01_leader2",
+          "name": "Sawyer"
+        }
+      ]
+    },
+    {
+      "name": "Takayuki Kondo",
+      "name_jp": "近藤孝行",
+      "characters": [
+        {
+          "id": "ch0183_00_molayne",
+          "name": "Molayne"
+        }
+      ]
+    },
+    {
+      "name": "Taketora",
+      "name_jp": "武虎",
+      "characters": [
+        {
+          "id": "ch0035_00_matthies",
+          "name": "Lt. Surge"
+        }
+      ]
+    },
+    {
+      "name": "Takeuchi Shunsuke",
+      "name_jp": "武内駿輔",
+      "characters": [
+        {
+          "id": "ch0194_00_akagi",
+          "name": "Cyrus"
+        },
+        {
+          "id": "ch0194_10_akagi",
+          "name": "Sygna Suit Cyrus"
+        }
+      ]
+    },
+    {
+      "name": "Taku Yashiro",
+      "name_jp": "八代拓",
+      "characters": [
+        {
+          "id": "ch0254_00_gordie",
+          "name": "Gordie"
+        }
+      ]
+    },
+    {
+      "name": "Takuma Nagatsuka",
+      "name_jp": "永塚拓馬",
+      "characters": [
+        {
+          "id": "ch0246_00_beet",
+          "name": "Bede"
+        }
+      ]
+    },
+    {
+      "name": "Tasuku Hatanaka",
+      "name_jp": "畠中祐",
+      "characters": [
+        {
+          "id": "ch0147_00_hugh",
+          "name": "Hugh"
+        }
+      ]
+    },
+    {
+      "name": "Tatsuhiro Kikuchi",
+      "name_jp": "菊地達弘",
+      "characters": [
+        {
+          "id": "ch0125_00_guzma",
+          "name": "Guzma"
+        },
+        {
+          "id": "ch0125_40_guzma",
+          "name": "Guzma (Special Costume)"
+        }
+      ]
+    },
+    {
+      "name": "Tatsuhisa Suzuki",
+      "name_jp": "鈴木達央",
+      "characters": [
+        {
+          "id": "ch0006_00_oba",
+          "name": "Flint"
+        }
+      ]
+    },
+    {
+      "name": "Tatsuki Kobe",
+      "name_jp": "光部樹",
+      "characters": [
+        {
+          "id": "ch0626_30_magma_shitappam",
+          "name": "Team Magma Grunt"
+        }
+      ]
+    },
+    {
+      "name": "Tomoaki Maeno",
+      "name_jp": "前野智昭",
+      "characters": [
+        {
+          "id": "ch0090_00_daigo",
+          "name": "Steven"
+        },
+        {
+          "id": "ch0090_10_daigo",
+          "name": "Sygna Suit Steven"
+        },
+        {
+          "id": "ch0090_40_daigo",
+          "name": "Steven (Summer 2020)"
+        },
+        {
+          "id": "ch0090_50_daigo",
+          "name": "Steven (Anniversary 2021)"
+        }
+      ]
+    },
+    {
+      "name": "Tomohiro Omachi",
+      "name_jp": "大町知広",
+      "characters": [
+        {
+          "id": "ch0069_00_elitem",
+          "name": "Ace Trainer"
+        },
+        {
+          "id": "ch0069_09_elitem",
+          "name": "Ace Trainer [Team Break]"
+        },
+        {
+          "id": "ch0149_00_kaki",
+          "name": "Kiawe"
+        }
+      ]
+    },
+    {
+      "name": "Tomokazu Sugita",
+      "name_jp": "杉田智和",
+      "characters": [
+        {
+          "id": "ch0009_00_senri",
+          "name": "Norman"
+        }
+      ]
+    },
+    {
+      "name": "Toru Okawa",
+      "name_jp": "大川透",
+      "characters": [
+        {
+          "id": "ch0054_00_kyo",
+          "name": "Koga"
+        }
+      ]
+    },
+    {
+      "name": "Toshiki Masuda",
+      "name_jp": "増田俊樹",
+      "characters": [
+        {
+          "id": "ch0046_00_datsura",
+          "name": "Noland"
+        }
+      ]
+    },
+    {
+      "name": "Toshiyuki Morikawa",
+      "name_jp": "森川智之",
+      "characters": [
+        {
+          "id": "ch0111_00_wataru",
+          "name": "Lance"
+        },
+        {
+          "id": "ch0111_40_wataru",
+          "name": "Lance (New Year's 2021)"
+        }
+      ]
+    },
+    {
+      "name": "Tsubasa Yonaga",
+      "name_jp": "代永翼",
+      "characters": [
+        {
+          "id": "ch0099_00_jun",
+          "name": "Barry"
+        }
+      ]
+    },
+    {
+      "name": "Tsuguo Mogami",
+      "name_jp": "最上嗣生",
+      "characters": [
+        {
+          "id": "ch0193_00_aogiri",
+          "name": "Archie"
+        }
+      ]
+    },
+    {
+      "name": "Tsuyoshi Koyama",
+      "name_jp": "小山剛志",
+      "characters": [
+        {
+          "id": "ch0223_00_ushio",
+          "name": "Matt"
+        }
+      ]
+    },
+    {
+      "name": "Volcano Ota",
+      "name_jp": "ボルケーノ太田",
+      "characters": [
+        {
+          "id": "ch0010_00_maximum",
+          "name": "Crasher Wake"
+        }
+      ]
+    },
+    {
+      "name": "Wakana Minami",
+      "name_jp": "美波わかな",
+      "characters": [
+        {
+          "id": "ch0012_00_corni",
+          "name": "Korrina"
+        },
+        {
+          "id": "ch0012_10_corni",
+          "name": "Sygna Suit Korrina"
+        }
+      ]
+    },
+    {
+      "name": "Yohei Azakami",
+      "name_jp": "阿座上洋平",
+      "characters": [
+        {
+          "id": "ch0176_00_goyo",
+          "name": "Lucian"
+        }
+      ]
+    },
+    {
+      "name": "Yoko Hikasa",
+      "name_jp": "日笠陽子",
+      "characters": [
+        {
+          "id": "ch0106_00_kamitsure",
+          "name": "Elesa"
+        },
+        {
+          "id": "ch0106_10_kamitsure",
+          "name": "Sygna Suit Elesa"
+        },
+        {
+          "id": "ch0106_80_kamitsure",
+          "name": "Elesa (Classic)"
+        }
+      ]
+    },
+    {
+      "name": "Yorie Terauchi",
+      "name_jp": "寺内よりえ",
+      "characters": [
+        {
+          "id": "ch0154_00_kikuno",
+          "name": "Bertha"
+        }
+      ]
+    },
+    {
+      "name": "Yoshikazu Nagano",
+      "name_jp": "永野善一",
+      "characters": [
+        {
+          "id": "ch0063_00_renbu",
+          "name": "Marshal"
+        }
+      ]
+    },
+    {
+      "name": "Yoshino Ohtori",
+      "name_jp": "鳳芳野",
+      "characters": [
+        {
+          "id": "ch0061_00_kikuko",
+          "name": "Agatha"
+        }
+      ]
+    },
+    {
+      "name": "Yoshitada Otsuka",
+      "name_jp": "大塚芳忠",
+      "characters": [
+        {
+          "id": "ch0161_00_hara",
+          "name": "Hala"
+        }
+      ]
+    },
+    {
+      "name": "Yoshitaka Yamaya",
+      "name_jp": "山谷祥生",
+      "characters": [
+        {
+          "id": "ch0152_00_ryo",
+          "name": "Aaron"
+        }
+      ]
+    },
+    {
+      "name": "Yoshitsugu Matsuoka",
+      "name_jp": "松岡禎丞",
+      "characters": [
+        {
+          "id": "ch0108_00_nobori",
+          "name": "Ingo"
+        },
+        {
+          "id": "ch0108_40_nobori",
+          "name": "Ingo (Special Costume)"
+        }
+      ]
+    },
+    {
+      "name": "Yuichiro Umehara",
+      "name_jp": "梅原裕一郎",
+      "characters": [
+        {
+          "id": "ch0159_00_kokuran",
+          "name": "Darach"
+        }
+      ]
+    },
+    {
+      "name": "Yuka Iguchi",
+      "name_jp": "井口裕香",
+      "characters": [
+        {
+          "id": "ch0113_00_mikan",
+          "name": "Jasmine"
+        },
+        {
+          "id": "ch0113_40_mikan",
+          "name": "Jasmine (Special Costume)"
+        },
+        {
+          "id": "ch0113_41_mikan",
+          "name": "Jasmine (Holiday 2022)"
+        }
+      ]
+    },
+    {
+      "name": "Yuka Nukui",
+      "name_jp": "貫井柚佳",
+      "characters": [
+        {
+          "id": "ch0024_00_shikimi",
+          "name": "Shauntal"
+        }
+      ]
+    },
+    {
+      "name": "Yuka Otsubo",
+      "name_jp": "大坪由佳",
+      "characters": [
+        {
+          "id": "ch0017_00_leaf",
+          "name": "Leaf"
+        },
+        {
+          "id": "ch0017_10_leaf",
+          "name": "Sygna Suit Leaf"
+        }
+      ]
+    },
+    {
+      "name": "Yukana",
+      "name_jp": "ゆかな",
+      "characters": [
+        {
+          "id": "ch0034_00_matsurika",
+          "name": "Mina"
+        }
+      ]
+    },
+    {
+      "name": "Yukari Tamura",
+      "name_jp": "田村ゆかり",
+      "characters": [
+        {
+          "id": "ch0245_00_mary",
+          "name": "Marnie"
+        },
+        {
+          "id": "ch0245_40_mary",
+          "name": "Marnie (Summer 2021)"
+        },
+        {
+          "id": "ch0245_41_mary",
+          "name": "Marnie (Palentine's 2022)"
+        }
+      ]
+    },
+    {
+      "name": "Yuki Kaida",
+      "name_jp": "甲斐田ゆき",
+      "characters": [
+        {
+          "id": "ch0151_00_melissa",
+          "name": "Fantina"
+        }
+      ]
+    },
+    {
+      "name": "Yuki Kaji",
+      "name_jp": "梶裕貴",
+      "characters": [
+        {
+          "id": "ch0107_00_dent",
+          "name": "Cilan"
+        }
+      ]
+    },
+    {
+      "name": "Yuki Ono",
+      "name_jp": "小野友樹",
+      "characters": [
+        {
+          "id": "ch0133_00_shilver",
+          "name": "Silver"
+        }
+      ]
+    },
+    {
+      "name": "Yukiko Motoyoshi",
+      "name_jp": "元吉有希子",
+      "characters": [
+        {
+          "id": "ch0641_20_rocket_shitappaf",
+          "name": "Team Rocket Grunt"
+        }
+      ]
+    },
+    {
+      "name": "Yuko Natsuyoshi",
+      "name_jp": "夏吉ゆうこ",
+      "characters": [
+        {
+          "id": "ch0026_00_akane",
+          "name": "Whitney"
+        },
+        {
+          "id": "ch0026_40_akane",
+          "name": "Whitney (Holiday 2022)"
+        }
+      ]
+    },
+    {
+      "name": "Yuko Sanpei",
+      "name_jp": "三瓶由布子",
+      "characters": [
+        {
+          "id": "ch0019_00_yuki",
+          "name": "Brendan"
+        },
+        {
+          "id": "ch0019_10_yuki",
+          "name": "Sygna Suit Brendan"
+        },
+        {
+          "id": "ch0244_00_hop",
+          "name": "Hop"
+        }
+      ]
+    },
+    {
+      "name": "Yuma Uchida",
+      "name_jp": "内田雄馬",
+      "characters": [
+        {
+          "id": "ch0109_00_kudari",
+          "name": "Emmet"
+        },
+        {
+          "id": "ch0109_40_kudari",
+          "name": "Emmet (Special Costume)"
+        }
+      ]
+    },
+    {
+      "name": "Yuuko Kaida",
+      "name_jp": "甲斐田裕子",
+      "characters": [
+        {
+          "id": "ch0255_00_melon",
+          "name": "Melony"
+        }
+      ]
+    },
+    {
+      "name": "Yuuri Sakamoto",
+      "name_jp": "坂本悠里",
+      "characters": [
+        {
+          "id": "ch0644_60_flare_shitappaf",
+          "name": "Team Flare Grunt"
+        }
+      ]
+    },
+    {
+      "name": "Zenki Kitajima",
+      "name_jp": "北島善紀",
+      "characters": [
+        {
+          "id": "ch0217_00_handsome",
+          "name": "Looker"
+        }
+      ]
+    }
+  ],
+  "image_exceptions": [
+    {"id": "ch0065_00_professor", "path": "render/professor-bellis.png"},
+    {"id": "ch0093_00_staff_center", "path": "render/trista.png"},
+    {"id": "ch0103_00_staff_shop", "path": "render/tricia.png"},
+    {"id": "ch0104_00_staff_cafe", "path": "render/trinnia.png"},
+    {"id": "ch0220_00_matiere", "path": "render/emma.png"},
+    {"id": "ch0266_00_shadowtriad2", "path": "256/ch0265_00_shadowtriad1_256.ktx.png"},
+    {"id": "ch0267_00_shadowtriad3", "path": "256/ch0265_00_shadowtriad1_256.ktx.png"},
+    {"id": "ch0531_70_sightseerf", "path": "256/ch0651_78_nanase_256.ktx.png"},
+    {"id": "ch0652_68_sayoko", "path": "256/ch0521_60_hexmaniac_256.ktx.png"},
+    {"id": "ch0653_68_kirika", "path": "256/ch0610_60_furisodegirl_256.ktx.png"}
+  ]
+}
