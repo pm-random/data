@@ -3,6 +3,19 @@
     "title": "Current Version (non-playable)",
     "characters": [
       {
+        "name": "Drasna",
+        "date": "2023-01-27",
+        "images": [
+          "images/characters/256/ch0155_00_dracaena_256.ktx.png",
+          "images/mindscapes/Tx_ch0155_00_dracaena_mindscape00.ktx.png"
+        ],
+        "notes": [
+          "Opponent in Kalos' Champion Stadium",
+          "Model, images, voice, etc only present since version 2.29.0",
+          "Previously only listed as ch0155_00_dracaena in db/master/pb/FieldTalkVoice.pb in versions 2.11.0 to 2.28.0"
+        ]
+      },
+      {
         "name": "Malva",
         "date": "2022-12-26",
         "images": [
@@ -33,16 +46,6 @@
         ],
         "notes": [
           "Appears in Villain Event: Battle! Friends from Kalos and the Kalos Villain Arc"
-        ]
-      },
-      {
-        "name": "Emma",
-        "date": "2022-12-26",
-        "images": [
-          "images/characters/render/emma.png"
-        ],
-        "notes": [
-          "Appear in the Kalos Villain Arc"
         ]
       },
       {
@@ -401,15 +404,6 @@
         ]
       },
       {
-        "name": "Drasna",
-        "date": "2020-07-29",
-        "notes": [
-          "Listed in the db/master/pb/FieldTalkVoice.pb file as ch0155_00_dracaena",
-          "No model",
-          "No voicelines"
-        ]
-      },
-      {
         "name": "Meowth (Team Rocket)",
         "images": [
           "images/monsters/128/pm0052_00_nyarth_128.ktx.png"
@@ -638,15 +632,6 @@
         "notes": [
           "No voicelines",
           "Used in the <a href='https://youtu.be/BxPYKedhTL0?t=12'>Champion Stadium trailer</a> instead of BW2 Cheren"
-        ]
-      },
-      {
-        "name": "Anabel",
-        "date": "2019-07-25",
-        "notes": [
-          "Listed in the db/master/pb/FieldTalkVoice.pb file as ch0178_00_lira",
-          "No model",
-          "No voicelines"
         ]
       },
       {

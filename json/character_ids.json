@@ -153,7 +153,7 @@
   {"number": "0152", "name": "Aaron", "internal_name": "ryo"},
   {"number": "0153", "name": "Glacia", "internal_name": "prim"},
   {"number": "0154", "name": "Bertha", "internal_name": "kikuno"},
-  {"number": "0155", "name": "Drasna", "internal_name": "dracaena", "status": "id-only"},
+  {"number": "0155", "name": "Drasna", "internal_name": "dracaena", "status": "npc"},
 
   {"number": "0157", "name": "Valerie", "internal_name": "mache"},
   {"number": "0158", "name": "Diantha", "internal_name": "carnet"},
@@ -167,7 +167,7 @@
 
   {"number": "0176", "name": "Lucian", "internal_name": "goyo"},
 
-  {"number": "0178", "name": "Anabel", "internal_name": "lira", "status": "id-only-early"},
+  {"number": "0178", "name": "Anabel", "internal_name": "lira"},
 
   {"number": "0180", "name": "Tierno", "internal_name": "tierno", "status": "npc"},
 
@@ -192,7 +192,7 @@
 
   {"number": "0217", "name": "Looker", "internal_name": "handsome"},
 
-  {"number": "0220", "name": "Emma", "internal_name": "matiere", "status": "npc"},
+  {"number": "0220", "name": "Emma", "internal_name": "matiere"},
   {"number": "0221", "name": "Tabitha", "internal_name": "homura", "status": "npc"},
   {"number": "0222", "name": "Courtney", "internal_name": "kagari"},
   {"number": "0223", "name": "Matt", "internal_name": "ushio", "status": "npc"},

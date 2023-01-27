@@ -137,6 +137,10 @@
         {
           "id": "ch0196_00_fleurdelis",
           "name": "Lysandre"
+        },
+        {
+          "id": "ch0196_10_fleurdelis",
+          "name": "Sygna Suit Lysandre"
         }
       ]
     },
@@ -257,6 +261,16 @@
         {
           "id": "ch0030_00_ran",
           "name": "Liza"
+        }
+      ]
+    },
+    {
+      "name": "Ayako Kawasumi",
+      "name_jp": "川澄綾子",
+      "characters": [
+        {
+          "id": "ch0178_00_lira",
+          "name": "Anabel"
         }
       ]
     },
@@ -507,6 +521,16 @@
         {
           "id": "ch0029_00_asuna",
           "name": "Flannery"
+        }
+      ]
+    },
+    {
+      "name": "Hasegawa Nodoka",
+      "name_jp": "長谷川暖",
+      "characters": [
+        {
+          "id": "ch0155_00_dracaena",
+          "name": "Drasna"
         }
       ]
     },
@@ -1398,7 +1422,7 @@
         },
         {
           "id": "ch0116_41_hikari",
-          "name": "Dawn (New Year’s 2023)"
+          "name": "Dawn (New Year's 2023)"
         }
       ]
     },
@@ -1660,7 +1684,7 @@
         },
         {
           "id": "ch0215_40_lutia",
-          "name": "Lisia (New Year’s 2023)"
+          "name": "Lisia (New Year's 2023)"
         }
       ]
     },
@@ -1855,6 +1879,10 @@
         {
           "id": "ch0124_00_mao",
           "name": "Mallow"
+        },
+        {
+          "id": "ch0124_40_mao",
+          "name": "Mallow (Palentine's 2023)"
         },
         {
           "id": "ch0249_00_rulina",
@@ -2255,6 +2283,10 @@
         {
           "id": "ch0106_10_kamitsure",
           "name": "Sygna Suit Elesa"
+        },
+        {
+          "id": "ch0106_40_kamitsure",
+          "name": "Elesa (Palentine's 2023)"
         },
         {
           "id": "ch0106_80_kamitsure",
