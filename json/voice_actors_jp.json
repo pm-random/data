@@ -2077,6 +2077,10 @@
         {
           "id": "ch0246_00_beet",
           "name": "Bede"
+        },
+        {
+          "id": "ch0246_90_beet",
+          "name": "Bede (Champion)"
         }
       ]
     },
@@ -2161,6 +2165,16 @@
         {
           "id": "ch0149_00_kaki",
           "name": "Kiawe"
+        }
+      ]
+    },
+    {
+      "name": "Tomokazu Seki",
+      "name_jp": "関智一",
+      "characters": [
+        {
+          "id": "ch0282_00_ballguy",
+          "name": "Ball Guy"
         }
       ]
     },
@@ -2435,6 +2449,10 @@
         {
           "id": "ch0245_41_mary",
           "name": "Marnie (Palentine's 2022)"
+        },
+        {
+          "id": "ch0245_90_mary",
+          "name": "Marnie (Champion)"
         }
       ]
     },
@@ -2507,6 +2525,10 @@
         {
           "id": "ch0244_00_hop",
           "name": "Hop"
+        },
+        {
+          "id": "ch0244_90_hop",
+          "name": "Hop (Champion)"
         }
       ]
     },
@@ -2560,7 +2582,6 @@
     {"id": "ch0093_00_staff_center", "path": "render/trista.png"},
     {"id": "ch0103_00_staff_shop", "path": "render/tricia.png"},
     {"id": "ch0104_00_staff_cafe", "path": "render/trinnia.png"},
-    {"id": "ch0220_00_matiere", "path": "render/emma.png"},
     {"id": "ch0266_00_shadowtriad2", "path": "256/ch0265_00_shadowtriad1_256.ktx.png"},
     {"id": "ch0267_00_shadowtriad3", "path": "256/ch0265_00_shadowtriad1_256.ktx.png"},
     {"id": "ch0531_70_sightseerf", "path": "256/ch0651_78_nanase_256.ktx.png"},

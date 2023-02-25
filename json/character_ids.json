@@ -226,6 +226,8 @@
   {"number": "0266", "name": "The Shadow Triad", "internal_name": "shadowtriad2", "status": "npc"},
   {"number": "0267", "name": "The Shadow Triad", "internal_name": "shadowtriad3", "status": "npc"},
 
+  {"number": "0282", "name": "Ball Guy", "internal_name": "ballguy"},
+
   {"number": "0502", "name": "Team Aqua Grunt ♂", "internal_name": "aqua_shitappam", "status": "npc"},
   {"number": "0503", "name": "Team Aqua Grunt ♀", "internal_name": "aqua_shitappaf", "status": "npc"},
 
