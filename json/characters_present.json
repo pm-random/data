@@ -1,5 +1,24 @@
 [
   {
+    "title": "Dev Message Vol. 45",
+    "characters": [
+      {
+        "name": "Steven (Special Costume)",
+        "date": "2023-03-25",
+        "images": [
+          "images/characters/announcement/special-costume-steven.png"
+        ]
+      },
+      {
+        "name": "Shauna (Special Costume)",
+        "date": "2023-03-25",
+        "images": [
+          "images/characters/announcement/special-costume-shauna.png"
+        ]
+      }
+    ]
+  },
+  {
     "title": "Current Version (non-playable)",
     "characters": [
       {
