@@ -67,6 +67,10 @@
         {
           "id": "ch0129_00_higana",
           "name": "Zinnia"
+        },
+        {
+          "id": "ch0129_40_higana",
+          "name": "Zinnia (Special Costume)"
         }
       ]
     },
@@ -181,6 +185,10 @@
         {
           "id": "ch0139_00_sana",
           "name": "Shauna"
+        },
+        {
+          "id": "ch0139_40_sana",
+          "name": "Shauna (Special Costume)"
         }
       ]
     },
@@ -1651,6 +1659,10 @@
         {
           "id": "ch0002_40_kotone",
           "name": "Lyra (Summer 2020)"
+        },
+        {
+          "id": "ch0002_41_kotone",
+          "name": "Lyra (Special Costume)"
         }
       ]
     },
@@ -2143,6 +2155,10 @@
         {
           "id": "ch0090_40_daigo",
           "name": "Steven (Summer 2020)"
+        },
+        {
+          "id": "ch0090_41_daigo",
+          "name": "Steven (Special Costume)"
         },
         {
           "id": "ch0090_50_daigo",
