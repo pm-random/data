@@ -387,6 +387,10 @@
         {
           "id": "ch0098_00_hau",
           "name": "Hau"
+        },
+        {
+          "id": "ch0098_10_hau",
+          "name": "Sygna Suit Hau"
         }
       ]
     },
@@ -411,6 +415,14 @@
         {
           "id": "ch0180_00_tierno",
           "name": "Tierno"
+        },
+        {
+          "id": "ch0516_70_etherm",
+          "name": "Aether Foundation"
+        },
+        {
+          "id": "ch0647_00_etherm",
+          "name": "Aether Foundation"
         }
       ]
     },
@@ -677,6 +689,16 @@
       ]
     },
     {
+      "name": "Hiroshi Yanaka",
+      "name_jp": "家中宏",
+      "characters": [
+        {
+          "id": "ch0184_00_saubohne",
+          "name": "Faba"
+        }
+      ]
+    },
+    {
       "name": "Hitomi Nabatame",
       "name_jp": "生天目仁美",
       "characters": [
@@ -830,6 +852,10 @@
         {
           "id": "ch0160_00_suiren",
           "name": "Lana"
+        },
+        {
+          "id": "ch0160_10_suiren",
+          "name": "Sygna Suit Lana"
         }
       ]
     },
@@ -1365,6 +1391,16 @@
       ]
     },
     {
+      "name": "Naoya Miyase",
+      "name_jp": "宮瀬尚也",
+      "characters": [
+        {
+          "id": "ch0560_70_scullm",
+          "name": "Team Skull Grunt"
+        }
+      ]
+    },
+    {
       "name": "Natsumi Aono",
       "name_jp": "青野菜月",
       "characters": [
@@ -1473,6 +1509,20 @@
         {
           "id": "ch0016_41_huuro",
           "name": "Skyla (Anniversary 2022)"
+        }
+      ]
+    },
+    {
+      "name": "Rui Tanabe",
+      "name_jp": "田辺留依",
+      "characters": [
+        {
+          "id": "ch0517_70_etherf",
+          "name": "Aether Foundation"
+        },
+        {
+          "id": "ch0648_00_etherf",
+          "name": "Aether Foundation"
         }
       ]
     },
@@ -1751,6 +1801,10 @@
         {
           "id": "ch0007_00_acerola",
           "name": "Acerola"
+        },
+        {
+          "id": "ch0007_10_acerola",
+          "name": "Sygna Suit Acerola"
         },
         {
           "id": "ch0007_40_acerola",
@@ -2447,6 +2501,10 @@
         {
           "id": "ch0034_00_matsurika",
           "name": "Mina"
+        },
+        {
+          "id": "ch0034_10_matsurika",
+          "name": "Sygna Suit Mina"
         }
       ]
     },
@@ -2563,6 +2621,16 @@
       ]
     },
     {
+      "name": "Yurika Kubo",
+      "name_jp": "久保ユリカ",
+      "characters": [
+        {
+          "id": "ch0561_70_scullf",
+          "name": "Team Skull Grunt"
+        }
+      ]
+    },
+    {
       "name": "Yuuko Kaida",
       "name_jp": "甲斐田裕子",
       "characters": [
@@ -2598,9 +2666,12 @@
     {"id": "ch0093_00_staff_center", "path": "render/trista.png"},
     {"id": "ch0103_00_staff_shop", "path": "render/tricia.png"},
     {"id": "ch0104_00_staff_cafe", "path": "render/trinnia.png"},
+    {"id": "ch0184_00_saubohne", "path": "render/ch0184_00_saubohne.png"},
     {"id": "ch0266_00_shadowtriad2", "path": "256/ch0265_00_shadowtriad1_256.ktx.png"},
     {"id": "ch0267_00_shadowtriad3", "path": "256/ch0265_00_shadowtriad1_256.ktx.png"},
     {"id": "ch0531_70_sightseerf", "path": "256/ch0651_78_nanase_256.ktx.png"},
+    {"id": "ch0560_70_scullm", "path": "render/ch0561_70_scullf.png"},
+    {"id": "ch0561_70_scullf", "path": "render/ch0561_70_scullf.png"},
     {"id": "ch0652_68_sayoko", "path": "256/ch0521_60_hexmaniac_256.ktx.png"},
     {"id": "ch0653_68_kirika", "path": "256/ch0610_60_furisodegirl_256.ktx.png"}
   ]

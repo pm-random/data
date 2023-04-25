@@ -172,6 +172,7 @@
   {"number": "0180", "name": "Tierno", "internal_name": "tierno", "status": "npc"},
 
   {"number": "0183", "name": "Molayne", "internal_name": "molayne"},
+  {"number": "0184", "name": "Faba", "internal_name": "saubohne", "status": "npc"},
 
   {"number": "0190", "name": "Ryuki", "internal_name": "ryuki", "status": "npc"},
   {"number": "0191", "name": "Colress", "internal_name": "achroma"},
@@ -231,6 +232,9 @@
   {"number": "0502", "name": "Team Aqua Grunt ♂", "internal_name": "aqua_shitappam", "status": "npc"},
   {"number": "0503", "name": "Team Aqua Grunt ♀", "internal_name": "aqua_shitappaf", "status": "npc"},
 
+  {"number": "0516", "name": "Aether Employee ♂", "internal_name": "etherm", "status": "npc"},
+  {"number": "0517", "name": "Aether Employee ♀", "internal_name": "etherf", "status": "npc"},
+
   {"number": "0521", "name": "Hex Maniac", "internal_name": "hexmaniac", "excludeFromCount": true},
   {"number": "0522", "name": "Lady", "internal_name": "lady", "status": "npc"},
 
@@ -239,6 +243,9 @@
 
   {"number": "0538", "name": "Team Galactic Grunt ♂", "internal_name": "gingam", "status": "npc"},
   {"number": "0539", "name": "Team Galactic Grunt ♀", "internal_name": "gingaf", "status": "npc"},
+
+  {"number": "0560", "name": "Team Skull Grunt ♂", "internal_name": "scullm", "status": "npc"},
+  {"number": "0561", "name": "Team Skull Grunt ♀", "internal_name": "scullf", "status": "npc"},
 
   {"number": "0552", "name": "Gentleman", "internal_name": "gentleman", "status": "npc"},
 
@@ -259,6 +266,9 @@
   {"number": "0641", "name": "Team Rocket Grunt ♀", "internal_name": "rocket_shitappaf", "status": "npc"},
 
   {"number": "0644", "name": "Team Flare Grunt ♀", "internal_name": "flare_shitappaf", "status": "npc"},
+
+  {"number": "0647", "name": "Aether Employee ♂", "internal_name": "etherm", "status": "npc"},
+  {"number": "0648", "name": "Aether Employee ♀", "internal_name": "etherf", "status": "npc"},
 
   {"number": "0651", "name": "Naomi (Sightseer)", "internal_name": "nanase"},
   {"number": "0652", "name": "Helena (Hex Maniac)", "internal_name": "sayoko"},

@@ -3,6 +3,58 @@
     "title": "Current Version (non-playable)",
     "characters": [
       {
+        "name": "Faba",
+        "date": "2023-04-25",
+        "notes": [
+          "Appears in the Alola Villain Arc"
+        ],
+        "images": [
+          "images/characters/render/ch0184_00_saubohne.png"
+        ]
+      },
+      {
+        "name": "Team Skull Grunt ♂",
+        "date": "2023-04-25",
+        "notes": [
+          "Appears in the Alola Villain Arc"
+        ],
+        "images": [
+          "images/characters/render/ch0560_70_scullm.png"
+        ]
+      },
+      {
+        "name": "Team Skull Grunt ♀",
+        "date": "2023-04-25",
+        "notes": [
+          "Appears in the Alola Villain Arc"
+        ],
+        "images": [
+          "images/characters/render/ch0561_70_scullf.png"
+        ]
+      },
+      {
+        "name": "Aether Employee ♂",
+        "date": "2023-04-25",
+        "notes": [
+          "Appears in the Alola Villain Arc"
+        ],
+        "images": [
+          "images/characters/256/ch0516_70_etherm_256.ktx.png",
+          "images/characters/256/ch0647_00_etherm_256.ktx.png"
+        ]
+      },
+      {
+        "name": "Aether Employee ♀",
+        "date": "2023-04-25",
+        "notes": [
+          "Appears in the Alola Villain Arc"
+        ],
+        "images": [
+          "images/characters/256/ch0517_70_etherf_256.ktx.png",
+          "images/characters/256/ch0648_00_etherf_256.ktx.png"
+        ]
+      },
+      {
         "name": "Drasna",
         "date": "2023-01-27",
         "images": [
