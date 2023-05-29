@@ -177,6 +177,7 @@
     {"number": "0178", "name": "Anabel", "internal_name": "lira"},
 
     {"number": "0180", "name": "Tierno", "internal_name": "tierno", "status": "npc"},
+    {"number": "0181", "name": "Trevor", "internal_name": "trova", "status": "npc"},
 
     {"number": "0183", "name": "Molayne", "internal_name": "molayne"},
     {"number": "0184", "name": "Faba", "internal_name": "saubohne", "status": "npc"},
