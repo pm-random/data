@@ -831,6 +831,16 @@
     ]
   },
   {
+    "name": "Kaito Ishikawa",
+    "name_jp": "石川界人",
+    "characters": [
+      {
+        "id": "ch0284_00_seki",
+        "name": "Adaman"
+      }
+    ]
+  },
+  {
     "name": "Kana Asumi",
     "name_jp": "阿澄佳奈",
     "characters": [
@@ -1306,6 +1316,16 @@
       {
         "id": "ch0091_20_shirona",
         "name": "Sygna Suit Cynthia (Renegade)"
+      }
+    ]
+  },
+  {
+    "name": "Mikako Komatsu",
+    "name_jp": "小松未可子",
+    "characters": [
+      {
+        "id": "ch0285_00_kai",
+        "name": "Irida"
       }
     ]
   },
@@ -2150,6 +2170,16 @@
     ]
   },
   {
+    "name": "Takuya Eguchi",
+    "name_jp": "江口拓也",
+    "characters": [
+      {
+        "id": "ch0216_00_minaki",
+        "name": "Eusine"
+      }
+    ]
+  },
+  {
     "name": "Tasuku Hatanaka",
     "name_jp": "畠中祐",
     "characters": [
@@ -2556,6 +2586,10 @@
       {
         "id": "ch0133_00_shilver",
         "name": "Silver"
+      },
+      {
+        "id": "ch0133_10_shilver",
+        "name": "Sygna Suit Silver"
       }
     ]
   },

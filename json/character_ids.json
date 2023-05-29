@@ -191,7 +191,7 @@
   {"number": "0212", "name": "Benga", "internal_name": "banjiro", "status": "id-only"},
 
   {"number": "0215", "name": "Lisia", "internal_name": "lutia"},
-
+  {"number": "0216", "name": "Eusine", "internal_name": "minaki"},
   {"number": "0217", "name": "Looker", "internal_name": "handsome"},
 
   {"number": "0220", "name": "Emma", "internal_name": "matiere"},
@@ -229,6 +229,9 @@
   {"number": "0267", "name": "The Shadow Triad", "internal_name": "shadowtriad3", "status": "npc"},
 
   {"number": "0282", "name": "Ball Guy", "internal_name": "ballguy"},
+
+  {"number": "0284", "name": "Adaman", "internal_name": "seki"},
+  {"number": "0285", "name": "Irida", "internal_name": "kai"},
 
   {"number": "0502", "name": "Team Aqua Grunt ♂", "internal_name": "aqua_shitappam", "status": "npc"},
   {"number": "0503", "name": "Team Aqua Grunt ♀", "internal_name": "aqua_shitappaf", "status": "npc"},

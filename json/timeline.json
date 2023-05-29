@@ -71,7 +71,8 @@
     {"name": "2.29.1", "date": "2023-01-31"},
     {"name": "2.30.0", "date": "2023-02-24"},
     {"name": "2.31.0", "date": "2023-03-29"},
-    {"name": "2.32.0", "date": "2023-04-25"}
+    {"name": "2.32.0", "date": "2023-04-25"},
+    {"name": "2.33.0", "date": "2023-05-29"}
   ],
   "letters": [
     {"link": "https://pokemonmasters-game.com/en-US/announcements/Other_M2_W2_1", "date": "2019-10-09"},
@@ -119,7 +120,8 @@
     {"link": "https://pokemonmasters-game.com/en-US/announcements/Other_4120_5W_4", "date": "2023-01-27"},
     {"link": "https://pokemonmasters-game.com/en-US/announcements/Other_5010_5W_1", "date": "2023-02-28"},
     {"link": "https://pokemonmasters-game.com/en-US/announcements/Other_5020_5W_1", "date": "2023-03-25"},
-    {"link": "https://pokemonmasters-game.com/en-US/announcements/Other_5030_5W_1", "date": "2023-04-25"}
+    {"link": "https://pokemonmasters-game.com/en-US/announcements/Other_5030_5W_1", "date": "2023-04-25"},
+    {"link": "https://pokemonmasters-game.com/en-US/announcements/Other_5040_5W_1", "date": "2023-05-29"}
   ],
   "milestones": [
     {
@@ -345,6 +347,20 @@
       "name": "New Remix: Battle! (Subway Boss) (Pokémon Masters EX Special Version)",
       "date": "2023-04-21",
       "link": "https://www.youtube.com/watch?v=fXAFMsAoWcU"
+    },
+    {
+      "name": "New sync pairs from Pokémon Legends: Arceus will arrive in Pokémon Masters EX!",
+      "date": "2023-05-27",
+      "link": "https://twitter.com/pokemonmasters/status/1662307751312211970"
+    },
+    {
+      "name": "Trailer: Travelers from Hisui Arrive in Pokémon Masters EX!, Uniqlo collab",
+      "date": "2023-05-29",
+      "link": "https://www.youtube.com/watch?v=JOwuP9csBfk"
+    },
+    {
+      "name": "First Hisui Sync Pair (Adaman and Leafeon)",
+      "date": "2023-05-31"
     }
   ]
 }
