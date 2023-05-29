@@ -153,6 +153,15 @@
         ]
       },
       {
+        "name": "Dana",
+        "date": "2022-08-25",
+        "notes": [
+          "ch0206_00_lajournee referenced in one of Nita's model files (Actors/ch0204_00_lanuit/Models/ch0204_00_lanuit.figure)",
+          "No model",
+          "No voicelines"
+        ]
+      },
+      {
         "name": "Team Aqua Grunt ♂",
         "date": "2022-07-27",
         "images": [
@@ -434,7 +443,7 @@
         "name": "Benga",
         "date": "2020-10-28",
         "notes": [
-          "ch0212_00_banjiro referenced in Actors/ch0215_00_lutia/Models/ch0215_00_lutia.figure",
+          "ch0212_00_banjiro referenced in one of Lisia's model files (Actors/ch0215_00_lutia/Models/ch0215_00_lutia.figure)",
           "No model",
           "No voicelines"
         ]

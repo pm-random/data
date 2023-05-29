@@ -187,6 +187,7 @@
 
   {"number": "0204", "name": "Nita", "internal_name": "lanuit"},
   {"number": "0205", "name": "Evelyn", "internal_name": "lesoir"},
+  {"number": "0206", "name": "Dana", "internal_name": "lajournee", "status": "id-only"},
 
   {"number": "0212", "name": "Benga", "internal_name": "banjiro", "status": "id-only"},
 
