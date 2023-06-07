@@ -1,6 +1,6 @@
 {
   "stores": [
-    { "name": "App Store", "color": "#000000" },
+    { "name": "App Store", "color": "#1c99f7" },
     { "name": "Google Play", "color": "#32de84" }
   ],
   "months": [
