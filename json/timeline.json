@@ -1,398 +1,886 @@
-{
-  "versions": [
-    {"name": "1.0.0", "date": "2019-07-25", "highlight": true},
-    {"name": "1.1.0", "date": "2019-08-29", "highlight": true},
-    {"name": "1.1.1", "date": "2019-09-06"},
-    {"name": "1.2.0", "date": "2019-09-25"},
-    {"name": "1.2.1", "date": "2019-10-08"},
-    {"name": "1.3.0", "date": "2019-10-28"},
-    {"name": "1.3.1", "date": "2019-11-05"},
-    {"name": "1.4.0", "date": "2019-11-25"},
-    {"name": "1.5.0", "date": "2019-12-23"},
-    {"name": "1.5.5", "date": "2020-01-15"},
-    {"name": "1.6.0", "date": "2020-01-27"},
-    {"name": "1.6.5", "date": "2020-02-10"},
-    {"name": "1.6.6", "date": "2020-02-14"},
-    {"name": "1.7.0", "date": "2020-02-20"},
-    {"name": "1.7.1", "date": "2020-02-27"},
-    {"name": "1.8.0", "date": "2020-03-23"},
-    {"name": "1.8.5", "date": "2020-04-08"},
-    {"name": "1.9.0", "date": "2020-04-27"},
-    {"name": "1.10.0", "date": "2020-05-25"},
-    {"name": "1.10.5", "date": "2020-06-08"},
-    {"name": "1.11.0", "date": "2020-06-25"},
-    {"name": "1.12.0", "date": "2020-07-29"},
-    {"name": "2.0.0", "date": "2020-08-25", "highlight": true},
-    {"name": "2.0.5", "date": "2020-09-07"},
-    {"name": "2.1.0", "date": "2020-09-28"},
-    {"name": "2.2.0", "date": "2020-10-28"},
-    {"name": "2.2.5", "date": "2020-11-04"},
-    {"name": "2.3.0", "date": "2020-11-26"},
-    {"name": "2.4.0", "date": "2020-12-21"},
-    {"name": "2.5.0", "date": "2021-01-26"},
-    {"name": "2.5.1", "date": "2021-01-27"},
-    {"name": "2.6.0", "date": "2021-02-24"},
-    {"name": "2.6.1", "date": "2021-03-09"},
-    {"name": "2.7.0", "date": "2021-03-29"},
-    {"name": "2.8.0", "date": "2021-04-26"},
-    {"name": "2.8.1", "date": "2021-04-30"},
-    {"name": "2.9.0", "date": "2021-05-27"},
-    {"name": "2.10.0", "date": "2021-06-28"},
-    {"name": "2.10.1", "date": "2021-07-15"},
-    {"name": "2.11.0", "date": "2021-07-28"},
-    {"name": "2.11.1", "date": "2021-08-10"},
-    {"name": "2.12.0", "date": "2021-08-27"},
-    {"name": "2.12.5", "date": "2021-09-14"},
-    {"name": "2.13.0", "date": "2021-09-28"},
-    {"name": "2.14.0", "date": "2021-10-27"},
-    {"name": "2.15.0", "date": "2021-11-25"},
-    {"name": "2.15.1", "date": "2021-11-29"},
-    {"name": "2.16.0", "date": "2021-12-21"},
-    {"name": "2.16.1", "date": "2021-12-27"},
-    {"name": "2.16.2", "date": "2022-01-11"},
-    {"name": "2.17.0", "date": "2022-01-17"},
-    {"name": "2.18.0", "date": "2022-02-24"},
-    {"name": "2.18.5", "date": "2022-03-15"},
-    {"name": "2.19.0", "date": "2022-03-29"},
-    {"name": "2.20.0", "date": "2022-04-27"},
-    {"name": "2.20.1", "date": "2022-04-28"},
-    {"name": "2.20.2", "date": "2022-05-06"},
-    {"name": "2.21.0", "date": "2022-05-26"},
-    {"name": "2.22.0", "date": "2022-06-28"},
-    {"name": "2.23.0", "date": "2022-07-27"},
-    {"name": "2.23.5", "date": "2022-08-08"},
-    {"name": "2.24.0", "date": "2022-08-25"},
-    {"name": "2.25.0", "date": "2022-09-26"},
-    {"name": "2.25.1", "date": "2022-10-06"},
-    {"name": "2.26.0", "date": "2022-10-27"},
-    {"name": "2.27.0", "date": "2022-11-28"},
-    {"name": "2.28.0", "date": "2022-12-26"},
-    {"name": "2.29.0", "date": "2023-01-27"},
-    {"name": "2.29.1", "date": "2023-01-31"},
-    {"name": "2.30.0", "date": "2023-02-24"},
-    {"name": "2.31.0", "date": "2023-03-29"},
-    {"name": "2.32.0", "date": "2023-04-25"},
-    {"name": "2.33.0", "date": "2023-05-29"}
-  ],
-  "letters": [
-    {"link": "https://pokemonmasters-game.com/en-US/announcements/Other_M2_W2_1", "date": "2019-10-09"},
-    {"link": "https://pokemonmasters-game.com/en-US/announcements/Other_M2_W3_3", "date": "2019-10-17"},
-    {"link": "https://pokemonmasters-game.com/en-US/announcements/Other_1100_W1_1", "date": "2019-11-07"},
-    {"link": "https://www.youtube.com/watch?v=WyVXo6A5gRo", "date": "2019-11-26"},
-    {"link": "https://pokemonmasters-game.com/en-US/announcements/Other_1120_1W_2", "date": "2019-12-26"},
-    {"link": "https://pokemonmasters-game.com/en-US/announcements/Other_1120_3W_1", "date": "2020-01-15"},
-    {"link": "https://pokemonmasters-game.com/en-US/announcements/Other_2020_1W_2", "date": "2020-02-27"},
-    {"link": "https://pokemonmasters-game.com/en-US/announcements/Other_2020_3W_2", "date": "2020-03-13"},
-    {"link": "https://pokemonmasters-game.com/en-US/announcements/Other_2030_4W_1", "date": "2020-04-17"},
-    {"link": "https://pokemonmasters-game.com/en-US/announcements/Other_2040_2W_1", "date": "2020-05-08"},
-    {"link": "https://pokemonmasters-game.com/en-US/announcements/Other_2050_4W_1", "date": "2020-06-11"},
-    {"link": "https://pokemonmasters-game.com/en-US/announcements/Other_2060_3W_1", "date": "2020-07-17"},
-    {"link": "https://www.youtube.com/watch?v=hNoFQr6fM_4", "date": "2020-08-17"},
-    {"link": "https://pokemonmasters-game.com/en-US/announcements/Other_2100_1W_1", "date": "2020-10-30"},
-    {"link": "https://pokemonmasters-game.com/en-US/announcements/Other_2100_4W_1", "date": "2020-11-25"},
-    {"link": "https://pokemonmasters-game.com/en-US/announcements/Other_2110_3W_1", "date": "2020-12-16"},
-    {"link": "https://pokemonmasters-game.com/en-US/announcements/Other_2120_4W_1", "date": "2021-01-15"},
-    {"link": "https://pokemonmasters-game.com/en-US/announcements/Other_3010_2W_1", "date": "2021-02-11"},
-    {"link": "https://pokemonmasters-game.com/en-US/announcements/Other_3020_3W_1", "date": "2021-03-15"},
-    {"link": "https://pokemonmasters-game.com/en-US/announcements/Other_3040_1W_1", "date": "2021-04-26"},
-    {"link": "https://pokemonmasters-game.com/en-US/announcements/Other_3040_3W_1", "date": "2021-05-14"},
-    {"link": "https://pokemonmasters-game.com/en-US/announcements/Other_3060_1W_1", "date": "2021-06-28"},
-    {"link": "https://pokemonmasters-game.com/en-US/announcements/Other_3070_1W_1", "date": "2021-07-26"},
-    {"link": "https://pokemonmasters-game.com/en-US/announcements/Other_3070_4W_1", "date": "2021-08-26"},
-    {"link": "https://pokemonmasters-game.com/en-US/announcements/Other_3080_4W_1", "date": "2021-09-28"},
-    {"link": "https://pokemonmasters-game.com/en-US/announcements/Other_3090_4W_1", "date": "2021-10-27"},
-    {"link": "https://pokemonmasters-game.com/en-US/announcements/Other_3100_4W_1", "date": "2021-11-25"},
-    {"link": "https://pokemonmasters-game.com/en-US/announcements/Other_3110_4W_1", "date": "2021-12-24"},
-    {"link": "https://pokemonmasters-game.com/en-US/announcements/Other_3110_4W_2", "date": "2022-01-01"},
-    {"link": "https://pokemonmasters-game.com/en-US/announcements/Other_3120_5W_1", "date": "2022-01-25"},
-    {"link": "https://pokemonmasters-game.com/en-US/announcements/Other_4010_5W_1", "date": "2022-02-28"},
-    {"link": "https://pokemonmasters-game.com/en-US/announcements/Other_4020_5W_1", "date": "2022-03-29"},
-    {"link": "https://pokemonmasters-game.com/en-US/announcements/Other_4030_5W_1", "date": "2022-04-25"},
-    {"link": "https://pokemonmasters-game.com/en-US/announcements/Other_4040_5W_1", "date": "2022-05-26"},
-    {"link": "https://pokemonmasters-game.com/en-US/announcements/Other_4050_5W_1", "date": "2022-06-28"},
-    {"link": "https://pokemonmasters-game.com/en-US/announcements/Other_4060_5W_1", "date": "2022-07-22"},
-    {"link": "https://pokemonmasters-game.com/en-US/announcements/Other_4070_5W_1", "date": "2022-08-25"},
-    {"link": "https://pokemonmasters-game.com/en-US/announcements/Other_4080_5W_1", "date": "2022-09-26"},
-    {"link": "https://pokemonmasters-game.com/en-US/announcements/Other_4090_4W_1", "date": "2022-10-27"},
-    {"link": "https://pokemonmasters-game.com/en-US/announcements/Other_4100_4W_1", "date": "2022-11-28"},
-    {"link": "https://pokemonmasters-game.com/en-US/announcements/Other_4110_5W_1", "date": "2022-12-24"},
-    {"link": "https://pokemonmasters-game.com/en-US/announcements/Other_4120_5W_1", "date": "2023-01-01"},
-    {"link": "https://pokemonmasters-game.com/en-US/announcements/Other_4120_5W_4", "date": "2023-01-27"},
-    {"link": "https://pokemonmasters-game.com/en-US/announcements/Other_5010_5W_1", "date": "2023-02-28"},
-    {"link": "https://pokemonmasters-game.com/en-US/announcements/Other_5020_5W_1", "date": "2023-03-25"},
-    {"link": "https://pokemonmasters-game.com/en-US/announcements/Other_5030_5W_1", "date": "2023-04-25"},
-    {"link": "https://pokemonmasters-game.com/en-US/announcements/Other_5040_5W_1", "date": "2023-05-29"}
-  ],
-  "milestones": [
-    {
-      "name": "DeNA's FY2018 Operating Results reveal a new Pokémon smartphone game",
-      "link": "https://dena.com/intl/ir/finance/result.html",
-      "date": "2019-05-10"
-    },
-    {
-      "name": "Pokémon Masters announced at the 2019 Pokémon Press Conference",
-      "link": "https://youtu.be/vTWkBjxvBok?t=1704",
-      "date": "2019-05-29"
-    },
-    {
-      "name": "Trailer: More Trainers, More Battles. 💥 Get Ready for Pokémon Masters!",
-      "link": "https://www.youtube.com/watch?v=QXuT7ZsrqRA",
-      "date": "2019-06-27"
-    },
-    {
-      "name": "Trailer: Get ready to battle like never before in Pokémon Masters!",
-      "link": "https://www.youtube.com/watch?v=oIwGe83JUo8",
-      "date": "2019-07-18"
-    },
-    {
-      "name": "Soft Launch (Singapore and Canada)",
-      "date": "2019-07-25"
-    },
-    {
-      "name": "Pokémon Masters playable at the 2019 Pokémon World Championships",
-      "link": "https://twitter.com/PokemonMasters/status/1159932448047882241",
-      "date": "2019-08-16"
-    },
-    {
-      "name": "Official Release",
-      "date": "2019-08-29"
-    },
-    {
-      "name": "Celebrate Pokémon! (SWSH promotion)",
-      "date": "2019-11-08"
-    },
-    {
-      "name": "First Seasonal Scouts (Rosa and Delibird, Siebold and Octillery)",
-      "date": "2019-12-12"
-    },
-    {
-      "name": "First Poké Fair Scout (Lance and Dragonite)",
-      "date": "2019-12-26"
-    },
-    {
-      "name": "Trailer: Six Months of Sync Pairs in Pokémon Masters!",
-      "link": "https://www.youtube.com/watch?v=HahbHIIRgDY",
-      "date": "2020-02-27"
-    },
-    {
-      "name": "Six-Months Celebration, Battle Villa, Trainer Trainer hoodies",
-      "link": "https://twitter.com/pokemas_game/status/1233300808071958529",
-      "date": "2020-02-28"
-    },
-    {
-      "name": "Pokémon Eggs",
-      "date": "2020-04-27"
-    },
-    {
-      "name": "Legendary Arena",
-      "date": "2020-06-11"
-    },
-    {
-      "name": "Celebrate Pokémon! (SWSH DLC promotion)",
-      "date": "2020-06-21"
-    },
-    {
-      "name": "Special Event: Double Trouble (Movie 23 promotion)",
-      "date": "2020-07-09"
-    },
-    {
-      "name": "Stamina Implementation",
-      "date": "2020-07-29"
-    },
-    {
-      "name": "Pokémon Masters renamed to Pokémon Masters EX",
-      "date": "2020-08-25",
-      "link": "https://pokemonmasters-game.com/en-US/announcements/Update_2080_1W_2"
-    },
-    {
-      "name": "1st Anniversary, Champion Stadium, Dream Team Maker site",
-      "link": "https://www.youtube.com/watch?v=BxPYKedhTL0",
-      "date": "2020-08-28"
-    },
-    {
-      "name": "Special Event: Blasting Off Again (Movie 23 promotion)",
-      "date": "2020-09-17"
-    },
-    {
-      "name": "Leftover Gloria image found in the data of version 2.2.5",
-      "date": "2020-11-04"
-    },
-    {
-      "name": "Gloria Debut Countdown and Make Way for Gloria login bonuses added to the game",
-      "date": "2020-11-11"
-    },
-    {
-      "name": "New Sync Pair Trailer (SWSH Sync Pair teaser)",
-      "date": "2020-11-19",
-      "link": "https://www.youtube.com/watch?v=21hQGgdzZOU"
-    },
-    {
-      "name": "Trailer: Gloria Sync Pair Introduction",
-      "date": "2020-11-26",
-      "link": "https://www.youtube.com/watch?v=7lJs_xyBOls"
-    },
-    {
-      "name": "First Gen 8 Sync Pair (Gloria and Zacian)",
-      "date": "2020-11-30"
-    },
-    {
-      "name": "First Master Fair Scout (Leon and Charizard)",
-      "date": "2021-02-26"
-    },
-    {
-      "name": "1.5 Years Celebration",
-      "date": "2021-02-28"
-    },
-    {
-      "name": "First Max Move pair (Leon and Eternatus)",
-      "date": "2021-08-12"
-    },
-    {
-      "name": "Pokémon Masters EX CharacterDex 2021 [JP]",
-      "date": "2021-08-20",
-      "link": "https://www.ndw.jp/nd2110-329/"
-    },
-    {
-      "name": "Trailer: Pokémon Masters EX Two-Year Anniversary Celebration 🎉",
-      "link": "https://www.youtube.com/watch?v=QRNQe4Jpy_g",
-      "date": "2021-08-26"
-    },
-    {
-      "name": "2nd Anniversary, Screenshot Sweepstakes (Lillie and Lunala TCG playmat)",
-      "link": "https://twitter.com/PokemonMasters/status/1431496772610895874",
-      "date": "2021-08-28"
-    },
-    {
-      "name": "First Special Costume pair (Diantha and Keldeo)",
-      "date": "2021-10-29"
-    },
-    {
-      "name": "Celebrate Pokémon! (BDSP login bonus)",
-      "date": "2021-11-19"
-    },
-    {
-      "name": "Japanese voice actor credits in the Sync Pair viewer",
-      "date": "2021-11-24"
-    },
-    {
-      "name": "Celebrate Pokémon! (Legends Arceus login bonus)",
-      "date": "2022-01-28"
-    },
-    {
-      "name": "2.5 Years Celebration, Pokémon Masters EX Photobooth",
-      "link": "https://twitter.com/pokemoncenterPR/status/1495926355548114949",
-      "date": "2021-02-28"
-    },
-    {
-      "name": "Legendary Gauntlet",
-      "date": "2022-06-11"
-    },
-    {
-      "name": "Special Event: The Classic Thunderbolt (Anime Collaboration)",
-      "date": "2022-07-07"
-    },
-    {
-      "name": "Trainer Lodge, Trainer Lodge Merch",
-      "link": "https://www.pokemon.co.jp/goods/2022/08/220819_st01.html",
-      "date": "2022-08-25"
-    },
-    {
-      "name": "3rd Anniversary, First Buddy Move Pair (Ash and Pikachu)",
-      "date": "2022-08-28"
-    },
-    {
-      "name": "First scoutable generic pair (Sightseer Naomi and Sandslash)",
-      "date": "2022-09-22"
-    },
-    {
-      "name": "First Fair-Exclusive Sync Grid tiles (Sygna Suit Wally and Gardevoir)",
-      "date": "2022-09-28"
-    },
-    {
-      "name": "Celebrate Pokémon! (SV promotion)",
-      "date": "2022-11-18"
-    },
-    {
-      "name": "Main Character Customization, Check Successful Teams, Legendary Gauntlet Ranking",
-      "date": "2022-12-26"
-    },
-    {
-      "name": "Best Battle Beats Rally",
-      "date": "2022-09-01",
-      "link": "https://twitter.com/PokemonMasters/status/1565142404906319872"
-    },
-    {
-      "name": "First Neo Champion pair (Serena and Greninja)",
-      "date": "2022-11-30",
-      "link": "https://twitter.com/PokemonMasters/status/1565142404906319872"
-    },
-    {
-      "name": "Gigantamax Rally Sweepstakes (Leon and Charizard banner)",
-      "link": "https://twitter.com/PokemonMasters/status/1626054257047732231",
-      "date": "2023-02-16"
-    },
-    {
-      "name": "Best Battle Soundtrack Sweepstakes (Best Battle Beats Collection CD)",
-      "link": "https://twitter.com/PokemonMasters/status/1626823837089206272",
-      "date": "2023-02-18"
-    },
-    {
-      "name": "Pokémon Masters EX Best Battle Beats Collection Vol. 1",
-      "link": "https://www.youtube.com/watch?v=8kIFqHzoiOk",
-      "date": "2023-02-20"
-    },
-    {
-      "name": "Memories of Masters Fan Art Contest",
-      "date": "2023-02-22",
-      "link": "https://twitter.com/PokemonMasters/status/1628454587945345025"
-    },
-    {
-      "name": "Pokémon Center Revamp, Custom Loading Screen, Trainer Lodge Redecorating",
-      "date": "2023-02-25"
-    },
-    {
-      "name": "Trainer Lodge Snapshot Sweepstakes (Lodge photo album)",
-      "link": "https://twitter.com/PokemonMasters/status/1630448218256572417",
-      "date": "2023-02-28"
-    },
-    {
-      "name": "Celebrate 3.5 Years of Pokémas EX [JP] (Lodge poster)",
-      "link": "https://twitter.com/PokemonMasters/status/1630448461890871296",
-      "date": "2023-02-28"
-    },
-    {
-      "name": "New Remix Just Dropped: Battle! (Galar Gym Leader) (Pokémon Masters EX Special Version)",
-      "date": "2023-04-07",
-      "link": "https://www.youtube.com/watch?v=6bG8E604Eek"
-    },
-    {
-      "name": "Pokémon Masters EX Best Battle Beats Collection Vol. 2",
-      "link": "https://www.youtube.com/watch?v=B7jdewA53og",
-      "date": "2023-03-14"
-    },
-    {
-      "name": "Uniqlo Pokémon Masters Collaboration",
-      "date": "2023-04-17",
-      "link": "https://twitter.com/UNIQLO_JP/status/1647797034521440259"
-    },
-    {
-      "name": "New Remix: Battle! (Subway Boss) (Pokémon Masters EX Special Version)",
-      "date": "2023-04-21",
-      "link": "https://www.youtube.com/watch?v=fXAFMsAoWcU"
-    },
-    {
-      "name": "New sync pairs from Pokémon Legends: Arceus will arrive in Pokémon Masters EX!",
-      "date": "2023-05-27",
-      "link": "https://twitter.com/pokemonmasters/status/1662307751312211970"
-    },
-    {
-      "name": "Trailer: Travelers from Hisui Arrive in Pokémon Masters EX!, Uniqlo collab",
-      "date": "2023-05-29",
-      "link": "https://www.youtube.com/watch?v=JOwuP9csBfk"
-    },
-    {
-      "name": "First Hisui Sync Pair (Adaman and Leafeon)",
-      "date": "2023-05-31"
-    }
-  ]
-}
+[
+  {
+    "name": "DeNA's FY2018 Operating Results reveal a new Pokémon smartphone game",
+    "link": "https://dena.com/intl/ir/finance/result.html",
+    "date": "2019-05-10"
+  },
+  {
+    "name": "Pokémon Masters announced at the 2019 Pokémon Press Conference",
+    "link": "https://youtu.be/vTWkBjxvBok?t=1704",
+    "date": "2019-05-29"
+  },
+  {
+    "name": "Pokémon Masters | Animated Reveal Trailer",
+    "link": "https://www.youtube.com/watch?v=5LYyycD0YPA",
+    "weight": 2,
+    "date": "2019-06-27"
+  },
+  {
+    "name": "More Trainers, More Battles. 💥 Get Ready for Pokémon Masters!",
+    "link": "https://www.youtube.com/watch?v=QXuT7ZsrqRA",
+    "weight": 2,
+    "date": "2019-06-27"
+  },
+  {
+    "name": "Get ready to battle like never before in Pokémon Masters!",
+    "link": "https://www.youtube.com/watch?v=oIwGe83JUo8",
+    "date": "2019-07-18"
+  },
+  {
+    "name": "v1.0.0 (Soft launch in Singapore and Canada)",
+    "weight": 2,
+    "date": "2019-07-25"
+  },
+  {
+    "name": "Pokémon Masters playable at the 2019 Pokémon World Championships",
+    "link": "https://twitter.com/PokemonMasters/status/1159932448047882241",
+    "date": "2019-08-16"
+  },
+  {
+    "name": "1.1.0 (Official Release)",
+    "weight": 2,
+    "date": "2019-08-29"
+  },
+  {
+    "name": "1.1.1",
+    "date": "2019-09-06"
+  },
+  {
+    "name": "1.2.0",
+    "date": "2019-09-25"
+  },
+  {
+    "name": "1.2.1",
+    "date": "2019-10-08"
+  },
+  {
+    "name": "A Message from the Pokémon Masters Team (Vol. 1)",
+    "link": "https://pokemonmasters-game.com/en-US/announcements/Other_M2_W2_1",
+    "weight": 1,
+    "date": "2019-10-09"
+  },
+  {
+    "name": "A Message from the Pokémon Masters Team (Vol. 2)",
+    "link": "https://pokemonmasters-game.com/en-US/announcements/Other_M2_W3_3",
+    "date": "2019-10-17"
+  },
+  {
+    "name": "1.3.0",
+    "date": "2019-10-28"
+  },
+  {
+    "name": "1.3.1",
+    "date": "2019-11-05"
+  },
+  {
+    "name": "A Message from the Pokémon Masters Team (Vol. 3)",
+    "link": "https://pokemonmasters-game.com/en-US/announcements/Other_1100_W1_1",
+    "date": "2019-11-07"
+  },
+  {
+    "name": "Celebrate Pokémon! (SWSH promotion)",
+    "date": "2019-11-08"
+  },
+  {
+    "name": "1.4.0",
+    "date": "2019-11-25"
+  },
+  {
+    "name": "A Message from the Pokémon Masters Team (Vol. 4)",
+    "link": "https://www.youtube.com/watch?v=WyVXo6A5gRo",
+    "date": "2019-11-26"
+  },
+  {
+    "name": "First Seasonal Scouts (Rosa and Delibird, Siebold and Octillery)",
+    "date": "2019-12-12"
+  },
+  {
+    "name": "1.5.0",
+    "date": "2019-12-23"
+  },
+  {
+    "name": "First Poké Fair Scout (Lance and Dragonite)",
+    "date": "2019-12-26"
+  },
+  {
+    "name": "A Message from the Pokémon Masters Team (Vol. 5)",
+    "link": "https://pokemonmasters-game.com/en-US/announcements/Other_1120_1W_2",
+    "date": "2019-12-26"
+  },
+  {
+    "name": "A Message from the Pokémon Masters Team (Vol. 6)",
+    "link": "https://pokemonmasters-game.com/en-US/announcements/Other_1120_3W_1",
+    "date": "2020-01-15"
+  },
+  {
+    "name": "1.5.5",
+    "date": "2020-01-15"
+  },
+  {
+    "name": "1.6.0",
+    "date": "2020-01-27"
+  },
+  {
+    "name": "1.6.5",
+    "date": "2020-02-10"
+  },
+  {
+    "name": "1.6.6",
+    "date": "2020-02-14"
+  },
+  {
+    "name": "1.7.0",
+    "date": "2020-02-20"
+  },
+  {
+    "name": "Six Months of Sync Pairs in Pokémon Masters!",
+    "link": "https://www.youtube.com/watch?v=HahbHIIRgDY",
+    "date": "2020-02-27"
+  },
+  {
+    "name": "A Message from the Pokémon Masters Team (Vol. 7)",
+    "link": "https://pokemonmasters-game.com/en-US/announcements/Other_2020_1W_2",
+    "date": "2020-02-27"
+  },
+  {
+    "name": "1.7.1",
+    "date": "2020-02-27"
+  },
+  {
+    "name": "Six-Months Celebration",
+    "weight": 1,
+    "date": "2020-02-28"
+  },
+  {
+    "name": "Battle Villa",
+    "date": "2020-02-28"
+  },
+  {
+    "name": "Trainer Trainer [JP]",
+    "link": "https://twitter.com/pokemas_game/status/1233300808071958529",
+    "date": "2020-02-28"
+  },
+  {
+    "name": "A Message from the Pokémon Masters Team (Vol. 8)",
+    "link": "https://pokemonmasters-game.com/en-US/announcements/Other_2020_3W_2",
+    "date": "2020-03-13"
+  },
+  {
+    "name": "1.8.0",
+    "date": "2020-03-23"
+  },
+  {
+    "name": "1.8.5",
+    "date": "2020-04-08"
+  },
+  {
+    "name": "A Message from the Pokémon Masters Team (Vol. 9)",
+    "link": "https://pokemonmasters-game.com/en-US/announcements/Other_2030_4W_1",
+    "date": "2020-04-17"
+  },
+  {
+    "name": "Pokémon Eggs",
+    "date": "2020-04-27"
+  },
+  {
+    "name": "1.9.0",
+    "date": "2020-04-27"
+  },
+  {
+    "name": "A Message from the Pokémon Masters Team (Vol. 10)",
+    "link": "https://pokemonmasters-game.com/en-US/announcements/Other_2040_2W_1",
+    "date": "2020-05-08"
+  },
+  {
+    "name": "1.10.0",
+    "date": "2020-05-25"
+  },
+  {
+    "name": "1.10.5",
+    "date": "2020-06-08"
+  },
+  {
+    "name": "Legendary Arena",
+    "date": "2020-06-11"
+  },
+  {
+    "name": "A Message from the Pokémon Masters Team (Vol. 11)",
+    "link": "https://pokemonmasters-game.com/en-US/announcements/Other_2050_4W_1",
+    "date": "2020-06-11"
+  },
+  {
+    "name": "Celebrate Pokémon! (SWSH DLC promotion)",
+    "date": "2020-06-21"
+  },
+  {
+    "name": "1.11.0",
+    "date": "2020-06-25"
+  },
+  {
+    "name": "Special Event: Double Trouble (Movie 23 promotion)",
+    "date": "2020-07-09"
+  },
+  {
+    "name": "A Message from the Pokémon Masters Team (Vol. 12)",
+    "link": "https://pokemonmasters-game.com/en-US/announcements/Other_2060_3W_1",
+    "date": "2020-07-17"
+  },
+  {
+    "name": "Stamina",
+    "date": "2020-07-29"
+  },
+  {
+    "name": "1.12.0",
+    "date": "2020-07-29"
+  },
+  {
+    "name": "A Message from the Pokémon Masters Team | One-Year Anniversary",
+    "link": "https://www.youtube.com/watch?v=hNoFQr6fM_4",
+    "weight": 1,
+    "date": "2020-08-17"
+  },
+  {
+    "name": "Pokémon Masters renamed to Pokémon Masters EX",
+    "link": "https://pokemonmasters-game.com/en-US/announcements/Update_2080_1W_2",
+    "weight": 1,
+    "date": "2020-08-25"
+  },
+  {
+    "name": "2.0.0",
+    "weight": 2,
+    "date": "2020-08-25"
+  },
+  {
+    "name": "1st Anniversary",
+    "weight": 2,
+    "date": "2020-08-28"
+  },
+  {
+    "name": "Champion Stadium",
+    "link": "https://www.youtube.com/watch?v=BxPYKedhTL0",
+    "date": "2020-08-28"
+  },
+  {
+    "name": "Dream Team Maker",
+    "link": "https://dreamteam.pokemonmasters-game.com",
+    "date": "2020-08-28"
+  },
+  {
+    "name": "Pokémon Masters EX One-Year Anniversary Soundtrack Spotlight",
+    "link": "https://www.youtube.com/watch?v=RdJeMuPeC5M",
+    "date": "2020-09-07"
+  },
+  {
+    "name": "2.0.5",
+    "date": "2020-09-07"
+  },
+  {
+    "name": "Special Event: Blasting Off Again (Movie 23 promotion)",
+    "date": "2020-09-17"
+  },
+  {
+    "name": "2.1.0",
+    "date": "2020-09-28"
+  },
+  {
+    "name": "2.2.0",
+    "date": "2020-10-28"
+  },
+  {
+    "name": "A Message from the Pokémon Masters EX Team (Vol. 14)",
+    "link": "https://pokemonmasters-game.com/en-US/announcements/Other_2100_1W_1",
+    "date": "2020-10-30"
+  },
+  {
+    "name": "Leftover Gloria image found in the game's files",
+    "date": "2020-11-04"
+  },
+  {
+    "name": "2.2.5",
+    "date": "2020-11-04"
+  },
+  {
+    "name": "Gloria Debut Countdown and Make Way for Gloria login bonuses added to the game",
+    "date": "2020-11-11"
+  },
+  {
+    "name": "New Sync Pair Trailer (SWSH Sync Pair teaser)",
+    "link": "https://www.youtube.com/watch?v=21hQGgdzZOU",
+    "date": "2020-11-19"
+  },
+  {
+    "name": "A Message from the Pokémon Masters EX Team (Vol. 15)",
+    "link": "https://pokemonmasters-game.com/en-US/announcements/Other_2100_4W_1",
+    "date": "2020-11-25"
+  },
+  {
+    "name": "Gloria Sync Pair Introduction",
+    "link": "https://www.youtube.com/watch?v=7lJs_xyBOls",
+    "date": "2020-11-26"
+  },
+  {
+    "name": "2.3.0",
+    "date": "2020-11-26"
+  },
+  {
+    "name": "First Gen 8 Sync Pair (Gloria and Zacian)",
+    "weight": 2,
+    "date": "2020-11-30"
+  },
+  {
+    "name": "A Message from the Pokémon Masters EX Team (Vol. 16)",
+    "link": "https://pokemonmasters-game.com/en-US/announcements/Other_2110_3W_1",
+    "date": "2020-12-16"
+  },
+  {
+    "name": "2.4.0",
+    "date": "2020-12-21"
+  },
+  {
+    "name": "A Message from the Pokémon Masters EX Team (Vol. 17)",
+    "link": "https://pokemonmasters-game.com/en-US/announcements/Other_2120_4W_1",
+    "date": "2021-01-15"
+  },
+  {
+    "name": "2.5.0",
+    "date": "2021-01-26"
+  },
+  {
+    "name": "2.5.1",
+    "date": "2021-01-27"
+  },
+  {
+    "name": "A Message from the Pokémon Masters EX Team (Vol. 18)",
+    "link": "https://pokemonmasters-game.com/en-US/announcements/Other_3010_2W_1",
+    "date": "2021-02-11"
+  },
+  {
+    "name": "2.6.0",
+    "date": "2021-02-24"
+  },
+  {
+    "name": "1.5 Years Celebration",
+    "weight": 1,
+    "date": "2021-02-26"
+  },
+  {
+    "name": "First Master Fair Scout (Leon and Charizard)",
+    "date": "2021-02-26"
+  },
+  {
+    "name": "2.6.1",
+    "date": "2021-03-09"
+  },
+  {
+    "name": "A Message from the Pokémon Masters EX Team (Vol. 19)",
+    "link": "https://pokemonmasters-game.com/en-US/announcements/Other_3020_3W_1",
+    "date": "2021-03-15"
+  },
+  {
+    "name": "2.7.0",
+    "date": "2021-03-29"
+  },
+  {
+    "name": "A Message from the Pokémon Masters EX Team (Vol. 20)",
+    "link": "https://pokemonmasters-game.com/en-US/announcements/Other_3040_1W_1",
+    "date": "2021-04-26"
+  },
+  {
+    "name": "2.8.0",
+    "date": "2021-04-26"
+  },
+  {
+    "name": "2.8.1",
+    "date": "2021-04-30"
+  },
+  {
+    "name": "A Message from the Pokémon Masters EX Team (Vol. 21)",
+    "link": "https://pokemonmasters-game.com/en-US/announcements/Other_3040_3W_1",
+    "date": "2021-05-14"
+  },
+  {
+    "name": "2.9.0",
+    "date": "2021-05-27"
+  },
+  {
+    "name": "A Message from the Pokémon Masters EX Team (Vol. 22)",
+    "link": "https://pokemonmasters-game.com/en-US/announcements/Other_3060_1W_1",
+    "date": "2021-06-28"
+  },
+  {
+    "name": "2.10.0",
+    "date": "2021-06-28"
+  },
+  {
+    "name": "2.10.1",
+    "date": "2021-07-15"
+  },
+  {
+    "name": "A Message from the Pokémon Masters EX Team (Vol. 23)",
+    "link": "https://pokemonmasters-game.com/en-US/announcements/Other_3070_1W_1",
+    "date": "2021-07-26"
+  },
+  {
+    "name": "2.11.0",
+    "date": "2021-07-28"
+  },
+  {
+    "name": "2.11.1",
+    "date": "2021-08-10"
+  },
+  {
+    "name": "First Max Move pair (Leon and Eternatus)",
+    "date": "2021-08-12"
+  },
+  {
+    "name": "Pokémon Masters EX CharacterDex 2021 [JP]",
+    "link": "https://www.ndw.jp/nd2110-329/",
+    "date": "2021-08-20"
+  },
+  {
+    "name": "Pokémon Masters EX Two-Year Anniversary Celebration 🎉",
+    "link": "https://www.youtube.com/watch?v=QRNQe4Jpy_g",
+    "date": "2021-08-26"
+  },
+  {
+    "name": "A Message from the Pokémon Masters EX Team (Vol. 24)",
+    "link": "https://pokemonmasters-game.com/en-US/announcements/Other_3070_4W_1",
+    "date": "2021-08-26"
+  },
+  {
+    "name": "2.12.0",
+    "date": "2021-08-27"
+  },
+  {
+    "name": "2nd Anniversary",
+    "weight": 2,
+    "date": "2021-08-28"
+  },
+  {
+    "name": "Screenshot Sweepstakes (Lillie and Lunala TCG playmat)",
+    "link": "https://twitter.com/PokemonMasters/status/1431496772610895874",
+    "date": "2021-08-28"
+  },
+  {
+    "name": "2.12.5",
+    "date": "2021-09-14"
+  },
+  {
+    "name": "A Message from the Pokémon Masters EX Team (Vol. 25)",
+    "link": "https://pokemonmasters-game.com/en-US/announcements/Other_3080_4W_1",
+    "date": "2021-09-28"
+  },
+  {
+    "name": "2.13.0",
+    "date": "2021-09-28"
+  },
+  {
+    "name": "A Message from the Pokémon Masters EX Team (Vol. 26)",
+    "link": "https://pokemonmasters-game.com/en-US/announcements/Other_3090_4W_1",
+    "date": "2021-10-27"
+  },
+  {
+    "name": "2.14.0",
+    "date": "2021-10-27"
+  },
+  {
+    "name": "First Special Costume pair (Diantha and Keldeo)",
+    "date": "2021-10-29"
+  },
+  {
+    "name": "Celebrate Pokémon! (BDSP login bonus)",
+    "date": "2021-11-19"
+  },
+  {
+    "name": "Japanese voice actor credits in the Sync Pair viewer",
+    "date": "2021-11-24"
+  },
+  {
+    "name": "A Message from the Pokémon Masters EX Team (Vol. 27)",
+    "link": "https://pokemonmasters-game.com/en-US/announcements/Other_3100_4W_1",
+    "date": "2021-11-25"
+  },
+  {
+    "name": "2.15.0",
+    "date": "2021-11-25"
+  },
+  {
+    "name": "2.15.1",
+    "date": "2021-11-29"
+  },
+  {
+    "name": "2.16.0",
+    "date": "2021-12-21"
+  },
+  {
+    "name": "A Message from the Pokémon Masters EX Team (Vol. 28)",
+    "link": "https://pokemonmasters-game.com/en-US/announcements/Other_3110_4W_1",
+    "date": "2021-12-24"
+  },
+  {
+    "name": "2.16.1",
+    "date": "2021-12-27"
+  },
+  {
+    "name": "A Message from the Pokémon Masters EX Team (Vol. 29)",
+    "link": "https://pokemonmasters-game.com/en-US/announcements/Other_3110_4W_2",
+    "date": "2022-01-01"
+  },
+  {
+    "name": "2.16.2",
+    "date": "2022-01-11"
+  },
+  {
+    "name": "2.17.0",
+    "date": "2022-01-17"
+  },
+  {
+    "name": "A Message from the Pokémon Masters EX Team (Vol. 30)",
+    "link": "https://pokemonmasters-game.com/en-US/announcements/Other_3120_5W_1",
+    "date": "2022-01-25"
+  },
+  {
+    "name": "Celebrate Pokémon! (Legends Arceus login bonus)",
+    "date": "2022-01-28"
+  },
+  {
+    "name": "2.18.0",
+    "date": "2022-02-24"
+  },
+  {
+    "name": "2.5 Years Celebration",
+    "weight": 1,
+    "date": "2022-02-28"
+  },
+  {
+    "name": "Pokémon Masters EX Photobooth [JP]",
+    "link": "https://twitter.com/pokemoncenterPR/status/1495926355548114949",
+    "date": "2022-02-28"
+  },
+  {
+    "name": "A Message from the Pokémon Masters EX Team (Vol. 31)",
+    "link": "https://pokemonmasters-game.com/en-US/announcements/Other_4010_5W_1",
+    "date": "2022-02-28"
+  },
+  {
+    "name": "2.18.5",
+    "date": "2022-03-15"
+  },
+  {
+    "name": "A Message from the Pokémon Masters EX Team (Vol. 32)",
+    "link": "https://pokemonmasters-game.com/en-US/announcements/Other_4020_5W_1",
+    "date": "2022-03-29"
+  },
+  {
+    "name": "2.19.0",
+    "date": "2022-03-29"
+  },
+  {
+    "name": "A Message from the Pokémon Masters EX Team (Vol. 33)",
+    "link": "https://pokemonmasters-game.com/en-US/announcements/Other_4030_5W_1",
+    "date": "2022-04-25"
+  },
+  {
+    "name": "2.20.0",
+    "date": "2022-04-27"
+  },
+  {
+    "name": "2.20.1",
+    "date": "2022-04-28"
+  },
+  {
+    "name": "2.20.2",
+    "date": "2022-05-06"
+  },
+  {
+    "name": "A Message from the Pokémon Masters EX Team (Vol. 34)",
+    "link": "https://pokemonmasters-game.com/en-US/announcements/Other_4040_5W_1",
+    "date": "2022-05-26"
+  },
+  {
+    "name": "2.21.0",
+    "date": "2022-05-26"
+  },
+  {
+    "name": "Legendary Gauntlet",
+    "date": "2022-06-11"
+  },
+  {
+    "name": "A Message from the Pokémon Masters EX Team (Vol. 35)",
+    "link": "https://pokemonmasters-game.com/en-US/announcements/Other_4050_5W_1",
+    "date": "2022-06-28"
+  },
+  {
+    "name": "2.22.0",
+    "date": "2022-06-28"
+  },
+  {
+    "name": "Special Event: The Classic Thunderbolt (Anime Collaboration)",
+    "date": "2022-07-07"
+  },
+  {
+    "name": "A Message from the Pokémon Masters EX Team (Vol. 36)",
+    "link": "https://pokemonmasters-game.com/en-US/announcements/Other_4060_5W_1",
+    "date": "2022-07-22"
+  },
+  {
+    "name": "2.23.0",
+    "date": "2022-07-27"
+  },
+  {
+    "name": "2.23.5",
+    "date": "2022-08-08"
+  },
+  {
+    "name": "Master Sync Pair Ash & Pikachu, The Trainer Lodge | Pokémon Masters EX",
+    "link": "https://www.youtube.com/watch?v=yhu7yjELvbU",
+    "date": "2022-08-18"
+  },
+  {
+    "name": "Trainer Lodge",
+    "date": "2022-08-25"
+  },
+  {
+    "name": "Trainer Lodge Merch",
+    "link": "https://www.pokemon.co.jp/goods/2022/08/220819_st01.html",
+    "date": "2022-08-25"
+  },
+  {
+    "name": "A Message from the Pokémon Masters EX Team (Vol. 37)",
+    "link": "https://pokemonmasters-game.com/en-US/announcements/Other_4070_5W_1",
+    "date": "2022-08-25"
+  },
+  {
+    "name": "2.24.0",
+    "date": "2022-08-25"
+  },
+  {
+    "name": "3rd Anniversary",
+    "weight": 2,
+    "date": "2022-08-28"
+  },
+  {
+    "name": "First Buddy Move Pair (Ash and Pikachu)",
+    "date": "2022-08-28"
+  },
+  {
+    "name": "Best Battle Beats Rally",
+    "link": "https://twitter.com/PokemonMasters/status/1565142404906319872",
+    "date": "2022-09-01"
+  },
+  {
+    "name": "First scoutable generic pair (Sightseer Naomi and Sandslash)",
+    "date": "2022-09-22"
+  },
+  {
+    "name": "A Message from the Pokémon Masters EX Team (Vol. 38)",
+    "link": "https://pokemonmasters-game.com/en-US/announcements/Other_4080_5W_1",
+    "date": "2022-09-26"
+  },
+  {
+    "name": "2.25.0",
+    "date": "2022-09-26"
+  },
+  {
+    "name": "First Fair-Exclusive Sync Grid tiles (Sygna Suit Wally and Gardevoir)",
+    "date": "2022-09-28"
+  },
+  {
+    "name": "2.25.1",
+    "date": "2022-10-06"
+  },
+  {
+    "name": "A Message from the Pokémon Masters EX Team (Vol. 39)",
+    "link": "https://pokemonmasters-game.com/en-US/announcements/Other_4090_4W_1",
+    "date": "2022-10-27"
+  },
+  {
+    "name": "2.26.0",
+    "date": "2022-10-27"
+  },
+  {
+    "name": "Celebrate Pokémon! (SV promotion)",
+    "date": "2022-11-18"
+  },
+  {
+    "name": "A Message from the Pokémon Masters EX Team (Vol. 40)",
+    "link": "https://pokemonmasters-game.com/en-US/announcements/Other_4100_4W_1",
+    "date": "2022-11-28"
+  },
+  {
+    "name": "2.27.0",
+    "date": "2022-11-28"
+  },
+  {
+    "name": "First Neo Champion pair (Serena and Greninja)",
+    "link": "https://twitter.com/PokemonMasters/status/1565142404906319872",
+    "date": "2022-11-30"
+  },
+  {
+    "name": "A Message from the Pokémon Masters EX Team (Vol. 41)",
+    "link": "https://pokemonmasters-game.com/en-US/announcements/Other_4110_5W_1",
+    "date": "2022-12-24"
+  },
+  {
+    "name": "Main Character Customization",
+    "date": "2022-12-26"
+  },
+  {
+    "name": "Check Successful Teams",
+    "date": "2022-12-26"
+  },
+  {
+    "name": "Legendary Gauntlet Ranking",
+    "date": "2022-12-26"
+  },
+  {
+    "name": "2.28.0",
+    "date": "2022-12-26"
+  },
+  {
+    "name": "A Message from the Pokémon Masters EX Team (Vol. 42)",
+    "link": "https://pokemonmasters-game.com/en-US/announcements/Other_4120_5W_1",
+    "date": "2023-01-01"
+  },
+  {
+    "name": "A Message from the Pokémon Masters EX Team (Vol. 43)",
+    "link": "https://pokemonmasters-game.com/en-US/announcements/Other_4120_5W_4",
+    "date": "2023-01-27"
+  },
+  {
+    "name": "2.29.0",
+    "date": "2023-01-27"
+  },
+  {
+    "name": "2.29.1",
+    "date": "2023-01-31"
+  },
+  {
+    "name": "Gigantamax Rally Sweepstakes (Leon and Charizard banner)",
+    "link": "https://twitter.com/PokemonMasters/status/1626054257047732231",
+    "date": "2023-02-16"
+  },
+  {
+    "name": "Best Battle Soundtrack Sweepstakes (Best Battle Beats Collection CD)",
+    "link": "https://twitter.com/PokemonMasters/status/1626823837089206272",
+    "date": "2023-02-18"
+  },
+  {
+    "name": "Pokémon Masters EX Best Battle Beats Collection Vol. 1",
+    "link": "https://www.youtube.com/watch?v=8kIFqHzoiOk",
+    "date": "2023-02-20"
+  },
+  {
+    "name": "Memories of Masters Fan Art Contest",
+    "link": "https://twitter.com/PokemonMasters/status/1628454587945345025",
+    "date": "2023-02-22"
+  },
+  {
+    "name": "2.30.0",
+    "date": "2023-02-24"
+  },
+  {
+    "name": "Pokémon Center Revamp",
+    "date": "2023-02-25"
+  },
+  {
+    "name": "Custom Loading Screen",
+    "date": "2023-02-25"
+  },
+  {
+    "name": "Trainer Lodge Redecorating",
+    "date": "2023-02-25"
+  },
+  {
+    "name": "3.5 Years Celebration",
+    "weight": 1,
+    "date": "2023-02-28"
+  },
+  {
+    "name": "Trainer Lodge Snapshot Sweepstakes (Lodge photo album)",
+    "link": "https://twitter.com/PokemonMasters/status/1630448218256572417",
+    "date": "2023-02-28"
+  },
+  {
+    "name": "Celebrate 3.5 Years of Pokémas EX [JP] (Lodge poster)",
+    "link": "https://twitter.com/PokemonMasters/status/1630448461890871296",
+    "date": "2023-02-28"
+  },
+  {
+    "name": "A Message from the Pokémon Masters EX Team (Vol. 44)",
+    "link": "https://pokemonmasters-game.com/en-US/announcements/Other_5010_5W_1",
+    "date": "2023-02-28"
+  },
+  {
+    "name": "Pokémon Masters EX Best Battle Beats Collection Vol. 2",
+    "link": "https://www.youtube.com/watch?v=B7jdewA53og",
+    "date": "2023-03-14"
+  },
+  {
+    "name": "A Message from the Pokémon Masters EX Team (Vol. 45)",
+    "link": "https://pokemonmasters-game.com/en-US/announcements/Other_5020_5W_1",
+    "date": "2023-03-25"
+  },
+  {
+    "name": "2.31.0",
+    "date": "2023-03-29"
+  },
+  {
+    "name": "New Remix Just Dropped: Battle! (Galar Gym Leader) (Pokémon Masters EX Special Version)",
+    "link": "https://www.youtube.com/watch?v=6bG8E604Eek",
+    "date": "2023-04-07"
+  },
+  {
+    "name": "Uniqlo UT collaboration announcement",
+    "link": "https://twitter.com/UNIQLO_JP/status/1647797034521440259",
+    "date": "2023-04-17"
+  },
+  {
+    "name": "New Remix: Battle! (Subway Boss) (Pokémon Masters EX Special Version)",
+    "link": "https://www.youtube.com/watch?v=fXAFMsAoWcU",
+    "date": "2023-04-21"
+  },
+  {
+    "name": "A Message from the Pokémon Masters EX Team (Vol. 46)",
+    "link": "https://pokemonmasters-game.com/en-US/announcements/Other_5030_5W_1",
+    "date": "2023-04-25"
+  },
+  {
+    "name": "2.32.0",
+    "date": "2023-04-25"
+  },
+  {
+    "name": "New sync pairs from Pokémon Legends: Arceus will arrive in Pokémon Masters EX!",
+    "link": "https://twitter.com/pokemonmasters/status/1662307751312211970",
+    "date": "2023-05-27"
+  },
+  {
+    "name": "Travelers from Hisui Arrive in Pokémon Masters EX!",
+    "link": "https://www.youtube.com/watch?v=JOwuP9csBfk",
+    "date": "2023-05-29"
+  },
+  {
+    "name": "Pokémon Masters EX Uniqlo UT trailer",
+    "link": "https://www.youtube.com/watch?v=JOwuP9csBfk&t=87s",
+    "date": "2023-05-29"
+  },
+  {
+    "name": "A Message from the Pokémon Masters EX Team (Vol. 47)",
+    "link": "https://pokemonmasters-game.com/en-US/announcements/Other_5040_5W_1",
+    "date": "2023-05-29"
+  },
+  {
+    "name": "2.33.0",
+    "date": "2023-05-29"
+  },
+  {
+    "name": "First Hisui Sync Pair (Adaman and Leafeon)",
+    "weight": 2,
+    "date": "2023-05-31"
+  },
+  {
+    "name": "Memories of Masters Commemorative Video",
+    "link": "https://www.youtube.com/watch?v=7swxvCSbVgM",
+    "date": "2023-06-12"
+  }
+]
