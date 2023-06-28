@@ -224,11 +224,15 @@
   {"number": "0258", "name": "Meowth (Team Rocket)", "internal_name": "meowth", "status": "npc"},
   {"number": "0259", "name": "Sonia", "internal_name": "sania"},
 
+  {"number": "0262", "name": "Rose", "internal_name": "rose"},
+  {"number": "0263", "name": "Oleana", "internal_name": "olea"},
   {"number": "0264", "name": "Ash", "internal_name": "satoshi"},
   {"number": "0265", "name": "The Shadow Triad", "internal_name": "shadowtriad1", "status": "npc"},
   {"number": "0266", "name": "The Shadow Triad", "internal_name": "shadowtriad2", "status": "npc"},
   {"number": "0267", "name": "The Shadow Triad", "internal_name": "shadowtriad3", "status": "npc"},
 
+  {"number": "0280", "name": "Team Yell Grunt ♂", "internal_name": "yellm", "status": "npc"},
+  {"number": "0281", "name": "Team Yell Grunt ♀", "internal_name": "yellf", "status": "npc"},
   {"number": "0282", "name": "Ball Guy", "internal_name": "ballguy"},
 
   {"number": "0284", "name": "Adaman", "internal_name": "seki"},

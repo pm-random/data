@@ -3,6 +3,20 @@
     "title": "Current Version (non-playable)",
     "characters": [
       {
+        "name": "Team Yell Grunt ♂",
+        "date": "2023-06-28",
+        "images": [
+          "images/characters/render/ch0280_00_yellm.png"
+        ]
+      },
+      {
+        "name": "Team Yell Grunt ♀",
+        "date": "2023-06-28",
+        "images": [
+          "images/characters/render/ch0281_00_yellf.png"
+        ]
+      },
+      {
         "name": "Faba",
         "date": "2023-04-25",
         "notes": [
@@ -759,21 +773,6 @@
         "notes": [
           "The humanoid model present in this <a href='https://mega.nz/file/ME0wQB6S#VtbgwGDXNOH6UJWS_YE94jJO2J-oytYGMlyhOv83pdQ'>unused scout video</a>",
           "No voicelines"
-        ]
-      }
-    ]
-  },
-  {
-    "title": "Pokémon Presents",
-    "characters": [
-      {
-        "name": "Rose",
-        "date": "2021-08-18",
-        "images": [
-          "images/characters/announcement/presents-20210818.jpg"
-        ],
-        "notes": [
-          "<a href='https://www.youtube.com/watch?v=kdja9m4YlT4&t=252'>Video</a>"
         ]
       }
     ]

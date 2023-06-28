@@ -148,12 +148,12 @@
     ]
   },
   {
-    "name": "Ami Naga",
-    "name_jp": "名賀亜美",
+    "name": "Akira Kuwabara",
+    "name_jp": "くわばらあきら",
     "characters": [
       {
-        "id": "ch0031_00_fuu",
-        "name": "Tate"
+        "id": "ch0281_00_yellf",
+        "name": "Team Yell Grunt"
       }
     ]
   },
@@ -268,6 +268,10 @@
       {
         "id": "ch0030_00_ran",
         "name": "Liza"
+      },
+      {
+        "id": "ch0030_40_ran",
+        "name": "Liza (Summer 2023)"
       }
     ]
   },
@@ -342,6 +346,16 @@
       {
         "id": "ch0226_00_jupiter",
         "name": "Jupiter"
+      }
+    ]
+  },
+  {
+    "name": "Ayumi Nagao",
+    "name_jp": "長尾歩",
+    "characters": [
+      {
+        "id": "ch0263_00_olea",
+        "name": "Oleana"
       }
     ]
   },
@@ -540,16 +554,6 @@
       {
         "id": "ch0029_00_asuna",
         "name": "Flannery"
-      }
-    ]
-  },
-  {
-    "name": "Nodoka Hasegawa",
-    "name_jp": "長谷川暖",
-    "characters": [
-      {
-        "id": "ch0155_00_dracaena",
-        "name": "Drasna"
       }
     ]
   },
@@ -875,6 +879,16 @@
       {
         "id": "ch0136_00_platane",
         "name": "Professor Sycamore"
+      }
+    ]
+  },
+  {
+    "name": "Kazuhiro Yamaji",
+    "name_jp": "山路和弘",
+    "characters": [
+      {
+        "id": "ch0262_00_rose",
+        "name": "Rose"
       }
     ]
   },
@@ -1288,6 +1302,16 @@
     ]
   },
   {
+    "name": "Michitake Kikuchi",
+    "name_jp": "菊池通武",
+    "characters": [
+      {
+        "id": "ch0280_00_yellm",
+        "name": "Team Yell Grunt"
+      }
+    ]
+  },
+  {
     "name": "Michiyo Murase",
     "name_jp": "村瀬迪与",
     "characters": [
@@ -1440,6 +1464,16 @@
       {
         "id": "ch0170_40_arty",
         "name": "Burgh (Spring 2021)"
+      }
+    ]
+  },
+  {
+    "name": "Nodoka Hasegawa",
+    "name_jp": "長谷川暖",
+    "characters": [
+      {
+        "id": "ch0155_00_dracaena",
+        "name": "Drasna"
       }
     ]
   },
@@ -2650,6 +2684,20 @@
       {
         "id": "ch0109_40_kudari",
         "name": "Emmet (Special Costume)"
+      }
+    ]
+  },
+  {
+    "name": "Yuna Ogata",
+    "name_jp": "緒方佑奈",
+    "characters": [
+      {
+        "id": "ch0031_00_fuu",
+        "name": "Tate"
+      },
+      {
+        "id": "ch0031_40_fuu",
+        "name": "Tate (Summer 2023)"
       }
     ]
   },
