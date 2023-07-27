@@ -252,6 +252,16 @@
     ]
   },
   {
+    "name": "Aya Uchida",
+    "name_jp": "内田彩",
+    "characters": [
+      {
+        "id": "ch0289_00_nemo",
+        "name": "Nemona"
+      }
+    ]
+  },
+  {
     "name": "Ayahi Takagaki",
     "name_jp": "高垣彩陽",
     "characters": [
@@ -514,6 +524,10 @@
       {
         "id": "ch0243_80_yuri",
         "name": "Gloria (Dojo Uniform)"
+      },
+      {
+        "id": "ch0243_81_yuri",
+        "name": "Gloria (Alt. 2)"
       }
     ]
   },
@@ -1434,6 +1448,16 @@
     ]
   },
   {
+    "name": "Naomi Shindo",
+    "name_jp": "進藤尚美",
+    "characters": [
+      {
+        "id": "ch0175_00_gojika",
+        "name": "Olympia"
+      }
+    ]
+  },
+  {
     "name": "Naoya Miyase",
     "name_jp": "宮瀬尚也",
     "characters": [
@@ -2106,6 +2130,10 @@
       {
         "id": "ch0247_40_dande",
         "name": "Leon (Holiday 2021)"
+      },
+      {
+        "id": "ch0247_80_dande",
+        "name": "Leon (Alt.)"
       }
     ]
   },

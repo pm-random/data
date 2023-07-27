@@ -6,14 +6,14 @@
         "name": "Team Yell Grunt ♂",
         "date": "2023-06-28",
         "images": [
-          "images/characters/render/ch0280_00_yellm.png"
+          "images/characters/256/ch0280_00_yellm_256.ktx.png"
         ]
       },
       {
         "name": "Team Yell Grunt ♀",
         "date": "2023-06-28",
         "images": [
-          "images/characters/render/ch0281_00_yellf.png"
+          "images/characters/256/ch0281_00_yellf_256.ktx.png"
         ]
       },
       {
@@ -60,19 +60,6 @@
         "images": [
           "images/characters/256/ch0517_70_etherf_256.ktx.png",
           "images/characters/256/ch0648_00_etherf_256.ktx.png"
-        ]
-      },
-      {
-        "name": "Drasna",
-        "date": "2023-01-27",
-        "images": [
-          "images/characters/256/ch0155_00_dracaena_256.ktx.png",
-          "images/mindscapes/Tx_ch0155_00_dracaena_mindscape00.ktx.png"
-        ],
-        "notes": [
-          "Opponent in Kalos' Champion Stadium",
-          "Model, images, voice, etc only present since version 2.29.0",
-          "Previously only listed as ch0155_00_dracaena in db/master/pb/FieldTalkVoice.pb in versions 2.11.0 to 2.28.0"
         ]
       },
       {

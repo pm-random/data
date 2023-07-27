@@ -153,7 +153,7 @@
   {"number": "0152", "name": "Aaron", "internal_name": "ryo"},
   {"number": "0153", "name": "Glacia", "internal_name": "prim"},
   {"number": "0154", "name": "Bertha", "internal_name": "kikuno"},
-  {"number": "0155", "name": "Drasna", "internal_name": "dracaena", "status": "npc"},
+  {"number": "0155", "name": "Drasna", "internal_name": "dracaena"},
 
   {"number": "0157", "name": "Valerie", "internal_name": "mache"},
   {"number": "0158", "name": "Diantha", "internal_name": "carnet"},
@@ -165,6 +165,7 @@
   {"number": "0170", "name": "Burgh", "internal_name": "arty"},
   {"number": "0171", "name": "Chuck", "internal_name": "shijima", "status": "npc"},
 
+  {"number": "0175", "name": "Olympia", "internal_name": "gojika"},
   {"number": "0176", "name": "Lucian", "internal_name": "goyo"},
 
   {"number": "0178", "name": "Anabel", "internal_name": "lira"},
@@ -237,6 +238,8 @@
 
   {"number": "0284", "name": "Adaman", "internal_name": "seki"},
   {"number": "0285", "name": "Irida", "internal_name": "kai"},
+
+  {"number": "0289", "name": "Nemona", "internal_name": "nemo"},
 
   {"number": "0502", "name": "Team Aqua Grunt ♂", "internal_name": "aqua_shitappam", "status": "npc"},
   {"number": "0503", "name": "Team Aqua Grunt ♀", "internal_name": "aqua_shitappaf", "status": "npc"},
