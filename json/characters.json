@@ -1,5 +1,20 @@
 [
   {
+    "title": "Pokémon World Championships 2023",
+    "characters": [
+      {
+        "name": "Palmer",
+        "date": "2023-08-11",
+        "images": [
+          "images/characters/announcement/worlds-2023-palmer.png"
+        ],
+        "notes": [
+          "Appears in the <a href='https://twitter.com/pokemas_game/status/1689788720868945922'>Pokémon Masters EX photobooth</a> of the event"
+        ]
+      }
+    ]
+  },
+  {
     "title": "Current Version (non-playable)",
     "characters": [
       {
@@ -760,18 +775,6 @@
         "notes": [
           "The humanoid model present in this <a href='https://mega.nz/file/ME0wQB6S#VtbgwGDXNOH6UJWS_YE94jJO2J-oytYGMlyhOv83pdQ'>unused scout video</a>",
           "No voicelines"
-        ]
-      }
-    ]
-  },
-  {
-    "title": "Pokémon Masters Animated Trailer",
-    "characters": [
-      {
-        "name": "Palmer",
-        "date": "2019-06-27",
-        "images": [
-          "images/characters/announcement/sinnoh-frontier.png"
         ]
       }
     ]
