@@ -7,6 +7,7 @@
   {
     "name": "Pokémon Masters announced at the 2019 Pokémon Press Conference",
     "link": "https://youtu.be/vTWkBjxvBok?t=1704",
+    "weight": 2,
     "date": "2019-05-29"
   },
   {
@@ -27,7 +28,7 @@
     "date": "2019-07-18"
   },
   {
-    "name": "v1.0.0 (Soft launch in Singapore and Canada)",
+    "name": "1.0.0 (Soft launch in Singapore and Canada)",
     "weight": 2,
     "date": "2019-07-25"
   },
@@ -35,6 +36,12 @@
     "name": "Pokémon Masters playable at the 2019 Pokémon World Championships",
     "link": "https://twitter.com/PokemonMasters/status/1159932448047882241",
     "date": "2019-08-16"
+  },
+  {
+    "name": "Pokémon Masters News #01",
+    "weight": 1,
+    "date": "2019-08-27",
+    "link": "https://www.youtube.com/watch?v=ihJ0dcP1WuY"
   },
   {
     "name": "1.1.0 (Official Release)",
@@ -87,6 +94,7 @@
   },
   {
     "name": "A Message from the Pokémon Masters Team (Vol. 4)",
+    "weight": 1,
     "link": "https://www.youtube.com/watch?v=WyVXo6A5gRo",
     "date": "2019-11-26"
   },
@@ -135,6 +143,7 @@
   {
     "name": "Six Months of Sync Pairs in Pokémon Masters!",
     "link": "https://www.youtube.com/watch?v=HahbHIIRgDY",
+    "weight": 1,
     "date": "2020-02-27"
   },
   {
@@ -156,7 +165,7 @@
     "date": "2020-02-28"
   },
   {
-    "name": "Trainer Trainer [JP]",
+    "name": "Trainer Trainer sweatshirts [JP]",
     "link": "https://twitter.com/pokemas_game/status/1233300808071958529",
     "date": "2020-02-28"
   },
