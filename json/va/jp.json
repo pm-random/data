@@ -278,10 +278,6 @@
       {
         "id": "ch0105_00_rival2",
         "name": "Tina"
-      },
-      {
-        "id": "ch0105_01_rival2",
-        "name": "Tina"
       }
     ]
   },
@@ -1184,10 +1180,6 @@
       {
         "id": "ch0066_00_boss",
         "name": "Lear"
-      },
-      {
-        "id": "ch0066_01_boss",
-        "name": "Lear"
       }
     ]
   },
@@ -1648,10 +1640,6 @@
       {
         "id": "ch0064_00_rival",
         "name": "Paulo"
-      },
-      {
-        "id": "ch0064_01_rival",
-        "name": "Paulo"
       }
     ]
   },
@@ -1895,10 +1883,6 @@
     "characters": [
       {
         "id": "ch0067_00_leader1",
-        "name": "Rachel"
-      },
-      {
-        "id": "ch0067_01_leader1",
         "name": "Rachel"
       }
     ]
@@ -2211,10 +2195,6 @@
     "characters": [
       {
         "id": "ch0068_00_leader2",
-        "name": "Sawyer"
-      },
-      {
-        "id": "ch0068_01_leader2",
         "name": "Sawyer"
       }
     ]
