@@ -86,7 +86,8 @@
   {"number": "0084", "name": "Scientist", "internal_name": "kenkyuin", "status": "npc"},
   {"number": "0085", "name": "Rising Star", "internal_name": "hopef", "status": "npc"},
   {"number": "0086", "name": "Camper", "internal_name": "campm", "status": "npc"},
-
+  {"number": "0087", "name": "Masked Man", "internal_name": "shitappam", "status": "npc"},
+  {"number": "0088", "name": "Masked Woman", "internal_name": "shitappaf", "status": "npc"},
   {"number": "0089", "name": "N", "internal_name": "n"},
   {"number": "0090", "name": "Steven", "internal_name": "daigo"},
   {"number": "0091", "name": "Cynthia", "internal_name": "shirona"},
