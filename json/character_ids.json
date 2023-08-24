@@ -63,7 +63,7 @@
   {"number": "0061", "name": "Agatha", "internal_name": "kikuko"},
   {"number": "0062", "name": "Karen", "internal_name": "karin"},
   {"number": "0063", "name": "Marshal", "internal_name": "renbu"},
-  {"number": "0064", "name": "Paulo", "internal_name": "rival", "status": "npc"},
+  {"number": "0064", "name": "Paulo", "internal_name": "rival"},
   {"number": "0065", "name": "Professor Bellis", "internal_name": "professor", "status": "npc"},
   {"number": "0066", "name": "Lear", "internal_name": "boss"},
   {"number": "0067", "name": "Rachel", "internal_name": "leader1"},
@@ -104,7 +104,7 @@
   {"number": "0102", "name": "Bianca", "internal_name": "bell"},
   {"number": "0103", "name": "Tricia", "internal_name": "staff_shop", "status": "npc"},
   {"number": "0104", "name": "Trinnia", "internal_name": "staff_cafe", "status": "npc"},
-  {"number": "0105", "name": "Tina", "internal_name": "rival2", "status": "npc"},
+  {"number": "0105", "name": "Tina", "internal_name": "rival2"},
   {"number": "0106", "name": "Elesa", "internal_name": "kamitsure"},
   {"number": "0107", "name": "Cilan", "internal_name": "dent", "status": "npc"},
   {"number": "0108", "name": "Ingo", "internal_name": "nobori"},
@@ -133,17 +133,17 @@
   {"number": "0131", "name": "Clemont", "internal_name": "citron"},
   {"number": "0132", "name": "Alder", "internal_name": "adeku"},
   {"number": "0133", "name": "Silver", "internal_name": "shilver"},
-
+  {"number": "0134", "name": "Palmer", "internal_name": "kurotsugu"},
   {"number": "0135", "name": "Sidney", "internal_name": "kagetsu"},
   {"number": "0136", "name": "Professor Sycamore", "internal_name": "platane"},
   {"number": "0137", "name": "Professor Oak", "internal_name": "orchid1"},
 
   {"number": "0139", "name": "Shauna", "internal_name": "sana"},
   {"number": "0140", "name": "Giovanni", "internal_name": "sakaki"},
-  {"number": "0141", "name": "Archer", "internal_name": "apollo", "status": "npc"},
-  {"number": "0142", "name": "Ariana", "internal_name": "athena", "status": "npc"},
-  {"number": "0143", "name": "Petrel", "internal_name": "lambda", "status": "npc"},
-  {"number": "0144", "name": "Proton", "internal_name": "lance", "status": "npc"},
+  {"number": "0141", "name": "Archer", "internal_name": "apollo"},
+  {"number": "0142", "name": "Ariana", "internal_name": "athena"},
+  {"number": "0143", "name": "Petrel", "internal_name": "lambda"},
+  {"number": "0144", "name": "Proton", "internal_name": "lance"},
   {"number": "0145", "name": "Chili", "internal_name": "pod", "status": "npc"},
   {"number": "0146", "name": "Cress", "internal_name": "corn", "status": "npc"},
   {"number": "0147", "name": "Hugh", "internal_name": "hugh"},
@@ -187,9 +187,10 @@
 
   {"number": "0198", "name": "Lucy", "internal_name": "azami"},
 
+  {"number": "0203", "name": "Argenta", "internal_name": "kate"},
   {"number": "0204", "name": "Nita", "internal_name": "lanuit"},
   {"number": "0205", "name": "Evelyn", "internal_name": "lesoir"},
-  {"number": "0206", "name": "Dana", "internal_name": "lajournee", "status": "id-only"},
+  {"number": "0206", "name": "Dana", "internal_name": "lajournee"},
 
   {"number": "0212", "name": "Benga", "internal_name": "banjiro", "status": "id-only"},
 
@@ -259,10 +260,10 @@
   {"number": "0538", "name": "Team Galactic Grunt ♂", "internal_name": "gingam", "status": "npc"},
   {"number": "0539", "name": "Team Galactic Grunt ♀", "internal_name": "gingaf", "status": "npc"},
 
+  {"number": "0552", "name": "Gentleman", "internal_name": "gentleman", "status": "npc"},
+
   {"number": "0560", "name": "Team Skull Grunt ♂", "internal_name": "scullm", "status": "npc"},
   {"number": "0561", "name": "Team Skull Grunt ♀", "internal_name": "scullf", "status": "npc"},
-
-  {"number": "0552", "name": "Gentleman", "internal_name": "gentleman", "status": "npc"},
 
   {"number": "0608", "name": "Team Plasma Grunt ♂", "internal_name": "plasma_shitappam", "status": "npc"},
   {"number": "0609", "name": "Team Plasma Grunt ♀", "internal_name": "plasma_shitappaf", "status": "npc"},

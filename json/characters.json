@@ -1,20 +1,5 @@
 [
   {
-    "title": "Pokémon World Championships 2023",
-    "characters": [
-      {
-        "name": "Palmer",
-        "date": "2023-08-11",
-        "images": [
-          "images/characters/announcement/worlds-2023-palmer.jpg"
-        ],
-        "notes": [
-          "Appears in the <a href='https://twitter.com/pokemas_game/status/1689788720868945922'>Pokémon Masters EX photobooth</a> of the event"
-        ]
-      }
-    ]
-  },
-  {
     "title": "Current Version (non-playable)",
     "characters": [
       {
@@ -176,13 +161,6 @@
         ]
       },
       {
-        "name": "Dana",
-        "date": "2022-08-25",
-        "notes": [
-          "ch0206_00_lajournee referenced in one of Nita's model files (Actors/ch0204_00_lanuit/Models/ch0204_00_lanuit.figure)"
-        ]
-      },
-      {
         "name": "Team Aqua Grunt ♂",
         "date": "2022-07-27",
         "images": [
@@ -231,50 +209,6 @@
         ],
         "notes": [
           "Appears in the Strongest Fighters Solo Event"
-        ]
-      },
-      {
-        "name": "Archer",
-        "date": "2022-04-27",
-        "images": [
-          "images/characters/256/ch0141_00_apollo_256.ktx.png",
-          "images/mindscapes/Tx_ch0141_00_apollo_mindscape00.ktx.png"
-        ],
-        "notes": [
-          "Appears in Rocket Execs Assemble, and in the Johto Villain Arc"
-        ]
-      },
-      {
-        "name": "Ariana",
-        "date": "2022-04-27",
-        "images": [
-          "images/characters/256/ch0142_00_athena_256.ktx.png",
-          "images/mindscapes/Tx_ch0142_00_athena_mindscape00.ktx.png"
-        ],
-        "notes": [
-          "Appears in Rocket Execs Assemble, and in the Johto Villain Arc"
-        ]
-      },
-      {
-        "name": "Petrel",
-        "date": "2022-04-27",
-        "images": [
-          "images/characters/256/ch0143_00_lambda_256.ktx.png",
-          "images/mindscapes/Tx_ch0143_00_lambda_mindscape00.ktx.png"
-        ],
-        "notes": [
-          "Appears in Rocket Execs Assemble, and in the Johto Villain Arc"
-        ]
-      },
-      {
-        "name": "Proton",
-        "date": "2022-04-27",
-        "images": [
-          "images/characters/256/ch0144_00_lance_256.ktx.png",
-          "images/mindscapes/Tx_ch0144_00_lance_mindscape00.ktx.png"
-        ],
-        "notes": [
-          "Appears in Rocket Execs Assemble, and in the Johto Villain Arc"
         ]
       },
       {
@@ -362,19 +296,6 @@
         ],
         "notes": [
           "Appears in the Sinnoh Villain Arc"
-        ]
-      },
-      {
-        "name": "Tina",
-        "date": "2021-11-24",
-        "images": [
-          "images/characters/256/ch0105_00_rival2_256.ktx.png",
-          "images/mindscapes/beta/Tx_ch0105_00_rival2_mindscape00.ktx.png"
-        ],
-        "notes": [
-          "Appears in the Paulo Interlude of the Villain Arc, with Flareon",
-          "Sync Move image only present in versions 1.0.0 to 1.1.1",
-          "Previously known as Camilla in versions 1.0.0 to 1.1.1, before being removed"
         ]
       },
       {
@@ -492,14 +413,6 @@
         "date": "2019-07-25",
         "notes": [
           "Referenced in <code>db/master/pb/FieldTalkVoice.pb</code> file as ch0021_10_green"
-        ]
-      },
-      {
-        "name": "Paulo",
-        "date": "2019-07-25",
-        "images": [
-          "images/characters/256/ch0064_00_rival_256.ktx.png",
-          "images/mindscapes/Tx_ch0064_00_rival_mindscape00.ktx.png"
         ]
       },
       {

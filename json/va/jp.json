@@ -192,6 +192,16 @@
     ]
   },
   {
+    "name": "Atsumi Tanezaki",
+    "name_jp": "種﨑敦美",
+    "characters": [
+      {
+        "id": "ch0206_00_lajournee",
+        "name": "Dana"
+      }
+    ]
+  },
+  {
     "name": "Atsushi Abe",
     "name_jp": "阿部敦",
     "characters": [
@@ -267,6 +277,10 @@
     "characters": [
       {
         "id": "ch0105_00_rival2",
+        "name": "Tina"
+      },
+      {
+        "id": "ch0105_01_rival2",
         "name": "Tina"
       }
     ]
@@ -1296,6 +1310,16 @@
     ]
   },
   {
+    "name": "Megumi Okada",
+    "name_jp": "岡田恵",
+    "characters": [
+      {
+        "id": "ch0203_00_kate",
+        "name": "Argenta"
+      }
+    ]
+  },
+  {
     "name": "Michiko Kaiden",
     "name_jp": "鷄冠井美智子",
     "characters": [
@@ -1624,6 +1648,10 @@
       {
         "id": "ch0064_00_rival",
         "name": "Paulo"
+      },
+      {
+        "id": "ch0064_01_rival",
+        "name": "Paulo"
       }
     ]
   },
@@ -1662,6 +1690,10 @@
       {
         "id": "ch0021_80_green",
         "name": "Blue (Classic)"
+      },
+      {
+        "id": "ch0021_90_green",
+        "name": "Blue (Champion)"
       }
     ]
   },
@@ -1891,7 +1923,7 @@
   },
   {
     "name": "Shiori Sakurai",
-    "name_jp": "櫻井しおり",
+    "name_jp": "桜井しおり",
     "characters": [
       {
         "id": "ch0025_00_suzuna",
@@ -1968,6 +2000,10 @@
       {
         "id": "ch0000_80_red",
         "name": "Red"
+      },
+      {
+        "id": "ch0000_90_red",
+        "name": "Red (Champion)"
       }
     ]
   },
@@ -2156,6 +2192,16 @@
       {
         "id": "ch0073_09_karate",
         "name": "Black Belt [Team Break]"
+      }
+    ]
+  },
+  {
+    "name": "Takanori Hoshino",
+    "name_jp": "星野貴紀",
+    "characters": [
+      {
+        "id": "ch0134_00_kurotsugu",
+        "name": "Palmer"
       }
     ]
   },
@@ -2582,6 +2628,10 @@
       {
         "id": "ch0017_10_leaf",
         "name": "Sygna Suit Leaf"
+      },
+      {
+        "id": "ch0017_90_leaf",
+        "name": "Leaf (Champion)"
       }
     ]
   },
