@@ -167,7 +167,7 @@
 
   {"number": "0175", "name": "Olympia", "internal_name": "gojika"},
   {"number": "0176", "name": "Lucian", "internal_name": "goyo"},
-
+  {"number": "0177", "name": "Malva", "internal_name": "pachira", "status": "npc"},
   {"number": "0178", "name": "Anabel", "internal_name": "lira"},
 
   {"number": "0180", "name": "Tierno", "internal_name": "tierno", "status": "npc"},
