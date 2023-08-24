@@ -172,9 +172,7 @@
         "name": "Dana",
         "date": "2022-08-25",
         "notes": [
-          "ch0206_00_lajournee referenced in one of Nita's model files (Actors/ch0204_00_lanuit/Models/ch0204_00_lanuit.figure)",
-          "No model",
-          "No voicelines"
+          "ch0206_00_lajournee referenced in one of Nita's model files (Actors/ch0204_00_lanuit/Models/ch0204_00_lanuit.figure)"
         ]
       },
       {
@@ -459,9 +457,7 @@
         "name": "Benga",
         "date": "2020-10-28",
         "notes": [
-          "ch0212_00_banjiro referenced in one of Lisia's model files (Actors/ch0215_00_lutia/Models/ch0215_00_lutia.figure)",
-          "No model",
-          "No voicelines"
+          "ch0212_00_banjiro referenced in one of Lisia's model files (<code>Actors/ch0215_00_lutia/Models/ch0215_00_lutia.figure</code>)"
         ]
       },
       {
@@ -481,17 +477,14 @@
         ],
         "date": "2020-06-25",
         "notes": [
-          "Appears in the <a href='https://bulbapedia.bulbagarden.net/wiki/List_of_special_events_in_Pok%C3%A9mon_Masters_EX#Double_Trouble'>Double Trouble</a> and <a href='https://bulbapedia.bulbagarden.net/wiki/List_of_special_events_in_Pok%C3%A9mon_Masters_EX#Blasting_Off_Again'>Blasting Off Again</a> special events",
-          "Voiced by his anime voice actor"
+          "Appears in the <a href='https://bulbapedia.bulbagarden.net/wiki/List_of_special_events_in_Pok%C3%A9mon_Masters_EX#Double_Trouble'>Double Trouble</a> and <a href='https://bulbapedia.bulbagarden.net/wiki/List_of_special_events_in_Pok%C3%A9mon_Masters_EX#Blasting_Off_Again'>Blasting Off Again</a> special events"
         ]
       },
       {
         "name": "Blue (ch0021_10_green)",
         "date": "2019-07-25",
         "notes": [
-          "Listed in the db/master/pb/FieldTalkVoice.pb file as ch0021_10_green",
-          "No model",
-          "No voicelines"
+          "Referenced in <code>db/master/pb/FieldTalkVoice.pb</code> file as ch0021_10_green"
         ]
       },
       {
@@ -712,7 +705,7 @@
           "images/characters/beta/s000_tex_20.ktx.png"
         ],
         "notes": [
-          "Appears on the texture of a Terrain model (Terrain/s000/Textures/s000_tex_20.ktx)"
+          "Appears on the texture of a model (<code>Terrain/s000/Textures/s000_tex_20.ktx</code>)"
         ]
       },
       {
@@ -722,7 +715,7 @@
           "images/characters/beta/deck_04.ktx.png"
         ],
         "notes": [
-          "Used in an early version of the Gear menu (ui/image/Dialog/Deck/deck_04.ktx)"
+          "Used in an early version of the Gear menu (<code>ui/image/Dialog/Deck/deck_04.ktx</code>)"
         ]
       },
       {
@@ -733,27 +726,21 @@
           "images/mindscapes/beta/Tx_ch0000_01_red_mindscape00.ktx.png"
         ],
         "notes": [
-          "Model folder with ActorsConfig.json file",
-          "No model",
-          "No voicelines"
+          "Model folder present, but no model inside it"
         ]
       },
       {
         "name": "Red (ch0000_02_red)",
         "date": "2019-07-25",
         "notes": [
-          "Model folder with ActorsConfig.json file",
-          "No model",
-          "No voicelines"
+          "Model folder present, but no model inside it"
         ]
       },
       {
         "name": "Brock (ch0015_51_takeshi)",
         "date": "2019-07-25",
         "notes": [
-          "Model folder with ActorsConfig.json file",
-          "No model",
-          "No voicelines"
+          "Model folder present, but no model inside it"
         ]
       },
       {
@@ -773,8 +760,7 @@
           "images/characters/beta/common.png"
         ],
         "notes": [
-          "The humanoid model present in this <a href='https://mega.nz/file/ME0wQB6S#VtbgwGDXNOH6UJWS_YE94jJO2J-oytYGMlyhOv83pdQ'>unused scout video</a>",
-          "No voicelines"
+          "The humanoid model present in this <a href='https://mega.nz/file/ME0wQB6S#VtbgwGDXNOH6UJWS_YE94jJO2J-oytYGMlyhOv83pdQ'>unused scout video</a>"
         ]
       }
     ]
