@@ -840,11 +840,31 @@
     ]
   },
   {
+    "name": "Junta Terashima",
+    "name_jp": "寺島惇太",
+    "characters": [
+      {
+        "id": "ch0290_00_teru",
+        "name": "Rei"
+      }
+    ]
+  },
+  {
     "name": "KENN",
     "characters": [
       {
         "id": "ch0043_00_toki",
         "name": "Brawly"
+      }
+    ]
+  },
+  {
+    "name": "Kaede Hondo",
+    "name_jp": "本渡楓",
+    "characters": [
+      {
+        "id": "ch0291_00_sho",
+        "name": "Akari"
       }
     ]
   },
@@ -1160,6 +1180,10 @@
       {
         "id": "ch0049_00_fuyo",
         "name": "Phoebe"
+      },
+      {
+        "id": "ch0049_40_fuyo",
+        "name": "Phoebe (Fall 2023)"
       }
     ]
   },
@@ -1170,6 +1194,10 @@
       {
         "id": "ch0044_00_tsutsuji",
         "name": "Roxanne"
+      },
+      {
+        "id": "ch0044_40_tsutsuji",
+        "name": "Roxanne (Fall 2023)"
       }
     ]
   },
@@ -1560,6 +1588,16 @@
       {
         "id": "ch0116_41_hikari",
         "name": "Dawn (New Year's 2023)"
+      }
+    ]
+  },
+  {
+    "name": "Rie Takahashi",
+    "name_jp": "高橋里枝",
+    "characters": [
+      {
+        "id": "ch0169_00_aloe",
+        "name": "Lenora"
       }
     ]
   },

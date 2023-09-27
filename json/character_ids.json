@@ -163,6 +163,7 @@
   {"number": "0161", "name": "Hala", "internal_name": "hara"},
   {"number": "0162", "name": "Lucas", "internal_name": "koki"},
 
+  {"number": "0169", "name": "Lenora", "internal_name": "aloe"},
   {"number": "0170", "name": "Burgh", "internal_name": "arty"},
   {"number": "0171", "name": "Chuck", "internal_name": "shijima", "status": "npc"},
 
@@ -244,6 +245,8 @@
   {"number": "0285", "name": "Irida", "internal_name": "kai"},
 
   {"number": "0289", "name": "Nemona", "internal_name": "nemo"},
+  {"number": "0290", "name": "Rei", "internal_name": "teru"},
+  {"number": "0291", "name": "Akari", "internal_name": "sho"},
 
   {"number": "0502", "name": "Team Aqua Grunt ♂", "internal_name": "aqua_shitappam", "status": "npc"},
   {"number": "0503", "name": "Team Aqua Grunt ♀", "internal_name": "aqua_shitappaf", "status": "npc"},
