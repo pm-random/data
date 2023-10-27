@@ -235,7 +235,7 @@
   {"number": "0266", "name": "The Shadow Triad", "internal_name": "shadowtriad2", "status": "npc"},
   {"number": "0267", "name": "The Shadow Triad", "internal_name": "shadowtriad3", "status": "npc"},
 
-  {"number": "0269", "name": "Elaine", "internal_name": "ayumi", "status": "id-only"},
+  {"number": "0269", "name": "Elaine", "internal_name": "ayumi"},
 
   {"number": "0280", "name": "Team Yell Grunt ♂", "internal_name": "yellm", "status": "npc"},
   {"number": "0281", "name": "Team Yell Grunt ♀", "internal_name": "yellf", "status": "npc"},
@@ -247,6 +247,8 @@
   {"number": "0289", "name": "Nemona", "internal_name": "nemo"},
   {"number": "0290", "name": "Rei", "internal_name": "teru"},
   {"number": "0291", "name": "Akari", "internal_name": "sho"},
+
+  {"number": "0293", "name": "Penny", "internal_name": "button"},
 
   {"number": "0502", "name": "Team Aqua Grunt ♂", "internal_name": "aqua_shitappam", "status": "npc"},
   {"number": "0503", "name": "Team Aqua Grunt ♀", "internal_name": "aqua_shitappaf", "status": "npc"},
@@ -291,5 +293,8 @@
 
   {"number": "0651", "name": "Naomi (Sightseer)", "internal_name": "nanase"},
   {"number": "0652", "name": "Helena (Hex Maniac)", "internal_name": "sayoko"},
-  {"number": "0653", "name": "Kali (Furisode Girl)", "internal_name": "kirika"}
+  {"number": "0653", "name": "Kali (Furisode Girl)", "internal_name": "kirika"},
+  {"number": "0654", "name": "Poké Kid", "internal_name": "pokekidf", "excludeFromCount": true},
+
+  {"number": "0656", "name": "Eve (Poké Kid)", "internal_name": "ibu"}
 ]

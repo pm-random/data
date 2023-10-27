@@ -400,6 +400,10 @@
       {
         "id": "ch0011_00_homika",
         "name": "Roxie"
+      },
+      {
+        "id": "ch0011_10_homika",
+        "name": "Sygna Suit Roxie"
       }
     ]
   },
@@ -1017,6 +1021,10 @@
       {
         "id": "ch0256_00_nezz",
         "name": "Piers"
+      },
+      {
+        "id": "ch0256_10_nezz",
+        "name": "Sygna Suit Piers"
       }
     ]
   },
@@ -1440,6 +1448,30 @@
     ]
   },
   {
+    "name": "Miria Takagishi",
+    "name_jp": "高岸美里亜",
+    "characters": [
+      {
+        "id": "ch0654_00_pokekidf",
+        "name": "Poké Kid"
+      },
+      {
+        "id": "ch0656_00_ibu",
+        "name": "Eve (Poké Kid)"
+      }
+    ]
+  },
+  {
+    "name": "Misato Fukuen",
+    "name_jp": "福圓美里",
+    "characters": [
+      {
+        "id": "ch0293_00_button",
+        "name": "Penny"
+      }
+    ]
+  },
+  {
     "name": "Misuzu Togashi",
     "name_jp": "富樫美鈴",
     "characters": [
@@ -1758,6 +1790,16 @@
       {
         "id": "ch0097_00_mai",
         "name": "Marley"
+      }
+    ]
+  },
+  {
+    "name": "Satomi Akesaka",
+    "name_jp": "明坂聡美",
+    "characters": [
+      {
+        "id": "ch0269_00_ayumi",
+        "name": "Elaine"
       }
     ]
   },

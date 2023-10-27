@@ -3,13 +3,6 @@
     "title": "Current Version (non-playable)",
     "characters": [
       {
-        "name": "Elaine ?",
-        "date": "2023-06-28",
-        "notes": [
-          "ch0269_00_ayumi referenced in the Team Yell Grunts' model files (<code>Actors/ch0280_00_yellm/Motions/ch0280_00_yellm_110_cutin_trainer_cam.lmd</code> and <code>Actors/ch0281_00_yellf/Motions/ch0281_00_yellf_110_cutin_trainer_cam.lmd</code>)"
-        ]
-      },
-      {
         "name": "Team Yell Grunt ♂",
         "date": "2023-06-28",
         "images": [
@@ -386,16 +379,6 @@
         "date": "2020-10-28",
         "notes": [
           "ch0212_00_banjiro referenced in one of Lisia's model files (<code>Actors/ch0215_00_lutia/Models/ch0215_00_lutia.figure</code>)"
-        ]
-      },
-      {
-        "name": "Ryuki",
-        "images": [
-          "images/characters/256/ch0190_00_ryuki_256.ktx.png"
-        ],
-        "date": "2020-07-29",
-        "notes": [
-          "Appears in the <a href='https://bulbapedia.bulbagarden.net/wiki/List_of_story_events_in_Pok%C3%A9mon_Masters_EX#Summer_Superstars'>Summer Superstars</a> story event, with Turtonator"
         ]
       },
       {
