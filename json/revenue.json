@@ -41,6 +41,7 @@
     { "period": "2023-06", "values": [2, 1] },
     { "period": "2023-07", "values": [1, 0.9] },
     { "period": "2023-08", "values": [3, 2] },
-    { "period": "2023-09", "values": [3, 2] }
+    { "period": "2023-09", "values": [3, 2] },
+    { "period": "2023-10", "values": [1, 1] }
   ]
 }
