@@ -110,6 +110,10 @@
       {
         "id": "ch0101_41_mei",
         "name": "Rosa (Special Costume)"
+      },
+      {
+        "id": "ch0101_90_mei",
+        "name": "Rosa (Champion)"
       }
     ]
   },
@@ -218,6 +222,10 @@
       {
         "id": "ch0039_00_viola",
         "name": "Viola"
+      },
+      {
+        "id": "ch0039_40_viola",
+        "name": "Viola (Holiday 2023)"
       }
     ]
   },
@@ -927,6 +935,10 @@
       {
         "id": "ch0136_00_platane",
         "name": "Professor Sycamore"
+      },
+      {
+        "id": "ch0136_40_platane",
+        "name": "Sycamore (Holiday 2023)"
       }
     ]
   },
@@ -1510,6 +1522,10 @@
       {
         "id": "ch0100_00_kyohei",
         "name": "Nate"
+      },
+      {
+        "id": "ch0100_90_kyohei",
+        "name": "Nate (Champion)"
       }
     ]
   },
