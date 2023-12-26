@@ -249,6 +249,9 @@
   {"number": "0291", "name": "Akari", "internal_name": "sho"},
 
   {"number": "0293", "name": "Penny", "internal_name": "button"},
+  {"number": "0294", "name": "Grusha", "internal_name": "grusha"},
+
+  {"number": "0296", "name": "Iono", "internal_name": "nanjamo"},
 
   {"number": "0502", "name": "Team Aqua Grunt ♂", "internal_name": "aqua_shitappam", "status": "npc"},
   {"number": "0503", "name": "Team Aqua Grunt ♀", "internal_name": "aqua_shitappaf", "status": "npc"},
@@ -296,5 +299,8 @@
   {"number": "0653", "name": "Kali (Furisode Girl)", "internal_name": "kirika"},
   {"number": "0654", "name": "Poké Kid", "internal_name": "pokekidf", "excludeFromCount": true},
 
-  {"number": "0656", "name": "Eve (Poké Kid)", "internal_name": "ibu"}
+  {"number": "0656", "name": "Eve (Poké Kid)", "internal_name": "ibu"},
+
+  {"number": "0658", "name": "Katherine (Furisode Girl)", "internal_name": "karen"},
+  {"number": "0659", "name": "Furisode Girl", "internal_name": "furisodegirl", "excludeFromCount": true}
 ]

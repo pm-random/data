@@ -564,6 +564,16 @@
     ]
   },
   {
+    "name": "Fairouz Ai",
+    "name_jp": "ファイルーズあい",
+    "characters": [
+      {
+        "id": "ch0296_00_nanjamo",
+        "name": "Iono"
+      }
+    ]
+  },
+  {
     "name": "Fumitake Ishiguro",
     "name_jp": "石黒史剛",
     "characters": [
@@ -915,6 +925,20 @@
     ]
   },
   {
+    "name": "Kaori Ishihara",
+    "name_jp": "石原夏織",
+    "characters": [
+      {
+        "id": "ch0658_00_karen",
+        "name": "Katherine (Furisode Girl)"
+      },
+      {
+        "id": "ch0659_00_furisodegirl",
+        "name": "Furisode Girl"
+      }
+    ]
+  },
+  {
     "name": "Kaori Nazuka",
     "name_jp": "名塚佳織",
     "characters": [
@@ -959,6 +983,10 @@
       {
         "id": "ch0028_00_ibuki",
         "name": "Clair"
+      },
+      {
+        "id": "ch0028_40_ibuki",
+        "name": "Clair (New Year's 2024)"
       }
     ]
   },
@@ -1131,6 +1159,10 @@
       {
         "id": "ch0127_00_mikuri",
         "name": "Wallace"
+      },
+      {
+        "id": "ch0127_40_mikuri",
+        "name": "Wallace (New Year's 2024)"
       }
     ]
   },
@@ -1556,6 +1588,16 @@
       {
         "id": "ch0560_70_scullm",
         "name": "Team Skull Grunt"
+      }
+    ]
+  },
+  {
+    "name": "Natsuki Hanae",
+    "name_jp": "花江夏樹",
+    "characters": [
+      {
+        "id": "ch0294_00_grusha",
+        "name": "Grusha"
       }
     ]
   },
