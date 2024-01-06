@@ -28,6 +28,11 @@
     "date": "2019-07-18"
   },
   {
+    "name": "Famitsu interview with Yu Sasaki",
+    "link": "https://www.famitsu.com/news/201907/24180135.html",
+    "date": "2019-07-24"
+  },
+  {
     "name": "1.0.0 (Soft launch in Singapore and Canada)",
     "weight": 2,
     "date": "2019-07-25"
@@ -442,7 +447,7 @@
     "date": "2021-08-12"
   },
   {
-    "name": "Pokémon Masters EX CharacterDex 2021 [JP]",
+    "name": "Nintendo Dream #329 - Pokémon Masters EX CharacterDex 2021 [JP]",
     "link": "https://www.ndw.jp/nd2110-329/",
     "date": "2021-08-20"
   },
@@ -473,6 +478,11 @@
   {
     "name": "2.12.5",
     "date": "2021-09-14"
+  },
+  {
+    "name": "Weekly Famitsu 2021/09/16 (Producer interview for 2nd anniversary)",
+    "date": "2021-09-16",
+    "link": "https://www.famitsu.com/news/202109/02232242.html"
   },
   {
     "name": "A Message from the Pokémon Masters EX Team (Vol. 25)",
@@ -676,6 +686,11 @@
     "name": "Best Battle Beats Rally",
     "link": "https://twitter.com/PokemonMasters/status/1565142404906319872",
     "date": "2022-09-01"
+  },
+  {
+    "name": "Weekly Famitsu 2022/09/15 (Producer interview for 3rd anniversary)",
+    "date": "2022-09-15",
+    "link": "https://www.famitsu.com/news/202209/01274057.html"
   },
   {
     "name": "First scoutable generic pair (Sightseer Naomi and Sandslash)",
