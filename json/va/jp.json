@@ -96,6 +96,16 @@
     ]
   },
   {
+    "name": "Akeno Watanabe",
+    "name_jp": "渡辺明乃",
+    "characters": [
+      {
+        "id": "ch0279_00_kakeru",
+        "name": "Chase"
+      }
+    ]
+  },
+  {
     "name": "Aki Toyosaki",
     "name_jp": "豊崎愛生",
     "characters": [
@@ -676,6 +686,10 @@
       {
         "id": "ch0242_00_masaru",
         "name": "Victor"
+      },
+      {
+        "id": "ch0242_40_masaru",
+        "name": "Victor (Palentine's 2024)"
       }
     ]
   },
@@ -804,6 +818,16 @@
       {
         "id": "ch0192_00_matsubusa",
         "name": "Maxie"
+      }
+    ]
+  },
+  {
+    "name": "Jun Kasama",
+    "name_jp": "笠間淳",
+    "characters": [
+      {
+        "id": "ch0156_00_gen",
+        "name": "Riley"
       }
     ]
   },
@@ -1149,6 +1173,10 @@
       {
         "id": "ch0119_00_gladion",
         "name": "Gladion"
+      },
+      {
+        "id": "ch0119_10_gladion",
+        "name": "Sygna Suit Gladion"
       }
     ]
   },
@@ -1250,6 +1278,20 @@
       {
         "id": "ch0044_40_tsutsuji",
         "name": "Roxanne (Fall 2023)"
+      }
+    ]
+  },
+  {
+    "name": "Makoto Koichi",
+    "name_jp": "小市眞琴",
+    "characters": [
+      {
+        "id": "ch0655_00_pokekidm",
+        "name": "Poké Kid"
+      },
+      {
+        "id": "ch0657_00_chusuke",
+        "name": "Petey (Poké Kid)"
       }
     ]
   },
@@ -2050,6 +2092,10 @@
       {
         "id": "ch0025_00_suzuna",
         "name": "Candice"
+      },
+      {
+        "id": "ch0025_40_suzuna",
+        "name": "Candice (Palentine's 2024)"
       }
     ]
   },

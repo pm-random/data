@@ -155,7 +155,7 @@
   {"number": "0153", "name": "Glacia", "internal_name": "prim"},
   {"number": "0154", "name": "Bertha", "internal_name": "kikuno"},
   {"number": "0155", "name": "Drasna", "internal_name": "dracaena"},
-
+  {"number": "0156", "name": "Riley", "internal_name": "gen"},
   {"number": "0157", "name": "Valerie", "internal_name": "mache"},
   {"number": "0158", "name": "Diantha", "internal_name": "carnet"},
   {"number": "0159", "name": "Darach", "internal_name": "kokuran"},
@@ -237,6 +237,7 @@
 
   {"number": "0269", "name": "Elaine", "internal_name": "ayumi"},
 
+  {"number": "0279", "name": "Chase", "internal_name": "kakeru"},
   {"number": "0280", "name": "Team Yell Grunt ♂", "internal_name": "yellm", "status": "npc"},
   {"number": "0281", "name": "Team Yell Grunt ♀", "internal_name": "yellf", "status": "npc"},
   {"number": "0282", "name": "Ball Guy", "internal_name": "ballguy"},
@@ -298,9 +299,9 @@
   {"number": "0652", "name": "Helena (Hex Maniac)", "internal_name": "sayoko"},
   {"number": "0653", "name": "Kali (Furisode Girl)", "internal_name": "kirika"},
   {"number": "0654", "name": "Poké Kid", "internal_name": "pokekidf", "excludeFromCount": true},
-
+  {"number": "0655", "name": "Poké Kid", "internal_name": "pokekidm", "excludeFromCount": true},
   {"number": "0656", "name": "Eve (Poké Kid)", "internal_name": "ibu"},
-
+  {"number": "0657", "name": "Petey (Poké Kid)", "internal_name": "chusuke"},
   {"number": "0658", "name": "Katherine (Furisode Girl)", "internal_name": "karen"},
   {"number": "0659", "name": "Furisode Girl", "internal_name": "furisodegirl", "excludeFromCount": true}
 ]
