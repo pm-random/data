@@ -172,7 +172,7 @@
   {"number": "0177", "name": "Malva", "internal_name": "pachira", "status": "npc"},
   {"number": "0178", "name": "Anabel", "internal_name": "lira"},
 
-  {"number": "0180", "name": "Tierno", "internal_name": "tierno", "status": "npc"},
+  {"number": "0180", "name": "Tierno", "internal_name": "tierno"},
   {"number": "0181", "name": "Trevor", "internal_name": "trova", "status": "npc"},
 
   {"number": "0183", "name": "Molayne", "internal_name": "molayne"},
@@ -188,6 +188,7 @@
 
   {"number": "0198", "name": "Lucy", "internal_name": "azami"},
 
+  {"number": "0202", "name": "Dahlia", "internal_name": "dahlia"},
   {"number": "0203", "name": "Argenta", "internal_name": "kate"},
   {"number": "0204", "name": "Nita", "internal_name": "lanuit"},
   {"number": "0205", "name": "Evelyn", "internal_name": "lesoir"},
@@ -251,7 +252,7 @@
 
   {"number": "0293", "name": "Penny", "internal_name": "button"},
   {"number": "0294", "name": "Grusha", "internal_name": "grusha"},
-
+  {"number": "0295", "name": "Geeta", "internal_name": "omodaka"},
   {"number": "0296", "name": "Iono", "internal_name": "nanjamo"},
 
   {"number": "0502", "name": "Team Aqua Grunt ♂", "internal_name": "aqua_shitappam", "status": "npc"},

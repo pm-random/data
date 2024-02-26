@@ -300,6 +300,16 @@
     ]
   },
   {
+    "name": "Ayaka Fukuhara",
+    "name_jp": "福原綾香",
+    "characters": [
+      {
+        "id": "ch0202_00_dahlia",
+        "name": "Dahlia"
+      }
+    ]
+  },
+  {
     "name": "Ayako Kamegai",
     "name_jp": "亀谷理子",
     "characters": [
@@ -704,6 +714,16 @@
     ]
   },
   {
+    "name": "Hiroki Nanami",
+    "name_jp": "七海ひろき",
+    "characters": [
+      {
+        "id": "ch0295_00_omodaka",
+        "name": "Geeta"
+      }
+    ]
+  },
+  {
     "name": "Hiromichi Kogami",
     "name_jp": "小上裕通",
     "characters": [
@@ -931,6 +951,10 @@
       {
         "id": "ch0284_00_seki",
         "name": "Adaman"
+      },
+      {
+        "id": "ch0284_40_seki",
+        "name": "Adaman (Special Costume)"
       }
     ]
   },
@@ -1502,6 +1526,10 @@
       {
         "id": "ch0285_00_kai",
         "name": "Irida"
+      },
+      {
+        "id": "ch0285_40_kai",
+        "name": "Irida (Special Costume)"
       }
     ]
   },
@@ -2866,6 +2894,10 @@
       {
         "id": "ch0133_10_shilver",
         "name": "Sygna Suit Silver"
+      },
+      {
+        "id": "ch0133_90_shilver",
+        "name": "Silver (Champion)"
       }
     ]
   },
