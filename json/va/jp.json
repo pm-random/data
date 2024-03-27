@@ -2286,6 +2286,10 @@
       {
         "id": "ch0123_00_mizuki",
         "name": "Selene"
+      },
+      {
+        "id": "ch0123_40_mizuki",
+        "name": "Selene (Special Costume)"
       }
     ]
   },
@@ -2628,6 +2632,10 @@
       {
         "id": "ch0099_00_jun",
         "name": "Barry"
+      },
+      {
+        "id": "ch0099_40_jun",
+        "name": "Barry (Special Costume)"
       }
     ]
   },
@@ -2724,6 +2732,16 @@
       {
         "id": "ch0063_00_renbu",
         "name": "Marshal"
+      }
+    ]
+  },
+  {
+    "name": "Yoshimasa Hosoya",
+    "name_jp": "細谷佳正",
+    "characters": [
+      {
+        "id": "ch0297_00_volo",
+        "name": "Volo"
       }
     ]
   },
@@ -2898,6 +2916,16 @@
       {
         "id": "ch0133_90_shilver",
         "name": "Silver (Champion)"
+      }
+    ]
+  },
+  {
+    "name": "Yuki Uehara",
+    "name_jp": "上原裕希",
+    "characters": [
+      {
+        "id": "ch0298_00_zinnia",
+        "name": "Jacq"
       }
     ]
   },

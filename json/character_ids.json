@@ -254,6 +254,8 @@
   {"number": "0294", "name": "Grusha", "internal_name": "grusha"},
   {"number": "0295", "name": "Geeta", "internal_name": "omodaka"},
   {"number": "0296", "name": "Iono", "internal_name": "nanjamo"},
+  {"number": "0297", "name": "Volo", "internal_name": "volo"},
+  {"number": "0298", "name": "Jacq", "internal_name": "zinnia"},
 
   {"number": "0502", "name": "Team Aqua Grunt ♂", "internal_name": "aqua_shitappam", "status": "npc"},
   {"number": "0503", "name": "Team Aqua Grunt ♀", "internal_name": "aqua_shitappaf", "status": "npc"},
