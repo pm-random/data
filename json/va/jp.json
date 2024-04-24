@@ -730,6 +730,10 @@
       {
         "id": "ch0040_00_hachiku",
         "name": "Brycen"
+      },
+      {
+        "id": "ch0301_00_hachikuman",
+        "name": "Brycen-Man"
       }
     ]
   },
@@ -1348,6 +1352,16 @@
     ]
   },
   {
+    "name": "Maria Naganawa",
+    "name_jp": "長縄まりあ",
+    "characters": [
+      {
+        "id": "ch0303_00_poppy",
+        "name": "Poppy"
+      }
+    ]
+  },
+  {
     "name": "Marika Kohno",
     "name_jp": "高野麻里佳",
     "characters": [
@@ -1772,6 +1786,10 @@
       {
         "id": "ch0114_40_natsume",
         "name": "Sabrina (New Year's 2022)"
+      },
+      {
+        "id": "ch0300_00_jujube",
+        "name": "Bellelba"
       }
     ]
   },
@@ -1848,6 +1866,16 @@
       {
         "id": "ch0062_00_karin",
         "name": "Karen"
+      }
+    ]
+  },
+  {
+    "name": "Ryoko Shiraishi",
+    "name_jp": "白石涼子",
+    "characters": [
+      {
+        "id": "ch0302_00_chiri",
+        "name": "Rika"
       }
     ]
   },
