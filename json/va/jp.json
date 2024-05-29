@@ -222,6 +222,10 @@
       {
         "id": "ch0014_01_cheren",
         "name": "Cheren"
+      },
+      {
+        "id": "ch0014_90_cheren",
+        "name": "Cheren (Champion)"
       }
     ]
   },
@@ -945,6 +949,10 @@
       {
         "id": "ch0102_00_bell",
         "name": "Bianca"
+      },
+      {
+        "id": "ch0102_90_bell",
+        "name": "Bianca (Champion)"
       }
     ]
   },
@@ -1015,6 +1023,16 @@
       {
         "id": "ch0136_40_platane",
         "name": "Sycamore (Holiday 2023)"
+      }
+    ]
+  },
+  {
+    "name": "Kazuhiko Inoue",
+    "name_jp": "井上和彦",
+    "characters": [
+      {
+        "id": "ch0252_00_kabu",
+        "name": "Kabu"
       }
     ]
   },
@@ -1103,6 +1121,16 @@
       {
         "id": "ch0003_90_calme",
         "name": "Calem (Champion)"
+      }
+    ]
+  },
+  {
+    "name": "Kenyu Horiuchi",
+    "name_jp": "堀内賢雄",
+    "characters": [
+      {
+        "id": "ch0304_00_aoki",
+        "name": "Larry"
       }
     ]
   },

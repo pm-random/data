@@ -221,6 +221,7 @@
   {"number": "0249", "name": "Nessa", "internal_name": "rulina"},
   {"number": "0250", "name": "Bea", "internal_name": "saida"},
   {"number": "0251", "name": "Allister", "internal_name": "onion"},
+  {"number": "0252", "name": "Kabu", "internal_name": "kabu"},
 
   {"number": "0254", "name": "Gordie", "internal_name": "gordie"},
   {"number": "0255", "name": "Melony", "internal_name": "melon"},
@@ -261,6 +262,7 @@
   {"number": "0301", "name": "Brycen-Man", "internal_name": "hachikuman"},
   {"number": "0302", "name": "Rika", "internal_name": "chiri"},
   {"number": "0303", "name": "Poppy", "internal_name": "poppy"},
+  {"number": "0304", "name": "Larry", "internal_name": "aoki"},
 
   {"number": "0502", "name": "Team Aqua Grunt ♂", "internal_name": "aqua_shitappam", "status": "npc"},
   {"number": "0503", "name": "Team Aqua Grunt ♀", "internal_name": "aqua_shitappaf", "status": "npc"},
