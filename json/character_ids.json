@@ -187,7 +187,9 @@
   {"number": "0196", "name": "Lysandre", "internal_name": "fleurdelis"},
 
   {"number": "0198", "name": "Lucy", "internal_name": "azami"},
+  {"number": "0199", "name": "Greta", "internal_name": "kogomi"},
 
+  {"number": "0201", "name": "Brandon", "internal_name": "jindai", "status": "npc"},
   {"number": "0202", "name": "Dahlia", "internal_name": "dahlia"},
   {"number": "0203", "name": "Argenta", "internal_name": "kate"},
   {"number": "0204", "name": "Nita", "internal_name": "lanuit"},
@@ -238,6 +240,9 @@
   {"number": "0267", "name": "The Shadow Triad", "internal_name": "shadowtriad3", "status": "npc"},
 
   {"number": "0269", "name": "Elaine", "internal_name": "ayumi"},
+
+  {"number": "0272", "name": "Klara", "internal_name": "klara"},
+  {"number": "0273", "name": "Avery", "internal_name": "savory"},
 
   {"number": "0279", "name": "Chase", "internal_name": "kakeru"},
   {"number": "0280", "name": "Team Yell Grunt ♂", "internal_name": "yellm", "status": "npc"},

@@ -608,16 +608,6 @@
     ]
   },
   {
-    "name": "Haruka Ito",
-    "name_jp": "伊藤はるか",
-    "characters": [
-      {
-        "id": "ch0027_00_natane",
-        "name": "Gardenia"
-      }
-    ]
-  },
-  {
     "name": "Haruka Shamoto",
     "name_jp": "社本悠",
     "characters": [
@@ -920,6 +910,16 @@
       {
         "id": "ch0290_00_teru",
         "name": "Rei"
+      }
+    ]
+  },
+  {
+    "name": "Junya Enoki",
+    "name_jp": "榎木淳弥",
+    "characters": [
+      {
+        "id": "ch0273_00_savory",
+        "name": "Avery"
       }
     ]
   },
@@ -1422,6 +1422,16 @@
     ]
   },
   {
+    "name": "Mariya Ise",
+    "name_jp": "伊瀬茉莉也",
+    "characters": [
+      {
+        "id": "ch0199_00_kogomi",
+        "name": "Greta"
+      }
+    ]
+  },
+  {
     "name": "Masaaki Ihara",
     "name_jp": "伊原正明",
     "characters": [
@@ -1656,6 +1666,16 @@
       {
         "id": "ch0122_00_yo",
         "name": "Elio"
+      }
+    ]
+  },
+  {
+    "name": "Miyu Tomita",
+    "name_jp": "富田美憂",
+    "characters": [
+      {
+        "id": "ch0272_00_klara",
+        "name": "Klara"
       }
     ]
   },
@@ -2166,6 +2186,10 @@
       {
         "id": "ch0007_40_acerola",
         "name": "Acerola (Fall 2020)"
+      },
+      {
+        "id": "ch0007_41_acerola",
+        "name": "Acerola (Summer 2024)"
       }
     ]
   },
@@ -2584,6 +2608,16 @@
     ]
   },
   {
+    "name": "Tetsu Inada",
+    "name_jp": "稲田徹",
+    "characters": [
+      {
+        "id": "ch0201_00_jindai",
+        "name": "Brandon"
+      }
+    ]
+  },
+  {
     "name": "Tomoaki Maeno",
     "name_jp": "前野智昭",
     "characters": [
@@ -2842,6 +2876,20 @@
       {
         "id": "ch0108_40_nobori",
         "name": "Ingo (Special Costume)"
+      }
+    ]
+  },
+  {
+    "name": "Yu Serizawa",
+    "name_jp": "芹澤優",
+    "characters": [
+      {
+        "id": "ch0027_00_natane",
+        "name": "Gardenia"
+      },
+      {
+        "id": "ch0027_40_natane",
+        "name": "Gardenia (Summer 2024)"
       }
     ]
   },

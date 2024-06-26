@@ -3,6 +3,13 @@
     "title": "Current Version (non-playable)",
     "characters": [
       {
+        "name": "Brandon",
+        "date": "2024-06-26",
+        "images": [
+          "images/characters/render/brandon.png"
+        ]
+      },
+      {
         "name": "Team Yell Grunt ♂",
         "date": "2023-06-28",
         "images": [
