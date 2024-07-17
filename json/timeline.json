@@ -1309,6 +1309,10 @@
     "date": "2024-06-06"
   },
   {
+    "name": "2.45.1",
+    "date": "2024-06-12"
+  },
+  {
     "name": "Welcome Larry and Kabu Sweepstakes (Larry and Kabu framed print)",
     "link": "https://twitter.com/PokemonMasters/status/1801087549072376239",
     "date": "2024-06-13"
@@ -1331,5 +1335,9 @@
     "name": "End of support for Android 5.0 to 6.1",
     "link": "https://pokemonmasters-game.com/en-US/announcements/Other_6050_5W_1",
     "date": "2024-06-26"
+  },
+  {
+    "name": "2.46.1",
+    "date": "2024-07-10"
   }
 ]
