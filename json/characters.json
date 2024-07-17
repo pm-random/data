@@ -651,16 +651,6 @@
         "notes": [
           "No voicelines"
         ]
-      },
-      {
-        "name": "ch9999_00_common",
-        "date": "2019-07-25",
-        "images": [
-          "images/characters/beta/common.png"
-        ],
-        "notes": [
-          "The humanoid model present in this <a href='https://mega.nz/file/ME0wQB6S#VtbgwGDXNOH6UJWS_YE94jJO2J-oytYGMlyhOv83pdQ'>unused scout video</a>"
-        ]
       }
     ]
   }
