@@ -1,18 +1,18 @@
 [
-  {"id": "ch0065_00_professor", "path": "render/professor-bellis.png"},
+  {"id": "ch0065_00_professor", "path": "render/bellis.png"},
   {"id": "ch0093_00_staff_center", "path": "render/trista.png"},
   {"id": "ch0103_00_staff_shop", "path": "render/tricia.png"},
   {"id": "ch0104_00_staff_cafe", "path": "render/trinnia.png"},
-  {"id": "ch0184_00_saubohne", "path": "render/ch0184_00_saubohne.png"},
+  {"id": "ch0184_00_saubohne", "path": "render/faba.png"},
+  {"id": "ch0201_00_jindai", "path": "render/brandon.png"},
+  {"id": "ch0560_70_scullm", "path": "render/scullm.png"},
+  {"id": "ch0561_70_scullf", "path": "render/scullf.png"},
   {"id": "ch0266_00_shadowtriad2", "path": "256/ch0265_00_shadowtriad1_256.ktx.png"},
   {"id": "ch0267_00_shadowtriad3", "path": "256/ch0265_00_shadowtriad1_256.ktx.png"},
   {"id": "ch0531_70_sightseerf", "path": "256/ch0651_78_nanase_256.ktx.png"},
-  {"id": "ch0560_70_scullm", "path": "render/ch0561_70_scullf.png"},
-  {"id": "ch0561_70_scullf", "path": "render/ch0561_70_scullf.png"},
   {"id": "ch0652_68_sayoko", "path": "256/ch0521_60_hexmaniac_256.ktx.png"},
   {"id": "ch0653_68_kirika", "path": "256/ch0610_60_furisodegirl_256.ktx.png"},
   {"id": "ch0656_00_ibu", "path": "256/ch0654_00_pokekidf_256.ktx.png"},
   {"id": "ch0657_00_chusuke", "path": "256/ch0655_00_pokekidm_256.ktx.png"},
-  {"id": "ch0658_00_karen", "path": "256/ch0659_00_furisodegirl_256.ktx.png"},
-  {"id": "ch0201_00_jindai", "path": "render/brandon.png"}
+  {"id": "ch0658_00_karen", "path": "256/ch0659_00_furisodegirl_256.ktx.png"}
 ]

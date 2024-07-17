@@ -30,21 +30,21 @@
           "Appears in the Alola Villain Arc"
         ],
         "images": [
-          "images/characters/render/ch0184_00_saubohne.png"
+          "images/characters/render/faba.png"
         ]
       },
       {
         "name": "Team Skull Grunt ♂",
         "date": "2023-04-25",
         "images": [
-          "images/characters/render/ch0560_70_scullm.png"
+          "images/characters/render/scullm.png"
         ]
       },
       {
         "name": "Team Skull Grunt ♀",
         "date": "2023-04-25",
         "images": [
-          "images/characters/render/ch0561_70_scullf.png"
+          "images/characters/render/scullf.png"
         ]
       },
       {
@@ -290,7 +290,7 @@
       {
         "name": "Lady",
         "images": [
-          "images/characters/render/ch0522_10_lady.png"
+          "images/characters/render/lady.png"
         ],
         "date": "2021-09-28",
         "notes": [
@@ -300,7 +300,7 @@
       {
         "name": "Gentleman",
         "images": [
-          "images/characters/render/ch0552_20_gentleman.png"
+          "images/characters/render/gentleman.png"
         ],
         "date": "2021-09-28",
         "notes": [
@@ -310,7 +310,7 @@
       {
         "name": "Veteran ♂",
         "images": [
-          "images/characters/render/ch0613_60_veteranm.png"
+          "images/characters/render/veteranm.png"
         ],
         "date": "2021-09-28",
         "notes": [
@@ -320,7 +320,7 @@
       {
         "name": "Veteran ♀",
         "images": [
-          "images/characters/render/ch0614_60_veteranf.png"
+          "images/characters/render/veteranf.png"
         ],
         "date": "2021-09-28",
         "notes": [
@@ -330,7 +330,7 @@
       {
         "name": "Pokémon Breeder",
         "images": [
-          "images/characters/render/ch0623_30_pokemonbreederf.png"
+          "images/characters/render/breederf.png"
         ],
         "date": "2021-09-28",
         "notes": [
@@ -398,7 +398,7 @@
         "name": "Professor Bellis",
         "date": "2019-07-25",
         "images": [
-          "images/characters/render/professor-bellis.png"
+          "images/characters/render/bellis.png"
         ]
       },
       {
