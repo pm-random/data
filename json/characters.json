@@ -6,7 +6,7 @@
         "name": "Brandon",
         "date": "2024-06-26",
         "images": [
-          "images/characters/render/brandon.png"
+          "images/characters/render/brandon.jpg"
         ]
       },
       {
@@ -30,21 +30,21 @@
           "Appears in the Alola Villain Arc"
         ],
         "images": [
-          "images/characters/render/faba.png"
+          "images/characters/render/faba.jpg"
         ]
       },
       {
         "name": "Team Skull Grunt ♂",
         "date": "2023-04-25",
         "images": [
-          "images/characters/render/scullm.png"
+          "images/characters/render/scullm.jpg"
         ]
       },
       {
         "name": "Team Skull Grunt ♀",
         "date": "2023-04-25",
         "images": [
-          "images/characters/render/scullf.png"
+          "images/characters/render/scullf.jpg"
         ]
       },
       {
@@ -290,7 +290,7 @@
       {
         "name": "Lady",
         "images": [
-          "images/characters/render/lady.png"
+          "images/characters/render/lady.jpg"
         ],
         "date": "2021-09-28",
         "notes": [
@@ -300,7 +300,7 @@
       {
         "name": "Gentleman",
         "images": [
-          "images/characters/render/gentleman.png"
+          "images/characters/render/gentleman.jpg"
         ],
         "date": "2021-09-28",
         "notes": [
@@ -310,7 +310,7 @@
       {
         "name": "Veteran ♂",
         "images": [
-          "images/characters/render/veteranm.png"
+          "images/characters/render/veteranm.jpg"
         ],
         "date": "2021-09-28",
         "notes": [
@@ -320,7 +320,7 @@
       {
         "name": "Veteran ♀",
         "images": [
-          "images/characters/render/veteranf.png"
+          "images/characters/render/veteranf.jpg"
         ],
         "date": "2021-09-28",
         "notes": [
@@ -330,7 +330,7 @@
       {
         "name": "Pokémon Breeder ♀",
         "images": [
-          "images/characters/render/breederf.png"
+          "images/characters/render/pokemonbreederf.jpg"
         ],
         "date": "2021-09-28",
         "notes": [
@@ -398,7 +398,7 @@
         "name": "Professor Bellis",
         "date": "2019-07-25",
         "images": [
-          "images/characters/render/bellis.png"
+          "images/characters/render/bellis.jpg"
         ]
       },
       {
@@ -545,21 +545,21 @@
         "name": "Trista",
         "date": "2019-07-25",
         "images": [
-          "images/characters/render/trista.png"
+          "images/characters/render/trista.jpg"
         ]
       },
       {
         "name": "Tricia",
         "date": "2019-07-25",
         "images": [
-          "images/characters/render/tricia.png"
+          "images/characters/render/tricia.jpg"
         ]
       },
       {
         "name": "Trinnia",
         "date": "2019-07-25",
         "images": [
-          "images/characters/render/trinnia.png"
+          "images/characters/render/trinnia.jpg"
         ]
       }
     ]
@@ -646,7 +646,7 @@
         "name": "Ace Trainer ♂ (ORAS)",
         "date": "2019-07-25",
         "images": [
-          "images/characters/beta/ace-trainer-oras.png"
+          "images/characters/beta/elitem.jpg"
         ],
         "notes": [
           "No voicelines"
