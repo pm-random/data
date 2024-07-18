@@ -178,7 +178,7 @@
   {"number": "0183", "name": "Molayne", "internal_name": "molayne"},
   {"number": "0184", "name": "Faba", "internal_name": "saubohne", "status": "npc"},
 
-  {"number": "0190", "name": "Ryuki", "internal_name": "ryuki", "status": "npc"},
+  {"number": "0190", "name": "Ryuki", "internal_name": "ryuki"},
   {"number": "0191", "name": "Colress", "internal_name": "achroma"},
   {"number": "0192", "name": "Maxie", "internal_name": "matsubusa"},
   {"number": "0193", "name": "Archie", "internal_name": "aogiri"},
