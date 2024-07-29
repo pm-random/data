@@ -3,6 +3,16 @@
     "title": "Current Version (non-playable)",
     "characters": [
       {
+        "name": "Benga",
+        "date": "2024-07-29",
+        "notes": [
+          "Previously (28/10/2020) only referenced as ch0212_00_banjiro in one of Lisia's model files (<code>Actors/ch0215_00_lutia/Models/ch0215_00_lutia.figure</code>)"
+        ],
+        "images": [
+          "images/characters/render/benga.jpg"          
+        ]
+      },
+      {
         "name": "Brandon",
         "date": "2024-06-26",
         "images": [
@@ -368,13 +378,6 @@
         "date": "2021-05-27",
         "notes": [
           "Appears in the <a href='https://bulbapedia.bulbagarden.net/wiki/List_of_story_events_in_Pok%C3%A9mon_Masters_EX#Masters_of_Land_and_Sea'>Masters of Land and Sea</a> story event and the Hoenn Villain Arc"
-        ]
-      },
-      {
-        "name": "Benga",
-        "date": "2020-10-28",
-        "notes": [
-          "ch0212_00_banjiro referenced in one of Lisia's model files (<code>Actors/ch0215_00_lutia/Models/ch0215_00_lutia.figure</code>)"
         ]
       },
       {

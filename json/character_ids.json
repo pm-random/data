@@ -196,7 +196,7 @@
   {"number": "0205", "name": "Evelyn", "internal_name": "lesoir"},
   {"number": "0206", "name": "Dana", "internal_name": "lajournee"},
 
-  {"number": "0212", "name": "Benga", "internal_name": "banjiro", "status": "id-only"},
+  {"number": "0212", "name": "Benga", "internal_name": "banjiro", "status": "npc"},
 
   {"number": "0215", "name": "Lisia", "internal_name": "lutia"},
   {"number": "0216", "name": "Eusine", "internal_name": "minaki"},
@@ -268,6 +268,8 @@
   {"number": "0302", "name": "Rika", "internal_name": "chiri"},
   {"number": "0303", "name": "Poppy", "internal_name": "poppy"},
   {"number": "0304", "name": "Larry", "internal_name": "aoki"},
+
+  {"number": "0317", "name": "Arven", "internal_name": "pepper"},
 
   {"number": "0502", "name": "Team Aqua Grunt ♂", "internal_name": "aqua_shitappam", "status": "npc"},
   {"number": "0503", "name": "Team Aqua Grunt ♀", "internal_name": "aqua_shitappaf", "status": "npc"},

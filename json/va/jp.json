@@ -290,6 +290,10 @@
       {
         "id": "ch0289_00_nemo",
         "name": "Nemona"
+      },
+      {
+        "id": "ch0289_10_nemo",
+        "name": "Sygna Suit Nemona"
       }
     ]
   },
@@ -1338,6 +1342,16 @@
     ]
   },
   {
+    "name": "Makoto Furukawa",
+    "name_jp": "古川慎",
+    "characters": [
+      {
+        "id": "ch0317_00_pepper",
+        "name": "Arven"
+      }
+    ]
+  },
+  {
     "name": "Makoto Koichi",
     "name_jp": "小市眞琴",
     "characters": [
@@ -1666,6 +1680,10 @@
       {
         "id": "ch0122_00_yo",
         "name": "Elio"
+      },
+      {
+        "id": "ch0122_80_yo",
+        "name": "Elio (Alt.)"
       }
     ]
   },
@@ -2370,6 +2388,10 @@
       {
         "id": "ch0123_40_mizuki",
         "name": "Selene (Special Costume)"
+      },
+      {
+        "id": "ch0123_80_mizuki",
+        "name": "Selene (Alt.)"
       }
     ]
   },
@@ -3090,6 +3112,16 @@
       {
         "id": "ch0109_40_kudari",
         "name": "Emmet (Special Costume)"
+      }
+    ]
+  },
+  {
+    "name": "Yumiko Kobayashi",
+    "name_jp": "小林由美子",
+    "characters": [
+      {
+        "id": "ch0212_00_banjiro",
+        "name": "Benga"
       }
     ]
   },
