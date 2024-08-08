@@ -420,6 +420,11 @@
     "date": "2021-02-24"
   },
   {
+    "name": "Pokémon Presents (2.26.2021)",
+    "link": "https://www.youtube.com/watch?v=iTZeVNwAmkk&t=628s",
+    "date": "2021-02-26"
+  },
+  {
     "name": "1.5 Years Celebration",
     "weight": 1,
     "date": "2021-02-26"
@@ -511,6 +516,11 @@
   {
     "name": "First Max Move pair (Leon and Eternatus)",
     "date": "2021-08-12"
+  },
+  {
+    "name": "Pokémon Presents | 8.18.21",
+    "link": "https://www.youtube.com/watch?v=kdja9m4YlT4&t=183s",
+    "date": "2021-08-18"
   },
   {
     "name": "Nintendo Dream #329 - Pokémon Masters EX CharacterDex 2021 [JP]",
@@ -644,6 +654,11 @@
     "date": "2022-02-24"
   },
   {
+    "name": "Pokémon Presents | 2.27.2022",
+    "link": "https://www.youtube.com/watch?v=xoiwcdqMlCA&t=113s",
+    "date": "2022-02-27"
+  },
+  {
     "name": "2.5 Years Celebration",
     "weight": 1,
     "date": "2022-02-28"
@@ -662,6 +677,11 @@
     "name": "2.18.5",
     "icon": "images/app-icons/serena-ss.png",
     "date": "2022-03-15"
+  },
+  {
+    "name": "Pokémon Presents | 8.3.2022",
+    "link": "https://www.youtube.com/watch?v=ojiBuA97rdc&t=382s",
+    "date": "2022-08-03"
   },
   {
     "name": "A Message from the Pokémon Masters EX Team (Vol. 32)",
@@ -926,6 +946,11 @@
     "date": "2023-02-25"
   },
   {
+    "name": "Pokémon Presents | 2.27.2023",
+    "link": "https://www.youtube.com/watch?v=Qyfyd_t9mzs&t=673s",
+    "date": "2023-02-27"
+  },
+  {
     "name": "3.5 Years Celebration",
     "weight": 1,
     "date": "2023-02-28"
@@ -1022,8 +1047,8 @@
   },
   {
     "name": "The Pokémon Masters EX collaboration with UNIQLO UT is now available!",
-    "date": "2023-06-12",
-    "link": "https://twitter.com/PokemonMasters/status/1668090855230521345"
+    "link": "https://twitter.com/PokemonMasters/status/1668090855230521345",
+    "date": "2023-06-12"
   },
   {
     "name": "A Message from the Pokémon Masters EX Team (Vol. 48)",
@@ -1074,9 +1099,14 @@
     "date": "2023-08-08"
   },
   {
+    "name": "Pokémon Presents | 8.8.2023",
+    "link": "https://www.youtube.com/watch?v=61tCka2xsJY&t=834s",
+    "date": "2023-08-08"
+  },
+  {
     "name": "Welcome Nemona Sweepstakes (Nemona & Pawmot framed print)",
-    "date": "2023-08-08",
-    "link": "https://twitter.com/PokemonMasters/status/1688958615195987987"
+    "link": "https://twitter.com/PokemonMasters/status/1688958615195987987",
+    "date": "2023-08-08"
   },
   {
     "name": "First Field role Sync Pair (Victor and Spectrier)",
@@ -1307,6 +1337,11 @@
   {
     "name": "Pokémon Masters EX | 4.5 Year Celebration! 🥳",
     "link": "https://www.youtube.com/watch?v=t0BycSRu5MM",
+    "date": "2024-02-27"
+  },
+  {
+    "name": "Pokémon Presents | 2.27.2024",
+    "link": "https://www.youtube.com/watch?v=6Qi4COrQ7aA&t=215s",
     "date": "2024-02-27"
   },
   {
