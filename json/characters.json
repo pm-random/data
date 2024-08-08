@@ -455,13 +455,6 @@
         ]
       },
       {
-        "name": "Youngster",
-        "date": "2019-07-25",
-        "images": [
-          "images/characters/256/ch0074_00_tanpan_256.ktx.png"
-        ]
-      },
-      {
         "name": "Swimmer ♀",
         "date": "2019-07-25",
         "images": [
@@ -647,7 +640,7 @@
         ]
       },
       {
-        "name": "Ace Trainer ♂ (ORAS)",
+        "name": "ORAS Ace Trainer ♂ (ch0069_30_elitem)",
         "date": "2019-07-25",
         "images": [
           "images/characters/beta/elitem.jpg"

@@ -166,6 +166,11 @@
     "date": "2020-02-27"
   },
   {
+    "name": "Legends Only | Red and Charizard enter the fray in Pokémon Masters!",
+    "link": "https://www.youtube.com/watch?v=cfasshwtfKY",
+    "date": "2020-02-27"
+  },
+  {
     "name": "A Message from the Pokémon Masters Team (Vol. 7)",
     "link": "https://pokemonmasters-game.com/en-US/announcements/Other_2020_1W_2",
     "date": "2020-02-27"
@@ -1493,5 +1498,10 @@
     "name": "A Message from the Pokémon Masters EX Team (Vol. 64)",
     "link": "https://pokemonmasters-game.com/en-US/announcements/Other_6060_5W_1",
     "date": "2024-07-29"
+  },
+  {
+    "name": "2.47.1",
+    "icon": "images/app-icons/arven.png",
+    "date": "2020-08-08"
   }
 ]
