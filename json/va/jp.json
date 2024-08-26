@@ -1308,6 +1308,10 @@
         "name": "Lillie (Anniversary 2021)"
       },
       {
+        "id": "ch0118_51_lillie",
+        "name": "Lillie (Anniversary 2024)"
+      },
+      {
         "id": "ch0220_00_matiere",
         "name": "Emma"
       }
@@ -1342,6 +1346,16 @@
     ]
   },
   {
+    "name": "Mai Nakahara",
+    "name_jp": "中原麻衣",
+    "characters": [
+      {
+        "id": "ch0207_00_lematin",
+        "name": "Morgan"
+      }
+    ]
+  },
+  {
     "name": "Makoto Furukawa",
     "name_jp": "古川慎",
     "characters": [
@@ -1372,6 +1386,10 @@
       {
         "id": "ch0066_00_boss",
         "name": "Lear"
+      },
+      {
+        "id": "ch0066_10_boss",
+        "name": "Sygna Suit Lear"
       }
     ]
   },
@@ -1582,6 +1600,10 @@
       {
         "id": "ch0091_20_shirona",
         "name": "Sygna Suit Cynthia (Renegade)"
+      },
+      {
+        "id": "ch0091_90_shirona",
+        "name": "Arc Suit Cynthia"
       }
     ]
   },
@@ -2662,6 +2684,10 @@
       {
         "id": "ch0090_50_daigo",
         "name": "Steven (Anniversary 2021)"
+      },
+      {
+        "id": "ch0090_90_daigo",
+        "name": "Arc Suit Steven"
       }
     ]
   },
@@ -2734,6 +2760,10 @@
       {
         "id": "ch0111_40_wataru",
         "name": "Lance (New Year's 2021)"
+      },
+      {
+        "id": "ch0111_90_wataru",
+        "name": "Arc Suit Lance"
       }
     ]
   },

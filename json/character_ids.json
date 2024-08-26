@@ -165,15 +165,15 @@
 
   {"number": "0169", "name": "Lenora", "internal_name": "aloe"},
   {"number": "0170", "name": "Burgh", "internal_name": "arty"},
-  {"number": "0171", "name": "Chuck", "internal_name": "shijima", "status": "npc"},
+  {"number": "0171", "name": "Chuck", "internal_name": "shijima"},
 
   {"number": "0175", "name": "Olympia", "internal_name": "gojika"},
   {"number": "0176", "name": "Lucian", "internal_name": "goyo"},
-  {"number": "0177", "name": "Malva", "internal_name": "pachira", "status": "npc"},
+  {"number": "0177", "name": "Malva", "internal_name": "pachira"},
   {"number": "0178", "name": "Anabel", "internal_name": "lira"},
 
   {"number": "0180", "name": "Tierno", "internal_name": "tierno"},
-  {"number": "0181", "name": "Trevor", "internal_name": "trova", "status": "npc"},
+  {"number": "0181", "name": "Trevor", "internal_name": "trova"},
 
   {"number": "0183", "name": "Molayne", "internal_name": "molayne"},
   {"number": "0184", "name": "Faba", "internal_name": "saubohne", "status": "npc"},
@@ -195,6 +195,7 @@
   {"number": "0204", "name": "Nita", "internal_name": "lanuit"},
   {"number": "0205", "name": "Evelyn", "internal_name": "lesoir"},
   {"number": "0206", "name": "Dana", "internal_name": "lajournee"},
+  {"number": "0207", "name": "Morgan", "internal_name": "lematin"},
 
   {"number": "0212", "name": "Benga", "internal_name": "banjiro", "status": "npc"},
 

@@ -81,28 +81,6 @@
         ]
       },
       {
-        "name": "Malva",
-        "date": "2022-12-26",
-        "images": [
-          "images/characters/256/ch0177_00_pachira_256.ktx.png",
-          "images/mindscapes/Tx_ch0177_00_pachira_mindscape00.ktx.png"
-        ],
-        "notes": [
-          "Appears in the Kalos Villain Arc"
-        ]
-      },
-      {
-        "name": "Trevor",
-        "date": "2022-12-26",
-        "images": [
-          "images/characters/256/ch0181_00_trova_256.ktx.png",
-          "images/mindscapes/Tx_ch0181_00_trova_mindscape00.ktx.png"
-        ],
-        "notes": [
-          "Appears in Villain Event: Battle! Friends from Kalos and the Kalos Villain Arc"
-        ]
-      },
-      {
         "name": "Team Flare Grunt ♂",
         "date": "2022-12-26",
         "images": [
@@ -198,17 +176,6 @@
         ],
         "notes": [
           "Appears in the Hoenn Villain Arc"
-        ]
-      },
-      {
-        "name": "Chuck",
-        "date": "2022-06-28",
-        "images": [
-          "images/characters/256/ch0171_00_shijima_256.ktx.png",
-          "images/mindscapes/Tx_ch0171_00_shijima_mindscape00.ktx.png"
-        ],
-        "notes": [
-          "Appears in the Strongest Fighters Solo Event"
         ]
       },
       {
