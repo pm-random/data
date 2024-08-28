@@ -1,5 +1,20 @@
 [
   {
+    "title": "5th Anniversary Website",
+    "characters": [
+      {
+        "name": "Lillie (first outfit)",
+        "date": "2024-08-28",
+        "notes": [
+          "Official artwork used on the <a href='https://lillie.pokemonmasters-game.com'>Full-Powered Lillie Sweepstakes campaign page</a>"
+        ],
+        "images": [
+          "images/characters/announcement/lillie.webp"          
+        ]
+      }
+    ]
+  },
+  {
     "title": "Current Version (non-playable)",
     "characters": [
       {
