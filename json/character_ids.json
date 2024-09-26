@@ -271,6 +271,9 @@
   {"number": "0304", "name": "Larry", "internal_name": "aoki"},
 
   {"number": "0317", "name": "Arven", "internal_name": "pepper"},
+  {"number": "0318", "name": "Clavell", "internal_name": "claver"},
+
+  {"number": "0327", "name": "Giacomo", "internal_name": "pina"},
 
   {"number": "0502", "name": "Team Aqua Grunt ♂", "internal_name": "aqua_shitappam", "status": "npc"},
   {"number": "0503", "name": "Team Aqua Grunt ♀", "internal_name": "aqua_shitappaf", "status": "npc"},

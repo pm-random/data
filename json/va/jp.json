@@ -598,6 +598,10 @@
       {
         "id": "ch0296_00_nanjamo",
         "name": "Iono"
+      },
+      {
+        "id": "ch0296_40_nanjamo",
+        "name": "Iono (Fall 2024)"
       }
     ]
   },
@@ -2284,6 +2288,10 @@
       {
         "id": "ch0041_00_nejiki",
         "name": "Thorton"
+      },
+      {
+        "id": "ch0327_00_pina",
+        "name": "Giacomo"
       }
     ]
   },
@@ -2414,6 +2422,16 @@
       {
         "id": "ch0123_80_mizuki",
         "name": "Selene (Alt.)"
+      }
+    ]
+  },
+  {
+    "name": "Tadashi Wakabayashi",
+    "name_jp": "若林正",
+    "characters": [
+      {
+        "id": "ch0318_00_claver",
+        "name": "Clavell"
       }
     ]
   },
@@ -2980,6 +2998,10 @@
       {
         "id": "ch0024_00_shikimi",
         "name": "Shauntal"
+      },
+      {
+        "id": "ch0024_40_shikimi",
+        "name": "Shauntal (Fall 2024)"
       }
     ]
   },
