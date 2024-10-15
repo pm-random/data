@@ -1522,5 +1522,10 @@
     "name": "A Message from the Pokémon Masters EX Team (Vol. 66)",
     "link": "https://pokemonmasters-game.com/en-US/announcements/Other_6080_5W_1",
     "date": "2024-09-29"
+  },
+  {
+    "name": "2.49.1",
+    "icon": "images/app-icons/iono-sl.png",
+    "date": "2024-10-15"
   }
 ]
