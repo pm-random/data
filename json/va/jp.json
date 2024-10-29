@@ -172,6 +172,16 @@
     ]
   },
   {
+    "name": "Aoi Koga",
+    "name_jp": "古賀葵",
+    "characters": [
+      {
+        "id": "ch0187_00_sina",
+        "name": "Sina"
+      }
+    ]
+  },
+  {
     "name": "Ari Ozawa",
     "name_jp": "小澤亜李",
     "characters": [
@@ -188,6 +198,16 @@
       {
         "id": "ch0609_50_plasma_shitappaf",
         "name": "Team Plasma Grunt"
+      }
+    ]
+  },
+  {
+    "name": "Asami Seto",
+    "name_jp": "瀬戸麻沙美",
+    "characters": [
+      {
+        "id": "ch0330_00_biwa",
+        "name": "Eri"
       }
     ]
   },
@@ -1700,6 +1720,16 @@
     ]
   },
   {
+    "name": "Mitsuhiro Ichiki",
+    "name_jp": "市来光弘",
+    "characters": [
+      {
+        "id": "ch0188_00_dexio",
+        "name": "Dexio"
+      }
+    ]
+  },
+  {
     "name": "Mitsuki Saiga",
     "name_jp": "斎賀みつき",
     "characters": [
@@ -2944,6 +2974,10 @@
         "name": "Ingo"
       },
       {
+        "id": "ch0108_10_nobori",
+        "name": "Sygna Suit Ingo"
+      },
+      {
         "id": "ch0108_40_nobori",
         "name": "Ingo (Special Costume)"
       }
@@ -3160,6 +3194,10 @@
       {
         "id": "ch0109_00_kudari",
         "name": "Emmet"
+      },
+      {
+        "id": "ch0109_10_kudari",
+        "name": "Sygna Suit Emmet"
       },
       {
         "id": "ch0109_40_kudari",
